@@ -1,0 +1,714 @@
+<Document doc_name="/Users/antskez/SRLexamples/500MANUAL-CAT/wiki-1553..txt">
+  <token number="0" sentence="1" t_id="1">Ronde</token>
+  <token number="1" sentence="1" t_id="2">van</token>
+  <token number="2" sentence="1" t_id="3">Belgi&#195;&#171;</token>
+  <token number="0" sentence="2" t_id="7">De</token>
+  <token number="1" sentence="2" t_id="8">Ronde</token>
+  <token number="2" sentence="2" t_id="9">Van</token>
+  <token number="3" sentence="2" t_id="10">Belgi&#195;&#171;</token>
+  <token number="4" sentence="2" t_id="11">is</token>
+  <token number="5" sentence="2" t_id="12">een</token>
+  <token number="6" sentence="2" t_id="13">meerdaagse</token>
+  <token number="7" sentence="2" t_id="14">wielerwedstrijd</token>
+  <token number="8" sentence="2" t_id="15">die</token>
+  <token number="9" sentence="2" t_id="16">jaarlijks</token>
+  <token number="10" sentence="2" t_id="17">in</token>
+  <token number="11" sentence="2" t_id="18">Belgi&#195;&#171;</token>
+  <token number="12" sentence="2" t_id="19">wordt</token>
+  <token number="13" sentence="2" t_id="20">verreden</token>
+  <token number="14" sentence="2" t_id="21">.</token>
+  <token number="0" sentence="3" t_id="33">De</token>
+  <token number="1" sentence="3" t_id="34">wedstrijd</token>
+  <token number="2" sentence="3" t_id="35">werd</token>
+  <token number="3" sentence="3" t_id="36">voor</token>
+  <token number="4" sentence="3" t_id="37">het</token>
+  <token number="5" sentence="3" t_id="38">eerst</token>
+  <token number="6" sentence="3" t_id="39">in</token>
+  <token number="7" sentence="3" t_id="40">1908</token>
+  <token number="8" sentence="3" t_id="41">verreden</token>
+  <token number="9" sentence="3" t_id="42">en</token>
+  <token number="10" sentence="3" t_id="43">vervolgens</token>
+  <token number="11" sentence="3" t_id="44">met</token>
+  <token number="12" sentence="3" t_id="45">uitzondering</token>
+  <token number="13" sentence="3" t_id="46">van</token>
+  <token number="14" sentence="3" t_id="47">de</token>
+  <token number="15" sentence="3" t_id="48">beide</token>
+  <token number="16" sentence="3" t_id="49">wereldoorlogen</token>
+  <token number="17" sentence="3" t_id="50">jaarlijks</token>
+  <token number="18" sentence="3" t_id="51">tot</token>
+  <token number="19" sentence="3" t_id="52">en</token>
+  <token number="20" sentence="3" t_id="53">met</token>
+  <token number="21" sentence="3" t_id="54">1981</token>
+  <token number="22" sentence="3" t_id="55">.</token>
+  <token number="0" sentence="4" t_id="70">Toen</token>
+  <token number="1" sentence="4" t_id="71">ondervond</token>
+  <token number="2" sentence="4" t_id="72">de</token>
+  <token number="3" sentence="4" t_id="73">ronde</token>
+  <token number="4" sentence="4" t_id="74">het</token>
+  <token number="5" sentence="4" t_id="75">nadeel</token>
+  <token number="6" sentence="4" t_id="76">van</token>
+  <token number="7" sentence="4" t_id="77">de</token>
+  <token number="8" sentence="4" t_id="78">Belgische</token>
+  <token number="9" sentence="4" t_id="79">wielercultuur</token>
+  <token number="10" sentence="4" t_id="80">waar</token>
+  <token number="11" sentence="4" t_id="81">de</token>
+  <token number="12" sentence="4" t_id="82">nadruk</token>
+  <token number="13" sentence="4" t_id="83">veel</token>
+  <token number="14" sentence="4" t_id="84">meer</token>
+  <token number="15" sentence="4" t_id="85">op</token>
+  <token number="16" sentence="4" t_id="86">de</token>
+  <token number="17" sentence="4" t_id="87">eendaagse</token>
+  <token number="18" sentence="4" t_id="88">wedstrijden</token>
+  <token number="19" sentence="4" t_id="89">ligt</token>
+  <token number="20" sentence="4" t_id="90">.</token>
+  <token number="0" sentence="5" t_id="104">Ze</token>
+  <token number="1" sentence="5" t_id="105">is</token>
+  <token number="2" sentence="5" t_id="106">de</token>
+  <token number="3" sentence="5" t_id="107">twintig</token>
+  <token number="4" sentence="5" t_id="108">jaar</token>
+  <token number="5" sentence="5" t_id="109">die</token>
+  <token number="6" sentence="5" t_id="110">volgden</token>
+  <token number="7" sentence="5" t_id="111">af</token>
+  <token number="8" sentence="5" t_id="112">en</token>
+  <token number="9" sentence="5" t_id="113">toe</token>
+  <token number="10" sentence="5" t_id="114">georganiseerd</token>
+  <token number="11" sentence="5" t_id="115">,</token>
+  <token number="12" sentence="5" t_id="116">maar</token>
+  <token number="13" sentence="5" t_id="117">vanaf</token>
+  <token number="14" sentence="5" t_id="118">2002</token>
+  <token number="15" sentence="5" t_id="119">weer</token>
+  <token number="16" sentence="5" t_id="120">jaarlijks</token>
+  <token number="17" sentence="5" t_id="121">.</token>
+  <token number="0" sentence="6" t_id="148">Met</token>
+  <token number="1" sentence="6" t_id="149">de</token>
+  <token number="2" sentence="6" t_id="150">invoering</token>
+  <token number="3" sentence="6" t_id="151">van</token>
+  <token number="4" sentence="6" t_id="152">de</token>
+  <token number="5" sentence="6" t_id="153">UCI</token>
+  <token number="6" sentence="6" t_id="154">ProTour</token>
+  <token number="7" sentence="6" t_id="155">in</token>
+  <token number="8" sentence="6" t_id="156">2005</token>
+  <token number="9" sentence="6" t_id="157">leek</token>
+  <token number="10" sentence="6" t_id="158">de</token>
+  <token number="11" sentence="6" t_id="159">ronde</token>
+  <token number="12" sentence="6" t_id="160">op</token>
+  <token number="13" sentence="6" t_id="161">te</token>
+  <token number="14" sentence="6" t_id="162">gaan</token>
+  <token number="15" sentence="6" t_id="163">in</token>
+  <token number="16" sentence="6" t_id="164">de</token>
+  <token number="17" sentence="6" t_id="165">ENECO</token>
+  <token number="18" sentence="6" t_id="166">Tour</token>
+  <token number="19" sentence="6" t_id="167">,</token>
+  <token number="20" sentence="6" t_id="168">maar</token>
+  <token number="21" sentence="6" t_id="169">ze</token>
+  <token number="22" sentence="6" t_id="170">bleef</token>
+  <token number="23" sentence="6" t_id="171">toch</token>
+  <token number="24" sentence="6" t_id="172">bestaan</token>
+  <token number="25" sentence="6" t_id="173">.</token>
+  <token number="0" sentence="7" t_id="212">Ze</token>
+  <token number="1" sentence="7" t_id="213">maakt</token>
+  <token number="2" sentence="7" t_id="214">sindsdien</token>
+  <token number="3" sentence="7" t_id="215">deel</token>
+  <token number="4" sentence="7" t_id="216">uit</token>
+  <token number="5" sentence="7" t_id="217">van</token>
+  <token number="6" sentence="7" t_id="218">het</token>
+  <token number="7" sentence="7" t_id="219">Europese</token>
+  <token number="8" sentence="7" t_id="220">continentale</token>
+  <token number="9" sentence="7" t_id="221">circuit</token>
+  <token number="10" sentence="7" t_id="222">.</token>
+  <token number="0" sentence="8" t_id="227">De</token>
+  <token number="1" sentence="8" t_id="228">wedstrijd</token>
+  <token number="2" sentence="8" t_id="229">bestaat</token>
+  <token number="3" sentence="8" t_id="230">meestal</token>
+  <token number="4" sentence="8" t_id="231">uit</token>
+  <token number="5" sentence="8" t_id="232">een</token>
+  <token number="6" sentence="8" t_id="233">aantal</token>
+  <token number="7" sentence="8" t_id="234">ritten</token>
+  <token number="8" sentence="8" t_id="235">in</token>
+  <token number="9" sentence="8" t_id="236">lijn</token>
+  <token number="10" sentence="8" t_id="237">en</token>
+  <token number="11" sentence="8" t_id="238">&#195;&#169;&#195;&#169;n</token>
+  <token number="12" sentence="8" t_id="239">tijdrit</token>
+  <token number="13" sentence="8" t_id="240">.</token>
+  <token number="0" sentence="9" t_id="249">Het</token>
+  <token number="1" sentence="9" t_id="250">is</token>
+  <token number="2" sentence="9" t_id="251">hier</token>
+  <token number="3" sentence="9" t_id="252">waar</token>
+  <token number="4" sentence="9" t_id="253">de</token>
+  <token number="5" sentence="9" t_id="254">wedstrijd</token>
+  <token number="6" sentence="9" t_id="255">meestal</token>
+  <token number="7" sentence="9" t_id="256">wordt</token>
+  <token number="8" sentence="9" t_id="257">beslist</token>
+  <token number="9" sentence="9" t_id="258">.</token>
+  <token number="0" sentence="10" t_id="268">Overzicht</token>
+  <token number="1" sentence="10" t_id="269">winnaars</token>
+  <token number="0" sentence="11" t_id="272">2006</token>
+  <token number="1" sentence="11" t_id="273">-</token>
+  <token number="2" sentence="11" t_id="274">Maarten</token>
+  <token number="3" sentence="11" t_id="275">Tjallingii</token>
+  <token number="0" sentence="12" t_id="280">2005</token>
+  <token number="1" sentence="12" t_id="281">-</token>
+  <token number="2" sentence="12" t_id="282">Tom</token>
+  <token number="3" sentence="12" t_id="283">Boonen</token>
+  <token number="0" sentence="13" t_id="288">2004</token>
+  <token number="1" sentence="13" t_id="289">-</token>
+  <token number="2" sentence="13" t_id="290">Sylvain</token>
+  <token number="3" sentence="13" t_id="291">Chavanel</token>
+  <token number="0" sentence="14" t_id="296">2003</token>
+  <token number="1" sentence="14" t_id="297">-</token>
+  <token number="2" sentence="14" t_id="298">Michael</token>
+  <token number="3" sentence="14" t_id="299">Rogers</token>
+  <token number="0" sentence="15" t_id="304">2002</token>
+  <token number="1" sentence="15" t_id="305">-</token>
+  <token number="2" sentence="15" t_id="306">Bart</token>
+  <token number="3" sentence="15" t_id="307">Voskamp</token>
+  <token number="0" sentence="16" t_id="312">1990</token>
+  <token number="1" sentence="16" t_id="313">-</token>
+  <token number="2" sentence="16" t_id="314">Frans</token>
+  <token number="3" sentence="16" t_id="315">Maassen</token>
+  <token number="0" sentence="17" t_id="320">1989</token>
+  <token number="1" sentence="17" t_id="321">-</token>
+  <token number="2" sentence="17" t_id="322">Sean</token>
+  <token number="3" sentence="17" t_id="323">Yates</token>
+  <token number="0" sentence="18" t_id="328">1988</token>
+  <token number="1" sentence="18" t_id="329">-</token>
+  <token number="2" sentence="18" t_id="330">Frans</token>
+  <token number="3" sentence="18" t_id="331">Maassen</token>
+  <token number="0" sentence="19" t_id="336">1986</token>
+  <token number="1" sentence="19" t_id="337">-</token>
+  <token number="2" sentence="19" t_id="338">Nico</token>
+  <token number="3" sentence="19" t_id="339">Emonds</token>
+  <token number="0" sentence="20" t_id="344">1985</token>
+  <token number="1" sentence="20" t_id="345">-</token>
+  <token number="2" sentence="20" t_id="346">Ludo</token>
+  <token number="3" sentence="20" t_id="347">Peeters</token>
+  <token number="0" sentence="21" t_id="352">1984</token>
+  <token number="1" sentence="21" t_id="353">-</token>
+  <token number="2" sentence="21" t_id="354">Eddy</token>
+  <token number="3" sentence="21" t_id="355">Planckaert</token>
+  <token number="0" sentence="22" t_id="360">1981</token>
+  <token number="1" sentence="22" t_id="361">-</token>
+  <token number="2" sentence="22" t_id="362">Ad</token>
+  <token number="3" sentence="22" t_id="363">Wijnands</token>
+  <token number="0" sentence="23" t_id="368">1980</token>
+  <token number="1" sentence="23" t_id="369">-</token>
+  <token number="2" sentence="23" t_id="370">Gerrie</token>
+  <token number="3" sentence="23" t_id="371">Knetemann</token>
+  <token number="0" sentence="24" t_id="376">1979</token>
+  <token number="1" sentence="24" t_id="377">-</token>
+  <token number="2" sentence="24" t_id="378">Daniel</token>
+  <token number="3" sentence="24" t_id="379">Willems</token>
+  <token number="0" sentence="25" t_id="384">1978</token>
+  <token number="1" sentence="25" t_id="385">-</token>
+  <token number="2" sentence="25" t_id="386">Andr&#195;&#169;</token>
+  <token number="3" sentence="25" t_id="387">Dierickx</token>
+  <token number="0" sentence="26" t_id="392">1977</token>
+  <token number="1" sentence="26" t_id="393">-</token>
+  <token number="2" sentence="26" t_id="394">Walter</token>
+  <token number="3" sentence="26" t_id="395">Planckaert</token>
+  <token number="0" sentence="27" t_id="400">1976</token>
+  <token number="1" sentence="27" t_id="401">-</token>
+  <token number="2" sentence="27" t_id="402">Michel</token>
+  <token number="3" sentence="27" t_id="403">Pollentier</token>
+  <token number="0" sentence="28" t_id="408">1975</token>
+  <token number="1" sentence="28" t_id="409">-</token>
+  <token number="2" sentence="28" t_id="410">Freddy</token>
+  <token number="3" sentence="28" t_id="411">Maertens</token>
+  <token number="0" sentence="29" t_id="416">1974</token>
+  <token number="1" sentence="29" t_id="417">-</token>
+  <token number="2" sentence="29" t_id="418">Roger</token>
+  <token number="3" sentence="29" t_id="419">Swerts</token>
+  <token number="0" sentence="30" t_id="424">1973</token>
+  <token number="1" sentence="30" t_id="425">-</token>
+  <token number="2" sentence="30" t_id="426">Leif</token>
+  <token number="3" sentence="30" t_id="427">Mortensen</token>
+  <token number="0" sentence="31" t_id="432">1972</token>
+  <token number="1" sentence="31" t_id="433">-</token>
+  <token number="2" sentence="31" t_id="434">Roger</token>
+  <token number="3" sentence="31" t_id="435">Swerts</token>
+  <token number="0" sentence="32" t_id="440">1971</token>
+  <token number="1" sentence="32" t_id="441">-</token>
+  <token number="2" sentence="32" t_id="442">Eddy</token>
+  <token number="3" sentence="32" t_id="443">Merckx</token>
+  <token number="0" sentence="33" t_id="448">1970</token>
+  <token number="1" sentence="33" t_id="449">-</token>
+  <token number="2" sentence="33" t_id="450">Eddy</token>
+  <token number="3" sentence="33" t_id="451">Merckx</token>
+  <token number="0" sentence="34" t_id="456">1969</token>
+  <token number="1" sentence="34" t_id="457">-</token>
+  <token number="2" sentence="34" t_id="458">Eric</token>
+  <token number="3" sentence="34" t_id="459">De</token>
+  <token number="4" sentence="34" t_id="460">Vlaeminck</token>
+  <token number="0" sentence="35" t_id="465">1968</token>
+  <token number="1" sentence="35" t_id="466">-</token>
+  <token number="2" sentence="35" t_id="467">Wilfried</token>
+  <token number="3" sentence="35" t_id="468">David</token>
+  <token number="0" sentence="36" t_id="473">1967</token>
+  <token number="1" sentence="36" t_id="474">-</token>
+  <token number="2" sentence="36" t_id="475">Carmine</token>
+  <token number="3" sentence="36" t_id="476">Preziosi</token>
+  <token number="0" sentence="37" t_id="481">1966</token>
+  <token number="1" sentence="37" t_id="482">-</token>
+  <token number="2" sentence="37" t_id="483">Vittorio</token>
+  <token number="3" sentence="37" t_id="484">Adorni</token>
+  <token number="0" sentence="38" t_id="489">1965</token>
+  <token number="1" sentence="38" t_id="490">-</token>
+  <token number="2" sentence="38" t_id="491">Jean</token>
+  <token number="3" sentence="38" t_id="492">Stablinski</token>
+  <token number="0" sentence="39" t_id="497">1964</token>
+  <token number="1" sentence="39" t_id="498">-</token>
+  <token number="2" sentence="39" t_id="499">Benoni</token>
+  <token number="3" sentence="39" t_id="500">Beheyt</token>
+  <token number="0" sentence="40" t_id="505">1963</token>
+  <token number="1" sentence="40" t_id="506">-</token>
+  <token number="2" sentence="40" t_id="507">Peter</token>
+  <token number="3" sentence="40" t_id="508">Post</token>
+  <token number="0" sentence="41" t_id="513">1962</token>
+  <token number="1" sentence="41" t_id="514">-</token>
+  <token number="2" sentence="41" t_id="515">No&#195;&#171;l</token>
+  <token number="3" sentence="41" t_id="516">For&#195;&#169;</token>
+  <token number="0" sentence="42" t_id="521">1961</token>
+  <token number="1" sentence="42" t_id="522">-</token>
+  <token number="2" sentence="42" t_id="523">Rik</token>
+  <token number="3" sentence="42" t_id="524">van</token>
+  <token number="4" sentence="42" t_id="525">Looy</token>
+  <token number="0" sentence="43" t_id="530">1960</token>
+  <token number="1" sentence="43" t_id="531">-</token>
+  <token number="2" sentence="43" t_id="532">Alfons</token>
+  <token number="3" sentence="43" t_id="533">Sweeck</token>
+  <token number="0" sentence="44" t_id="538">1959</token>
+  <token number="1" sentence="44" t_id="539">-</token>
+  <token number="2" sentence="44" t_id="540">Armand</token>
+  <token number="3" sentence="44" t_id="541">Desmet</token>
+  <token number="0" sentence="45" t_id="546">1958</token>
+  <token number="1" sentence="45" t_id="547">-</token>
+  <token number="2" sentence="45" t_id="548">No&#195;&#171;l</token>
+  <token number="3" sentence="45" t_id="549">For&#195;&#169;</token>
+  <token number="0" sentence="46" t_id="554">1957</token>
+  <token number="1" sentence="46" t_id="555">-</token>
+  <token number="2" sentence="46" t_id="556">Pino</token>
+  <token number="3" sentence="46" t_id="557">Cerami</token>
+  <token number="0" sentence="47" t_id="562">1956</token>
+  <token number="1" sentence="47" t_id="563">-</token>
+  <token number="2" sentence="47" t_id="564">Andr&#195;&#169;</token>
+  <token number="3" sentence="47" t_id="565">Vlaeyen</token>
+  <token number="0" sentence="48" t_id="570">1955</token>
+  <token number="1" sentence="48" t_id="571">-</token>
+  <token number="2" sentence="48" t_id="572">Alex</token>
+  <token number="3" sentence="48" t_id="573">Close</token>
+  <token number="0" sentence="49" t_id="578">1954</token>
+  <token number="1" sentence="49" t_id="579">-</token>
+  <token number="2" sentence="49" t_id="580">Henri</token>
+  <token number="3" sentence="49" t_id="581">Van</token>
+  <token number="4" sentence="49" t_id="582">Kerckhove</token>
+  <token number="0" sentence="50" t_id="587">1953</token>
+  <token number="1" sentence="50" t_id="588">-</token>
+  <token number="2" sentence="50" t_id="589">Florent</token>
+  <token number="3" sentence="50" t_id="590">Rondele</token>
+  <token number="0" sentence="51" t_id="595">1952</token>
+  <token number="1" sentence="51" t_id="596">-</token>
+  <token number="2" sentence="51" t_id="597">Henri</token>
+  <token number="3" sentence="51" t_id="598">Van</token>
+  <token number="4" sentence="51" t_id="599">Kerckhove</token>
+  <token number="0" sentence="52" t_id="604">1951</token>
+  <token number="1" sentence="52" t_id="605">-</token>
+  <token number="2" sentence="52" t_id="606">Lucien</token>
+  <token number="3" sentence="52" t_id="607">Matthijs</token>
+  <token number="0" sentence="53" t_id="612">1950</token>
+  <token number="1" sentence="53" t_id="613">-</token>
+  <token number="2" sentence="53" t_id="614">Albert</token>
+  <token number="3" sentence="53" t_id="615">Dubiusson</token>
+  <token number="0" sentence="54" t_id="620">1949</token>
+  <token number="1" sentence="54" t_id="621">-</token>
+  <token number="2" sentence="54" t_id="622">Ernest</token>
+  <token number="3" sentence="54" t_id="623">Sterckx</token>
+  <token number="0" sentence="55" t_id="628">1948</token>
+  <token number="1" sentence="55" t_id="629">-</token>
+  <token number="2" sentence="55" t_id="630">Stan</token>
+  <token number="3" sentence="55" t_id="631">Ockers</token>
+  <token number="0" sentence="56" t_id="636">1947</token>
+  <token number="1" sentence="56" t_id="637">-</token>
+  <token number="2" sentence="56" t_id="638">Maurice</token>
+  <token number="3" sentence="56" t_id="639">Van</token>
+  <token number="4" sentence="56" t_id="640">Herzele</token>
+  <token number="0" sentence="57" t_id="645">1946</token>
+  <token number="1" sentence="57" t_id="646">-</token>
+  <token number="2" sentence="57" t_id="647">Albert</token>
+  <token number="3" sentence="57" t_id="648">Ramon</token>
+  <token number="0" sentence="58" t_id="653">1945</token>
+  <token number="1" sentence="58" t_id="654">-</token>
+  <token number="2" sentence="58" t_id="655">Norbert</token>
+  <token number="3" sentence="58" t_id="656">Callens</token>
+  <token number="0" sentence="59" t_id="661">1939</token>
+  <token number="1" sentence="59" t_id="662">-</token>
+  <token number="2" sentence="59" t_id="663">Joseph</token>
+  <token number="3" sentence="59" t_id="664">Somers</token>
+  <token number="0" sentence="60" t_id="669">1938</token>
+  <token number="1" sentence="60" t_id="670">-</token>
+  <token number="2" sentence="60" t_id="671">Fran&#195;&#167;ois</token>
+  <token number="3" sentence="60" t_id="672">Neuville</token>
+  <token number="0" sentence="61" t_id="677">1937</token>
+  <token number="1" sentence="61" t_id="678">-</token>
+  <token number="2" sentence="61" t_id="679">Adolf</token>
+  <token number="3" sentence="61" t_id="680">Braeckeveldt</token>
+  <token number="0" sentence="62" t_id="685">1936</token>
+  <token number="1" sentence="62" t_id="686">-</token>
+  <token number="2" sentence="62" t_id="687">Emile</token>
+  <token number="3" sentence="62" t_id="688">Decroix</token>
+  <token number="0" sentence="63" t_id="693">1935</token>
+  <token number="1" sentence="63" t_id="694">-</token>
+  <token number="2" sentence="63" t_id="695">Jef</token>
+  <token number="3" sentence="63" t_id="696">Moerenhout</token>
+  <token number="0" sentence="64" t_id="701">1934</token>
+  <token number="1" sentence="64" t_id="702">-</token>
+  <token number="2" sentence="64" t_id="703">Fran&#195;&#167;ois</token>
+  <token number="3" sentence="64" t_id="704">Gardier</token>
+  <token number="0" sentence="65" t_id="709">1933</token>
+  <token number="1" sentence="65" t_id="710">-</token>
+  <token number="2" sentence="65" t_id="711">Jean</token>
+  <token number="3" sentence="65" t_id="712">Aerts</token>
+  <token number="0" sentence="66" t_id="717">1932</token>
+  <token number="1" sentence="66" t_id="718">-</token>
+  <token number="2" sentence="66" t_id="719">L&#195;&#169;on</token>
+  <token number="3" sentence="66" t_id="720">Louyet</token>
+  <token number="0" sentence="67" t_id="725">1931</token>
+  <token number="1" sentence="67" t_id="726">-</token>
+  <token number="2" sentence="67" t_id="727">Maurice</token>
+  <token number="3" sentence="67" t_id="728">De</token>
+  <token number="4" sentence="67" t_id="729">Waele</token>
+  <token number="0" sentence="68" t_id="734">1930</token>
+  <token number="1" sentence="68" t_id="735">-</token>
+  <token number="2" sentence="68" t_id="736">Emile</token>
+  <token number="3" sentence="68" t_id="737">Joly</token>
+  <token number="0" sentence="69" t_id="742">1929</token>
+  <token number="1" sentence="69" t_id="743">-</token>
+  <token number="2" sentence="69" t_id="744">Armand</token>
+  <token number="3" sentence="69" t_id="745">Van</token>
+  <token number="4" sentence="69" t_id="746">Brueane</token>
+  <token number="0" sentence="70" t_id="751">1928</token>
+  <token number="1" sentence="70" t_id="752">-</token>
+  <token number="2" sentence="70" t_id="753">Jules</token>
+  <token number="3" sentence="70" t_id="754">Van</token>
+  <token number="4" sentence="70" t_id="755">Hevel</token>
+  <token number="0" sentence="71" t_id="760">1927</token>
+  <token number="1" sentence="71" t_id="761">-</token>
+  <token number="2" sentence="71" t_id="762">Paul</token>
+  <token number="3" sentence="71" t_id="763">Matton</token>
+  <token number="0" sentence="72" t_id="768">1926</token>
+  <token number="1" sentence="72" t_id="769">-</token>
+  <token number="2" sentence="72" t_id="770">Jean</token>
+  <token number="3" sentence="72" t_id="771">Debusschere</token>
+  <token number="0" sentence="73" t_id="776">1925</token>
+  <token number="1" sentence="73" t_id="777">-</token>
+  <token number="2" sentence="73" t_id="778">Denis</token>
+  <token number="3" sentence="73" t_id="779">Verschueren</token>
+  <token number="0" sentence="74" t_id="784">1924</token>
+  <token number="1" sentence="74" t_id="785">-</token>
+  <token number="2" sentence="74" t_id="786">F&#195;&#169;lix</token>
+  <token number="3" sentence="74" t_id="787">Sellier</token>
+  <token number="0" sentence="75" t_id="792">1923</token>
+  <token number="1" sentence="75" t_id="793">-</token>
+  <token number="2" sentence="75" t_id="794">Emile</token>
+  <token number="3" sentence="75" t_id="795">Masson</token>
+  <token number="0" sentence="76" t_id="800">1922</token>
+  <token number="1" sentence="76" t_id="801">-</token>
+  <token number="2" sentence="76" t_id="802">Ren&#195;&#169;</token>
+  <token number="3" sentence="76" t_id="803">Vermandel</token>
+  <token number="0" sentence="77" t_id="808">1921</token>
+  <token number="1" sentence="77" t_id="809">-</token>
+  <token number="2" sentence="77" t_id="810">Ren&#195;&#169;</token>
+  <token number="3" sentence="77" t_id="811">Vermandel</token>
+  <token number="0" sentence="78" t_id="816">1920</token>
+  <token number="1" sentence="78" t_id="817">-</token>
+  <token number="2" sentence="78" t_id="818">Louis</token>
+  <token number="3" sentence="78" t_id="819">Mottiat</token>
+  <token number="0" sentence="79" t_id="824">1919</token>
+  <token number="1" sentence="79" t_id="825">-</token>
+  <token number="2" sentence="79" t_id="826">Emile</token>
+  <token number="3" sentence="79" t_id="827">Masson</token>
+  <token number="0" sentence="80" t_id="832">1914</token>
+  <token number="1" sentence="80" t_id="833">-</token>
+  <token number="2" sentence="80" t_id="834">Louis</token>
+  <token number="3" sentence="80" t_id="835">Mottiat</token>
+  <token number="0" sentence="81" t_id="840">1913</token>
+  <token number="1" sentence="81" t_id="841">-</token>
+  <token number="2" sentence="81" t_id="842">Dieudonn&#195;&#169;</token>
+  <token number="3" sentence="81" t_id="843">Gauthy</token>
+  <token number="0" sentence="82" t_id="848">1912</token>
+  <token number="1" sentence="82" t_id="849">-</token>
+  <token number="2" sentence="82" t_id="850">Odile</token>
+  <token number="3" sentence="82" t_id="851">Defraye</token>
+  <token number="0" sentence="83" t_id="856">1911</token>
+  <token number="1" sentence="83" t_id="857">-</token>
+  <token number="2" sentence="83" t_id="858">Ren&#195;&#169;</token>
+  <token number="3" sentence="83" t_id="859">Vandenberghe</token>
+  <token number="0" sentence="84" t_id="864">1910</token>
+  <token number="1" sentence="84" t_id="865">-</token>
+  <token number="2" sentence="84" t_id="866">Jules</token>
+  <token number="3" sentence="84" t_id="867">Masselis</token>
+  <token number="0" sentence="85" t_id="872">1909</token>
+  <token number="1" sentence="85" t_id="873">-</token>
+  <token number="2" sentence="85" t_id="874">Paul</token>
+  <token number="3" sentence="85" t_id="875">Duboc</token>
+  <token number="0" sentence="86" t_id="880">1908</token>
+  <token number="1" sentence="86" t_id="881">-</token>
+  <token number="2" sentence="86" t_id="882">Lucien</token>
+  <token number="3" sentence="86" t_id="883">Petit-Breton</token>
+  <token number="0" sentence="87" t_id="888">Zie</token>
+  <token number="1" sentence="87" t_id="889">ook</token>
+  <token number="0" sentence="88" t_id="892">Ronde</token>
+  <token number="1" sentence="88" t_id="893">van</token>
+  <token number="2" sentence="88" t_id="894">Belgi&#195;&#171;</token>
+  <token number="3" sentence="88" t_id="895">2006</token>
+  <token number="4" sentence="88" t_id="896">:</token>
+  <token number="5" sentence="88" t_id="897">het</token>
+  <token number="6" sentence="88" t_id="898">verloop</token>
+  <token number="7" sentence="88" t_id="899">en</token>
+  <token number="8" sentence="88" t_id="900">klassement</token>
+  <token number="9" sentence="88" t_id="901">van</token>
+  <token number="10" sentence="88" t_id="902">de</token>
+  <token number="11" sentence="88" t_id="903">wedstrijd</token>
+  <token number="12" sentence="88" t_id="904">in</token>
+  <token number="13" sentence="88" t_id="905">2006</token>
+  <token number="14" sentence="88" t_id="906">.</token>
+  <token number="0" sentence="89" t_id="922">Externe</token>
+  <token number="1" sentence="89" t_id="923">links</token>
+  <token number="0" sentence="90" t_id="926">Offici&#195;&#171;le</token>
+  <token number="1" sentence="90" t_id="927">website</token>
+  <Markables>
+    <EVENT_MENTION m_id="1">
+      <token_anchor t_id="20"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="2">
+      <token_anchor t_id="16"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="3">
+      <token_anchor t_id="17"/>
+      <token_anchor t_id="18"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="4">
+      <token_anchor t_id="89"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="5">
+      <token_anchor t_id="83"/>
+      <token_anchor t_id="84"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="6">
+      <token_anchor t_id="85"/>
+      <token_anchor t_id="86"/>
+      <token_anchor t_id="87"/>
+      <token_anchor t_id="88"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="7">
+      <token_anchor t_id="81"/>
+      <token_anchor t_id="82"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="8">
+      <token_anchor t_id="71"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="9">
+      <token_anchor t_id="70"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="10">
+      <token_anchor t_id="74"/>
+      <token_anchor t_id="75"/>
+      <token_anchor t_id="76"/>
+      <token_anchor t_id="77"/>
+      <token_anchor t_id="78"/>
+      <token_anchor t_id="79"/>
+      <token_anchor t_id="80"/>
+      <token_anchor t_id="81"/>
+      <token_anchor t_id="82"/>
+      <token_anchor t_id="83"/>
+      <token_anchor t_id="84"/>
+      <token_anchor t_id="85"/>
+      <token_anchor t_id="86"/>
+      <token_anchor t_id="87"/>
+      <token_anchor t_id="88"/>
+      <token_anchor t_id="89"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="11">
+      <token_anchor t_id="72"/>
+      <token_anchor t_id="73"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="12">
+      <token_anchor t_id="110"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION m_id="13">
+      <token_anchor t_id="114"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="14">
+      <token_anchor t_id="106"/>
+      <token_anchor t_id="107"/>
+      <token_anchor t_id="108"/>
+      <token_anchor t_id="109"/>
+      <token_anchor t_id="110"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="15">
+      <token_anchor t_id="111"/>
+      <token_anchor t_id="112"/>
+      <token_anchor t_id="113"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="16">
+      <token_anchor t_id="162"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="17">
+      <token_anchor t_id="163"/>
+      <token_anchor t_id="164"/>
+      <token_anchor t_id="165"/>
+      <token_anchor t_id="166"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="18">
+      <token_anchor t_id="148"/>
+      <token_anchor t_id="149"/>
+      <token_anchor t_id="150"/>
+      <token_anchor t_id="151"/>
+      <token_anchor t_id="152"/>
+      <token_anchor t_id="153"/>
+      <token_anchor t_id="154"/>
+      <token_anchor t_id="155"/>
+      <token_anchor t_id="156"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="19">
+      <token_anchor t_id="172"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="20">
+      <token_anchor t_id="171"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="21">
+      <token_anchor t_id="213"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="22">
+      <token_anchor t_id="212"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="23">
+      <token_anchor t_id="214"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="24">
+      <token_anchor t_id="217"/>
+      <token_anchor t_id="218"/>
+      <token_anchor t_id="219"/>
+      <token_anchor t_id="220"/>
+      <token_anchor t_id="221"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="25">
+      <token_anchor t_id="229"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="26">
+      <token_anchor t_id="230"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="27">
+      <token_anchor t_id="231"/>
+      <token_anchor t_id="232"/>
+      <token_anchor t_id="233"/>
+      <token_anchor t_id="234"/>
+      <token_anchor t_id="235"/>
+      <token_anchor t_id="236"/>
+      <token_anchor t_id="237"/>
+      <token_anchor t_id="238"/>
+      <token_anchor t_id="239"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="28">
+      <token_anchor t_id="227"/>
+      <token_anchor t_id="228"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="29">
+      <token_anchor t_id="257"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="30">
+      <token_anchor t_id="255"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="31">
+      <token_anchor t_id="888"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="32">
+      <token_anchor t_id="889"/>
+    </ENTITY_MENTION>
+  </Markables>
+  <Relations>
+    <HAS_PARTICIPANT r_id="33" sem_role="ArgM-TMP" frame="Event" frame_element="Frequency" confidence_frame="3" confidence_role="3">
+      <source m_id="1"/>
+      <target m_id="2"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="34" sem_role="ArgM-LOC" frame="Event" frame_element="Place" confidence_frame="3" confidence_role="3">
+      <source m_id="1"/>
+      <target m_id="3"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="35" sem_role="ArgM-EXT" frame="Emphasizing" frame_element="Degree" confidence_frame="3" confidence_role="1">
+      <source m_id="4"/>
+      <target m_id="5"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="36" sem_role="Arg2" frame="Emphasizing" frame_element="Consideration" confidence_frame="3" confidence_role="3">
+      <source m_id="4"/>
+      <target m_id="6"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="37" sem_role="Arg1" frame="WrongRelation" frame_element="WrongRelation" confidence_frame="0" confidence_role="0">
+      <source m_id="4"/>
+      <target m_id="7"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="38" sem_role="ArgM-TMP" frame="Undergoing" frame_element="Time" confidence_frame="3" confidence_role="3">
+      <source m_id="8"/>
+      <target m_id="9"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="39" sem_role="Arg2" frame="Undergoing" frame_element="Event" confidence_frame="3" confidence_role="1">
+      <source m_id="8"/>
+      <target m_id="10"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="40" sem_role="Arg1" frame="Undergoing" frame_element="Entity" confidence_frame="3" confidence_role="3">
+      <source m_id="8"/>
+      <target m_id="11"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="41" sem_role="ArgM-TMP" frame="Making_arrangements" frame_element="Time" confidence_frame="3" confidence_role="3">
+      <source m_id="13"/>
+      <target m_id="14"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="42" sem_role="ArgM-TMP" frame="Making_arrangements" frame_element="Frequency" confidence_frame="3" confidence_role="3">
+      <source m_id="13"/>
+      <target m_id="15"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="43" sem_role="Arg2" frame="Cause_to_amalgamate" frame_element="Whole" confidence_frame="2" confidence_role="3">
+      <source m_id="16"/>
+      <target m_id="17"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="44" sem_role="ArgM-MNR" frame="Cause_to_amalgamate" frame_element="None" confidence_frame="2" confidence_role="0">
+      <source m_id="16"/>
+      <target m_id="18"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="45" sem_role="ArgM-DIS" frame="Existence" frame_element="None" confidence_frame="1" confidence_role="0">
+      <source m_id="19"/>
+      <target m_id="20"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="46" sem_role="Arg0" frame="Being_in_category" frame_element="Item" confidence_frame="2" confidence_role="3">
+      <source m_id="21"/>
+      <target m_id="22"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="47" sem_role="ArgM-TMP" frame="Being_in_category" frame_element="Time" confidence_frame="2" confidence_role="1">
+      <source m_id="21"/>
+      <target m_id="23"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="48" sem_role="Arg1" frame="Being_in_category" frame_element="Category" confidence_frame="2" confidence_role="3">
+      <source m_id="21"/>
+      <target m_id="24"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="49" sem_role="ArgM-TMP" frame="Inclusion" frame_element="Frequency" confidence_frame="3" confidence_role="3">
+      <source m_id="25"/>
+      <target m_id="26"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="50" sem_role="Arg2" frame="Inclusion" frame_element="Part" confidence_frame="3" confidence_role="3">
+      <source m_id="25"/>
+      <target m_id="27"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="51" sem_role="Arg1" frame="Inclusion" frame_element="Total" confidence_frame="3" confidence_role="3">
+      <source m_id="25"/>
+      <target m_id="28"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="52" sem_role="ArgM-TMP" frame="Deciding" frame_element="None" confidence_frame="1" confidence_role="0">
+      <source m_id="29"/>
+      <target m_id="30"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="53" sem_role="ArgM-DIS" frame="WrongRelation" frame_element="WrongRelation" confidence_frame="0" confidence_role="0">
+      <source m_id="31"/>
+      <target m_id="32"/>
+    </HAS_PARTICIPANT>
+  </Relations>
+</Document>

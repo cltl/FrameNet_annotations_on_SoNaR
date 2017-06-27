@@ -1,0 +1,391 @@
+<Document doc_name="/Users/antskez/SRLexamples/500MANUAL-CAT/wiki-1250..txt">
+  <token number="0" sentence="1" t_id="1">Onafhankelijke</token>
+  <token number="1" sentence="1" t_id="2">Senaatsfractie</token>
+  <token number="0" sentence="2" t_id="5">De</token>
+  <token number="1" sentence="2" t_id="6">Onafhankelijke</token>
+  <token number="2" sentence="2" t_id="7">Senaatsfractie</token>
+  <token number="3" sentence="2" t_id="8">(</token>
+  <token number="4" sentence="2" t_id="9">OSF</token>
+  <token number="5" sentence="2" t_id="10">)</token>
+  <token number="6" sentence="2" t_id="11">is</token>
+  <token number="7" sentence="2" t_id="12">een</token>
+  <token number="8" sentence="2" t_id="13">Nederlandse</token>
+  <token number="9" sentence="2" t_id="14">fractie</token>
+  <token number="10" sentence="2" t_id="15">in</token>
+  <token number="11" sentence="2" t_id="16">de</token>
+  <token number="12" sentence="2" t_id="17">Eerste</token>
+  <token number="13" sentence="2" t_id="18">Kamer</token>
+  <token number="14" sentence="2" t_id="19">,</token>
+  <token number="15" sentence="2" t_id="20">die</token>
+  <token number="16" sentence="2" t_id="21">voortkomt</token>
+  <token number="17" sentence="2" t_id="22">uit</token>
+  <token number="18" sentence="2" t_id="23">diverse</token>
+  <token number="19" sentence="2" t_id="24">provinciale</token>
+  <token number="20" sentence="2" t_id="25">partijen</token>
+  <token number="21" sentence="2" t_id="26">.</token>
+  <token number="0" sentence="3" t_id="52">De</token>
+  <token number="1" sentence="3" t_id="53">OSF</token>
+  <token number="2" sentence="3" t_id="54">is</token>
+  <token number="3" sentence="3" t_id="55">een</token>
+  <token number="4" sentence="3" t_id="56">samenwerkingsverband</token>
+  <token number="5" sentence="3" t_id="57">van</token>
+  <token number="6" sentence="3" t_id="58">de</token>
+  <token number="7" sentence="3" t_id="59">volgende</token>
+  <token number="8" sentence="3" t_id="60">provinciale</token>
+  <token number="9" sentence="3" t_id="61">partijen</token>
+  <token number="10" sentence="3" t_id="62">:</token>
+  <token number="0" sentence="4" t_id="69">Leefbaar</token>
+  <token number="1" sentence="4" t_id="70">Brabant/BOF</token>
+  <token number="2" sentence="4" t_id="71">(</token>
+  <token number="3" sentence="4" t_id="72">BOF/LB</token>
+  <token number="4" sentence="4" t_id="73">)</token>
+  <token number="0" sentence="5" t_id="79">Fryske</token>
+  <token number="1" sentence="5" t_id="80">Nasjonale</token>
+  <token number="2" sentence="5" t_id="81">Partij</token>
+  <token number="3" sentence="5" t_id="82">(</token>
+  <token number="4" sentence="5" t_id="83">FNP</token>
+  <token number="5" sentence="5" t_id="84">)</token>
+  <token number="0" sentence="6" t_id="91">Leefbaar</token>
+  <token number="1" sentence="6" t_id="92">Drenthe</token>
+  <token number="2" sentence="6" t_id="93">(</token>
+  <token number="3" sentence="6" t_id="94">LD</token>
+  <token number="4" sentence="6" t_id="95">)</token>
+  <token number="0" sentence="7" t_id="101">Leefbaar</token>
+  <token number="1" sentence="7" t_id="102">Gelderland</token>
+  <token number="2" sentence="7" t_id="103">(</token>
+  <token number="3" sentence="7" t_id="104">LG</token>
+  <token number="4" sentence="7" t_id="105">)</token>
+  <token number="0" sentence="8" t_id="111">Leefbaar</token>
+  <token number="1" sentence="8" t_id="112">Overijssel</token>
+  <token number="2" sentence="8" t_id="113">(</token>
+  <token number="3" sentence="8" t_id="114">LO</token>
+  <token number="4" sentence="8" t_id="115">)</token>
+  <token number="0" sentence="9" t_id="121">Noord</token>
+  <token number="1" sentence="9" t_id="122">Holland</token>
+  <token number="2" sentence="9" t_id="123">Anders</token>
+  <token number="3" sentence="9" t_id="124">(</token>
+  <token number="4" sentence="9" t_id="125">NHA</token>
+  <token number="5" sentence="9" t_id="126">)</token>
+  <token number="0" sentence="10" t_id="133">Onafhankelijke</token>
+  <token number="1" sentence="10" t_id="134">Partij</token>
+  <token number="2" sentence="10" t_id="135">Drenthe</token>
+  <token number="3" sentence="10" t_id="136">(</token>
+  <token number="4" sentence="10" t_id="137">OPD</token>
+  <token number="5" sentence="10" t_id="138">)</token>
+  <token number="0" sentence="11" t_id="145">Onafhankelijken</token>
+  <token number="1" sentence="11" t_id="146">Zuid</token>
+  <token number="2" sentence="11" t_id="147">Holland</token>
+  <token number="3" sentence="11" t_id="148">(</token>
+  <token number="4" sentence="11" t_id="149">OZH</token>
+  <token number="5" sentence="11" t_id="150">)</token>
+  <token number="0" sentence="12" t_id="157">Ouderenunie</token>
+  <token number="1" sentence="12" t_id="158">Noord-Holland</token>
+  <token number="2" sentence="12" t_id="159">(</token>
+  <token number="3" sentence="12" t_id="160">OUNH</token>
+  <token number="4" sentence="12" t_id="161">)</token>
+  <token number="0" sentence="13" t_id="167">Partij</token>
+  <token number="1" sentence="13" t_id="168">Nieuw</token>
+  <token number="2" sentence="13" t_id="169">Limburg</token>
+  <token number="3" sentence="13" t_id="170">(</token>
+  <token number="4" sentence="13" t_id="171">PNL</token>
+  <token number="5" sentence="13" t_id="172">)</token>
+  <token number="0" sentence="14" t_id="179">Partij</token>
+  <token number="1" sentence="14" t_id="180">voor</token>
+  <token number="2" sentence="14" t_id="181">het</token>
+  <token number="3" sentence="14" t_id="182">Noorden</token>
+  <token number="0" sentence="15" t_id="185">De</token>
+  <token number="1" sentence="15" t_id="186">leden</token>
+  <token number="2" sentence="15" t_id="187">van</token>
+  <token number="3" sentence="15" t_id="188">de</token>
+  <token number="4" sentence="15" t_id="189">Provinciale</token>
+  <token number="5" sentence="15" t_id="190">Staten</token>
+  <token number="6" sentence="15" t_id="191">van</token>
+  <token number="7" sentence="15" t_id="192">alle</token>
+  <token number="8" sentence="15" t_id="193">Nederlandse</token>
+  <token number="9" sentence="15" t_id="194">provincies</token>
+  <token number="10" sentence="15" t_id="195">kiezen</token>
+  <token number="11" sentence="15" t_id="196">samen</token>
+  <token number="12" sentence="15" t_id="197">de</token>
+  <token number="13" sentence="15" t_id="198">leden</token>
+  <token number="14" sentence="15" t_id="199">van</token>
+  <token number="15" sentence="15" t_id="200">de</token>
+  <token number="16" sentence="15" t_id="201">Eerste</token>
+  <token number="17" sentence="15" t_id="202">Kamer</token>
+  <token number="18" sentence="15" t_id="203">.</token>
+  <token number="0" sentence="16" t_id="216">In</token>
+  <token number="1" sentence="16" t_id="217">1995</token>
+  <token number="2" sentence="16" t_id="218">hebben</token>
+  <token number="3" sentence="16" t_id="219">verscheidene</token>
+  <token number="4" sentence="16" t_id="220">provinciale</token>
+  <token number="5" sentence="16" t_id="221">partijen</token>
+  <token number="6" sentence="16" t_id="222">en</token>
+  <token number="7" sentence="16" t_id="223">De</token>
+  <token number="8" sentence="16" t_id="224">Groenen</token>
+  <token number="9" sentence="16" t_id="225">een</token>
+  <token number="10" sentence="16" t_id="226">gezamenlijke</token>
+  <token number="11" sentence="16" t_id="227">lijst</token>
+  <token number="12" sentence="16" t_id="228">ingediend</token>
+  <token number="13" sentence="16" t_id="229">voor</token>
+  <token number="14" sentence="16" t_id="230">de</token>
+  <token number="15" sentence="16" t_id="231">Eerste</token>
+  <token number="16" sentence="16" t_id="232">Kamer</token>
+  <token number="17" sentence="16" t_id="233">.</token>
+  <token number="0" sentence="17" t_id="248">Van</token>
+  <token number="1" sentence="17" t_id="249">deze</token>
+  <token number="2" sentence="17" t_id="250">lijst</token>
+  <token number="3" sentence="17" t_id="251">werd</token>
+  <token number="4" sentence="17" t_id="252">ir.</token>
+  <token number="5" sentence="17" t_id="253">Marten</token>
+  <token number="6" sentence="17" t_id="254">Bierman</token>
+  <token number="7" sentence="17" t_id="255">tot</token>
+  <token number="8" sentence="17" t_id="256">Eerste</token>
+  <token number="9" sentence="17" t_id="257">Kamerlid</token>
+  <token number="10" sentence="17" t_id="258">gekozen</token>
+  <token number="11" sentence="17" t_id="259">.</token>
+  <token number="0" sentence="18" t_id="272">Bierman</token>
+  <token number="1" sentence="18" t_id="273">en</token>
+  <token number="2" sentence="18" t_id="274">de</token>
+  <token number="3" sentence="18" t_id="275">provinciale</token>
+  <token number="4" sentence="18" t_id="276">partijen</token>
+  <token number="5" sentence="18" t_id="277">hebben</token>
+  <token number="6" sentence="18" t_id="278">toen</token>
+  <token number="7" sentence="18" t_id="279">de</token>
+  <token number="8" sentence="18" t_id="280">naam</token>
+  <token number="9" sentence="18" t_id="281">&#194;&#171;</token>
+  <token number="10" sentence="18" t_id="282">Onafhankelijke</token>
+  <token number="11" sentence="18" t_id="283">Senaatsfractie</token>
+  <token number="12" sentence="18" t_id="284">&#194;&#187;</token>
+  <token number="13" sentence="18" t_id="285">aangenomen</token>
+  <token number="14" sentence="18" t_id="286">.</token>
+  <token number="0" sentence="19" t_id="306">Bij</token>
+  <token number="1" sentence="19" t_id="307">de</token>
+  <token number="2" sentence="19" t_id="308">Eerste</token>
+  <token number="3" sentence="19" t_id="309">Kamerverkiezingen</token>
+  <token number="4" sentence="19" t_id="310">van</token>
+  <token number="5" sentence="19" t_id="311">1999</token>
+  <token number="6" sentence="19" t_id="312">werd</token>
+  <token number="7" sentence="19" t_id="313">Bierman</token>
+  <token number="8" sentence="19" t_id="314">herkozen</token>
+  <token number="9" sentence="19" t_id="315">.</token>
+  <token number="0" sentence="20" t_id="329">Bij</token>
+  <token number="1" sentence="20" t_id="330">de</token>
+  <token number="2" sentence="20" t_id="331">Eerste</token>
+  <token number="3" sentence="20" t_id="332">Kamer-verkiezingen</token>
+  <token number="4" sentence="20" t_id="333">van</token>
+  <token number="5" sentence="20" t_id="334">2003</token>
+  <token number="6" sentence="20" t_id="335">werd</token>
+  <token number="7" sentence="20" t_id="336">Hendrik</token>
+  <token number="8" sentence="20" t_id="337">ten</token>
+  <token number="9" sentence="20" t_id="338">Hoeve</token>
+  <token number="10" sentence="20" t_id="339">verkozen</token>
+  <token number="11" sentence="20" t_id="340">als</token>
+  <token number="12" sentence="20" t_id="341">Eerste</token>
+  <token number="13" sentence="20" t_id="342">Kamerlid</token>
+  <token number="14" sentence="20" t_id="343">namens</token>
+  <token number="15" sentence="20" t_id="344">de</token>
+  <token number="16" sentence="20" t_id="345">OSF</token>
+  <token number="17" sentence="20" t_id="346">,</token>
+  <token number="18" sentence="20" t_id="347">hij</token>
+  <token number="19" sentence="20" t_id="348">is</token>
+  <token number="20" sentence="20" t_id="349">eerder</token>
+  <token number="21" sentence="20" t_id="350">lid</token>
+  <token number="22" sentence="20" t_id="351">geweest</token>
+  <token number="23" sentence="20" t_id="352">van</token>
+  <token number="24" sentence="20" t_id="353">de</token>
+  <token number="25" sentence="20" t_id="354">Provinciale</token>
+  <token number="26" sentence="20" t_id="355">Staten</token>
+  <token number="27" sentence="20" t_id="356">van</token>
+  <token number="28" sentence="20" t_id="357">Friesland</token>
+  <token number="29" sentence="20" t_id="358">namens</token>
+  <token number="30" sentence="20" t_id="359">de</token>
+  <token number="31" sentence="20" t_id="360">Fryske</token>
+  <token number="32" sentence="20" t_id="361">Nasjonale</token>
+  <token number="33" sentence="20" t_id="362">Partij</token>
+  <token number="34" sentence="20" t_id="363">(</token>
+  <token number="35" sentence="20" t_id="364">FNP</token>
+  <token number="36" sentence="20" t_id="365">)</token>
+  <token number="37" sentence="20" t_id="366">.</token>
+  <token number="0" sentence="21" t_id="425">Eerste</token>
+  <token number="1" sentence="21" t_id="426">Kamerlid</token>
+  <token number="2" sentence="21" t_id="427">:</token>
+  <token number="3" sentence="21" t_id="428">Hendrik</token>
+  <token number="4" sentence="21" t_id="429">ten</token>
+  <token number="5" sentence="21" t_id="430">Hoeve</token>
+  <token number="6" sentence="21" t_id="431">.</token>
+  <token number="0" sentence="22" t_id="437">Fractiesecretaris</token>
+  <token number="1" sentence="22" t_id="438">:</token>
+  <token number="2" sentence="22" t_id="439">Michiel</token>
+  <token number="3" sentence="22" t_id="440">van</token>
+  <token number="4" sentence="22" t_id="441">Harten</token>
+  <token number="5" sentence="22" t_id="442">.</token>
+  <token number="0" sentence="23" t_id="447">Partijvoorzitter</token>
+  <token number="1" sentence="23" t_id="448">:</token>
+  <token number="2" sentence="23" t_id="449">Emma</token>
+  <token number="3" sentence="23" t_id="450">Kraak</token>
+  <token number="0" sentence="24" t_id="455">Externe</token>
+  <token number="1" sentence="24" t_id="456">link</token>
+  <token number="0" sentence="25" t_id="459">Website</token>
+  <token number="1" sentence="25" t_id="460">OSF</token>
+  <Markables>
+    <EVENT_MENTION m_id="1">
+      <token_anchor t_id="21"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="2">
+      <token_anchor t_id="22"/>
+      <token_anchor t_id="23"/>
+      <token_anchor t_id="24"/>
+      <token_anchor t_id="25"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="3">
+      <token_anchor t_id="195"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="4">
+      <token_anchor t_id="196"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="5">
+      <token_anchor t_id="197"/>
+      <token_anchor t_id="198"/>
+      <token_anchor t_id="199"/>
+      <token_anchor t_id="200"/>
+      <token_anchor t_id="201"/>
+      <token_anchor t_id="202"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="6">
+      <token_anchor t_id="185"/>
+      <token_anchor t_id="186"/>
+      <token_anchor t_id="187"/>
+      <token_anchor t_id="188"/>
+      <token_anchor t_id="189"/>
+      <token_anchor t_id="190"/>
+      <token_anchor t_id="191"/>
+      <token_anchor t_id="192"/>
+      <token_anchor t_id="193"/>
+      <token_anchor t_id="194"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="7">
+      <token_anchor t_id="228"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="8">
+      <token_anchor t_id="225"/>
+      <token_anchor t_id="226"/>
+      <token_anchor t_id="227"/>
+      <token_anchor t_id="229"/>
+      <token_anchor t_id="230"/>
+      <token_anchor t_id="231"/>
+      <token_anchor t_id="232"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="9">
+      <token_anchor t_id="216"/>
+      <token_anchor t_id="217"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="10">
+      <token_anchor t_id="258"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="11">
+      <token_anchor t_id="248"/>
+      <token_anchor t_id="249"/>
+      <token_anchor t_id="250"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="12">
+      <token_anchor t_id="255"/>
+      <token_anchor t_id="256"/>
+      <token_anchor t_id="257"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="13">
+      <token_anchor t_id="285"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="14">
+      <token_anchor t_id="279"/>
+      <token_anchor t_id="280"/>
+      <token_anchor t_id="282"/>
+      <token_anchor t_id="283"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="15">
+      <token_anchor t_id="278"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="16">
+      <token_anchor t_id="314"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="17">
+      <token_anchor t_id="306"/>
+      <token_anchor t_id="307"/>
+      <token_anchor t_id="308"/>
+      <token_anchor t_id="309"/>
+      <token_anchor t_id="310"/>
+      <token_anchor t_id="311"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="18">
+      <token_anchor t_id="339"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="19">
+      <token_anchor t_id="340"/>
+      <token_anchor t_id="341"/>
+      <token_anchor t_id="342"/>
+      <token_anchor t_id="343"/>
+      <token_anchor t_id="344"/>
+      <token_anchor t_id="345"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="20">
+      <token_anchor t_id="329"/>
+      <token_anchor t_id="330"/>
+      <token_anchor t_id="331"/>
+      <token_anchor t_id="332"/>
+      <token_anchor t_id="333"/>
+      <token_anchor t_id="334"/>
+    </ENTITY_MENTION>
+  </Markables>
+  <Relations>
+    <HAS_PARTICIPANT r_id="21" sem_role="Arg2" frame="Coming_to_be" frame_element="Components" confidence_frame="3" confidence_role="3">
+      <source m_id="1"/>
+      <target m_id="2"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="22" sem_role="ArgM-MNR" frame="Choosing" frame_element="Cognizer" confidence_frame="1" confidence_role="1">
+      <source m_id="3"/>
+      <target m_id="4"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="23" sem_role="Arg1" frame="Choosing" frame_element="Chosen" confidence_frame="1" confidence_role="1">
+      <source m_id="3"/>
+      <target m_id="5"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="24" sem_role="Arg0" frame="Choosing" frame_element="Cognizer" confidence_frame="1" confidence_role="3">
+      <source m_id="3"/>
+      <target m_id="6"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="25" sem_role="Arg1" frame="WrongRelation" frame_element="WrongRelation" confidence_frame="0" confidence_role="0">
+      <source m_id="7"/>
+      <target m_id="8"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="26" sem_role="ArgM-TMP" frame="Submitting_documents" frame_element="Time" confidence_frame="3" confidence_role="3">
+      <source m_id="7"/>
+      <target m_id="9"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="27" sem_role="Arg2" frame="Change_of_leadership" frame_element="Selector" confidence_frame="2" confidence_role="1">
+      <source m_id="10"/>
+      <target m_id="11"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="28" sem_role="Arg3" frame="Change_of_leadership" frame_element="Role" confidence_frame="2" confidence_role="3">
+      <source m_id="10"/>
+      <target m_id="12"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="29" sem_role="Arg1" frame="Respond_to_proposal" frame_element="Proposal" confidence_frame="3" confidence_role="1">
+      <source m_id="13"/>
+      <target m_id="14"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="30" sem_role="ArgM-TMP" frame="Respond_to_proposal" frame_element="Time" confidence_frame="3" confidence_role="3">
+      <source m_id="13"/>
+      <target m_id="15"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="31" sem_role="ArgM-TMP" frame="Choosing" frame_element="Place" confidence_frame="1" confidence_role="2">
+      <source m_id="16"/>
+      <target m_id="17"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="32" sem_role="Arg2" frame="None" frame_element="None" confidence_frame="0" confidence_role="0">
+      <source m_id="18"/>
+      <target m_id="19"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="33" sem_role="ArgM-TMP" frame="Change_of_leadership" frame_element="Time" confidence_frame="2" confidence_role="1">
+      <source m_id="18"/>
+      <target m_id="20"/>
+    </HAS_PARTICIPANT>
+  </Relations>
+</Document>

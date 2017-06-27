@@ -1,0 +1,341 @@
+<Document doc_name="/Users/antskez/SRLexamples/500MANUAL-CAT/WR-P-P-H-0000000015..txt">
+  <token number="0" sentence="1" t_id="1">AMSTERDAM</token>
+  <token number="1" sentence="1" t_id="2">-</token>
+  <token number="0" sentence="2" t_id="4">Acteur</token>
+  <token number="1" sentence="2" t_id="5">Benjamin</token>
+  <token number="2" sentence="2" t_id="6">de</token>
+  <token number="3" sentence="2" t_id="7">Wit</token>
+  <token number="4" sentence="2" t_id="8">heeft</token>
+  <token number="5" sentence="2" t_id="9">met</token>
+  <token number="6" sentence="2" t_id="10">zijn</token>
+  <token number="7" sentence="2" t_id="11">solovoorstelling</token>
+  <token number="8" sentence="2" t_id="12">'</token>
+  <token number="9" sentence="2" t_id="13">Geen</token>
+  <token number="10" sentence="2" t_id="14">Kritiek</token>
+  <token number="11" sentence="2" t_id="15">'</token>
+  <token number="12" sentence="2" t_id="16">de</token>
+  <token number="13" sentence="2" t_id="17">Philip</token>
+  <token number="14" sentence="2" t_id="18">Morris</token>
+  <token number="15" sentence="2" t_id="19">Scholarshipprijs</token>
+  <token number="16" sentence="2" t_id="20">voor</token>
+  <token number="17" sentence="2" t_id="21">meest</token>
+  <token number="18" sentence="2" t_id="22">belovende</token>
+  <token number="19" sentence="2" t_id="23">afstuderende</token>
+  <token number="20" sentence="2" t_id="24">acteur</token>
+  <token number="21" sentence="2" t_id="25">gewonnen</token>
+  <token number="22" sentence="2" t_id="26">.</token>
+  <token number="0" sentence="3" t_id="51">Aankomend</token>
+  <token number="1" sentence="3" t_id="52">regisseur</token>
+  <token number="2" sentence="3" t_id="53">Olivier</token>
+  <token number="3" sentence="3" t_id="54">Provily</token>
+  <token number="4" sentence="3" t_id="55">kreeg</token>
+  <token number="5" sentence="3" t_id="56">de</token>
+  <token number="6" sentence="3" t_id="57">Ton</token>
+  <token number="7" sentence="3" t_id="58">Lutz</token>
+  <token number="8" sentence="3" t_id="59">prijs</token>
+  <token number="9" sentence="3" t_id="60">.</token>
+  <token number="0" sentence="4" t_id="67">De</token>
+  <token number="1" sentence="4" t_id="68">toekenning</token>
+  <token number="2" sentence="4" t_id="69">van</token>
+  <token number="3" sentence="4" t_id="70">de</token>
+  <token number="4" sentence="4" t_id="71">twee</token>
+  <token number="5" sentence="4" t_id="72">prijzen</token>
+  <token number="6" sentence="4" t_id="73">zaterdagavond</token>
+  <token number="7" sentence="4" t_id="74">in</token>
+  <token number="8" sentence="4" t_id="75">Amsterdam</token>
+  <token number="9" sentence="4" t_id="76">vormde</token>
+  <token number="10" sentence="4" t_id="77">de</token>
+  <token number="11" sentence="4" t_id="78">afsluiting</token>
+  <token number="12" sentence="4" t_id="79">van</token>
+  <token number="13" sentence="4" t_id="80">het</token>
+  <token number="14" sentence="4" t_id="81">Internationaal</token>
+  <token number="15" sentence="4" t_id="82">Theaterschool</token>
+  <token number="16" sentence="4" t_id="83">Festival</token>
+  <token number="17" sentence="4" t_id="84">.</token>
+  <token number="0" sentence="5" t_id="95">Benjamin</token>
+  <token number="1" sentence="5" t_id="96">de</token>
+  <token number="2" sentence="5" t_id="97">Wit</token>
+  <token number="3" sentence="5" t_id="98">van</token>
+  <token number="4" sentence="5" t_id="99">de</token>
+  <token number="5" sentence="5" t_id="100">Hogeschool</token>
+  <token number="6" sentence="5" t_id="101">voor</token>
+  <token number="7" sentence="5" t_id="102">de</token>
+  <token number="8" sentence="5" t_id="103">Kunsten</token>
+  <token number="9" sentence="5" t_id="104">in</token>
+  <token number="10" sentence="5" t_id="105">Utrecht</token>
+  <token number="11" sentence="5" t_id="106">,</token>
+  <token number="12" sentence="5" t_id="107">die</token>
+  <token number="13" sentence="5" t_id="108">speelde</token>
+  <token number="14" sentence="5" t_id="109">onder</token>
+  <token number="15" sentence="5" t_id="110">regie</token>
+  <token number="16" sentence="5" t_id="111">van</token>
+  <token number="17" sentence="5" t_id="112">Titus</token>
+  <token number="18" sentence="5" t_id="113">Muizelaar</token>
+  <token number="19" sentence="5" t_id="114">,</token>
+  <token number="20" sentence="5" t_id="115">was</token>
+  <token number="21" sentence="5" t_id="116">volgens</token>
+  <token number="22" sentence="5" t_id="117">de</token>
+  <token number="23" sentence="5" t_id="118">jury</token>
+  <token number="24" sentence="5" t_id="119">de</token>
+  <token number="25" sentence="5" t_id="120">beste</token>
+  <token number="26" sentence="5" t_id="121">acteur</token>
+  <token number="27" sentence="5" t_id="122">die</token>
+  <token number="28" sentence="5" t_id="123">tijdens</token>
+  <token number="29" sentence="5" t_id="124">het</token>
+  <token number="30" sentence="5" t_id="125">festival</token>
+  <token number="31" sentence="5" t_id="126">optrad</token>
+  <token number="32" sentence="5" t_id="127">.</token>
+  <token number="0" sentence="6" t_id="169">Hij</token>
+  <token number="1" sentence="6" t_id="170">kreeg</token>
+  <token number="2" sentence="6" t_id="171">10.000</token>
+  <token number="3" sentence="6" t_id="172">gulden</token>
+  <token number="4" sentence="6" t_id="173">.</token>
+  <token number="0" sentence="7" t_id="177">Olivier</token>
+  <token number="1" sentence="7" t_id="178">Provily</token>
+  <token number="2" sentence="7" t_id="179">van</token>
+  <token number="3" sentence="7" t_id="180">de</token>
+  <token number="4" sentence="7" t_id="181">Regieopleiding</token>
+  <token number="5" sentence="7" t_id="182">aan</token>
+  <token number="6" sentence="7" t_id="183">de</token>
+  <token number="7" sentence="7" t_id="184">Amsterdamse</token>
+  <token number="8" sentence="7" t_id="185">Hogeschool</token>
+  <token number="9" sentence="7" t_id="186">voor</token>
+  <token number="10" sentence="7" t_id="187">de</token>
+  <token number="11" sentence="7" t_id="188">Kunsten</token>
+  <token number="12" sentence="7" t_id="189">geldt</token>
+  <token number="13" sentence="7" t_id="190">als</token>
+  <token number="14" sentence="7" t_id="191">de</token>
+  <token number="15" sentence="7" t_id="192">meest</token>
+  <token number="16" sentence="7" t_id="193">belovende</token>
+  <token number="17" sentence="7" t_id="194">regiestudent</token>
+  <token number="18" sentence="7" t_id="195">van</token>
+  <token number="19" sentence="7" t_id="196">de</token>
+  <token number="20" sentence="7" t_id="197">lichting</token>
+  <token number="21" sentence="7" t_id="198">2001</token>
+  <token number="22" sentence="7" t_id="199">.</token>
+  <token number="0" sentence="8" t_id="214">Hij</token>
+  <token number="1" sentence="8" t_id="215">won</token>
+  <token number="2" sentence="8" t_id="216">behalve</token>
+  <token number="3" sentence="8" t_id="217">10.000</token>
+  <token number="4" sentence="8" t_id="218">gulden</token>
+  <token number="5" sentence="8" t_id="219">ook</token>
+  <token number="6" sentence="8" t_id="220">2,5</token>
+  <token number="7" sentence="8" t_id="221">maand</token>
+  <token number="8" sentence="8" t_id="222">loonkostensubsidie</token>
+  <token number="9" sentence="8" t_id="223">en</token>
+  <token number="10" sentence="8" t_id="224">een</token>
+  <token number="11" sentence="8" t_id="225">jaar</token>
+  <token number="12" sentence="8" t_id="226">lang</token>
+  <token number="13" sentence="8" t_id="227">facilitaire</token>
+  <token number="14" sentence="8" t_id="228">ondersteuning</token>
+  <token number="15" sentence="8" t_id="229">van</token>
+  <token number="16" sentence="8" t_id="230">PodiumKunstWerk</token>
+  <token number="17" sentence="8" t_id="231">en</token>
+  <token number="18" sentence="8" t_id="232">het</token>
+  <token number="19" sentence="8" t_id="233">Fonds</token>
+  <token number="20" sentence="8" t_id="234">voor</token>
+  <token number="21" sentence="8" t_id="235">de</token>
+  <token number="22" sentence="8" t_id="236">Podiumkunsten</token>
+  <token number="23" sentence="8" t_id="237">.</token>
+  <Markables>
+    <EVENT_MENTION m_id="1">
+      <token_anchor t_id="25"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="2">
+      <token_anchor t_id="9"/>
+      <token_anchor t_id="10"/>
+      <token_anchor t_id="11"/>
+      <token_anchor t_id="13"/>
+      <token_anchor t_id="14"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="3">
+      <token_anchor t_id="16"/>
+      <token_anchor t_id="17"/>
+      <token_anchor t_id="18"/>
+      <token_anchor t_id="19"/>
+      <token_anchor t_id="20"/>
+      <token_anchor t_id="21"/>
+      <token_anchor t_id="22"/>
+      <token_anchor t_id="23"/>
+      <token_anchor t_id="24"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="4">
+      <token_anchor t_id="55"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="5">
+      <token_anchor t_id="51"/>
+      <token_anchor t_id="52"/>
+      <token_anchor t_id="53"/>
+      <token_anchor t_id="54"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="6">
+      <token_anchor t_id="56"/>
+      <token_anchor t_id="57"/>
+      <token_anchor t_id="58"/>
+      <token_anchor t_id="59"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="7">
+      <token_anchor t_id="76"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="8">
+      <token_anchor t_id="67"/>
+      <token_anchor t_id="68"/>
+      <token_anchor t_id="69"/>
+      <token_anchor t_id="70"/>
+      <token_anchor t_id="71"/>
+      <token_anchor t_id="72"/>
+      <token_anchor t_id="73"/>
+      <token_anchor t_id="74"/>
+      <token_anchor t_id="75"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="9">
+      <token_anchor t_id="77"/>
+      <token_anchor t_id="78"/>
+      <token_anchor t_id="79"/>
+      <token_anchor t_id="80"/>
+      <token_anchor t_id="81"/>
+      <token_anchor t_id="82"/>
+      <token_anchor t_id="83"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="10">
+      <token_anchor t_id="108"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="11">
+      <token_anchor t_id="109"/>
+      <token_anchor t_id="110"/>
+      <token_anchor t_id="111"/>
+      <token_anchor t_id="112"/>
+      <token_anchor t_id="113"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="12">
+      <token_anchor t_id="126"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="13">
+      <token_anchor t_id="123"/>
+      <token_anchor t_id="124"/>
+      <token_anchor t_id="125"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="14">
+      <token_anchor t_id="170"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="15">
+      <token_anchor t_id="169"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="16">
+      <token_anchor t_id="171"/>
+      <token_anchor t_id="172"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="17">
+      <token_anchor t_id="189"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="18">
+      <token_anchor t_id="177"/>
+      <token_anchor t_id="178"/>
+      <token_anchor t_id="179"/>
+      <token_anchor t_id="180"/>
+      <token_anchor t_id="181"/>
+      <token_anchor t_id="182"/>
+      <token_anchor t_id="183"/>
+      <token_anchor t_id="184"/>
+      <token_anchor t_id="185"/>
+      <token_anchor t_id="186"/>
+      <token_anchor t_id="187"/>
+      <token_anchor t_id="188"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="19">
+      <token_anchor t_id="215"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="20">
+      <token_anchor t_id="214"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="21">
+      <token_anchor t_id="220"/>
+      <token_anchor t_id="221"/>
+      <token_anchor t_id="222"/>
+      <token_anchor t_id="223"/>
+      <token_anchor t_id="224"/>
+      <token_anchor t_id="225"/>
+      <token_anchor t_id="226"/>
+      <token_anchor t_id="227"/>
+      <token_anchor t_id="228"/>
+      <token_anchor t_id="229"/>
+      <token_anchor t_id="230"/>
+      <token_anchor t_id="231"/>
+      <token_anchor t_id="232"/>
+      <token_anchor t_id="233"/>
+      <token_anchor t_id="234"/>
+      <token_anchor t_id="235"/>
+      <token_anchor t_id="236"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="22">
+      <token_anchor t_id="219"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="23">
+      <token_anchor t_id="216"/>
+      <token_anchor t_id="217"/>
+      <token_anchor t_id="218"/>
+    </ENTITY_MENTION>
+  </Markables>
+  <Relations>
+    <HAS_PARTICIPANT r_id="24" sem_role="ArgM-MNR" frame="Win_prize" frame_element="Explanation" confidence_frame="3" confidence_role="3">
+      <source m_id="1"/>
+      <target m_id="2"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="25" sem_role="Arg1" frame="Win_prize" frame_element="Prize" confidence_frame="3" confidence_role="3">
+      <source m_id="1"/>
+      <target m_id="3"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="26" sem_role="Arg0" frame="Receiving" frame_element="Recipient" confidence_frame="3" confidence_role="3">
+      <source m_id="4"/>
+      <target m_id="5"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="27" sem_role="Arg1" frame="Receiving" frame_element="Theme" confidence_frame="3" confidence_role="3">
+      <source m_id="4"/>
+      <target m_id="6"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="28" sem_role="Arg0" frame="Representing" frame_element="Entity" confidence_frame="1" confidence_role="3">
+      <source m_id="7"/>
+      <target m_id="8"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="29" sem_role="Arg1" frame="Representing" frame_element="Phenomenon" confidence_frame="1" confidence_role="3">
+      <source m_id="7"/>
+      <target m_id="9"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="30" sem_role="ArgM-LOC" frame="Performing_arts" frame_element="Personnel" confidence_frame="2" confidence_role="3">
+      <source m_id="10"/>
+      <target m_id="11"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="31" sem_role="ArgM-TMP" frame="Performing_arts" frame_element="Performance" confidence_frame="2" confidence_role="1">
+      <source m_id="12"/>
+      <target m_id="13"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="32" sem_role="Arg0" frame="Receiving" frame_element="Recipient" confidence_frame="3" confidence_role="3">
+      <source m_id="14"/>
+      <target m_id="15"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="33" sem_role="Arg1" frame="Receiving" frame_element="Theme" confidence_frame="3" confidence_role="3">
+      <source m_id="14"/>
+      <target m_id="16"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="34" sem_role="Arg1" frame="Categorization" frame_element="Item" confidence_frame="2" confidence_role="3">
+      <source m_id="17"/>
+      <target m_id="18"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="35" sem_role="Arg0" frame="Win_prize" frame_element="Competitor" confidence_frame="3" confidence_role="3">
+      <source m_id="19"/>
+      <target m_id="20"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="36" sem_role="Arg1" frame="Win_prize" frame_element="Prize" confidence_frame="3" confidence_role="3">
+      <source m_id="19"/>
+      <target m_id="21"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="37" sem_role="ArgM-DIS" frame="Win_prize" frame_element="Manner" confidence_frame="3" confidence_role="1">
+      <source m_id="19"/>
+      <target m_id="22"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="38" sem_role="ArgM-ADV" frame="Win_prize" frame_element="Prize" confidence_frame="3" confidence_role="3">
+      <source m_id="19"/>
+      <target m_id="23"/>
+    </HAS_PARTICIPANT>
+  </Relations>
+</Document>

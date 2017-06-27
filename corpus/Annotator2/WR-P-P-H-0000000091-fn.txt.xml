@@ -1,0 +1,180 @@
+<Document doc_name="/Users/antskez/SRLexamples/500MANUAL-CAT/WR-P-P-H-0000000091..txt">
+  <token number="0" sentence="1" t_id="1">American</token>
+  <token number="1" sentence="1" t_id="2">footballclub</token>
+  <token number="2" sentence="1" t_id="3">Berlin</token>
+  <token number="3" sentence="1" t_id="4">Thunder</token>
+  <token number="4" sentence="1" t_id="5">heeft</token>
+  <token number="5" sentence="1" t_id="6">de</token>
+  <token number="6" sentence="1" t_id="7">World</token>
+  <token number="7" sentence="1" t_id="8">Bowl</token>
+  <token number="8" sentence="1" t_id="9">veroverd</token>
+  <token number="9" sentence="1" t_id="10">.</token>
+  <token number="0" sentence="2" t_id="20">In</token>
+  <token number="1" sentence="2" t_id="21">de</token>
+  <token number="2" sentence="2" t_id="22">finale</token>
+  <token number="3" sentence="2" t_id="23">in</token>
+  <token number="4" sentence="2" t_id="24">de</token>
+  <token number="5" sentence="2" t_id="25">Arena</token>
+  <token number="6" sentence="2" t_id="26">in</token>
+  <token number="7" sentence="2" t_id="27">Amsterdam</token>
+  <token number="8" sentence="2" t_id="28">,</token>
+  <token number="9" sentence="2" t_id="29">versloeg</token>
+  <token number="10" sentence="2" t_id="30">de</token>
+  <token number="11" sentence="2" t_id="31">Duitse</token>
+  <token number="12" sentence="2" t_id="32">ploeg</token>
+  <token number="13" sentence="2" t_id="33">het</token>
+  <token number="14" sentence="2" t_id="34">favoriete</token>
+  <token number="15" sentence="2" t_id="35">Barcelona</token>
+  <token number="16" sentence="2" t_id="36">Dragons</token>
+  <token number="17" sentence="2" t_id="37">met</token>
+  <token number="18" sentence="2" t_id="38">24</token>
+  <token number="19" sentence="2" t_id="39">-</token>
+  <token number="20" sentence="2" t_id="40">17</token>
+  <token number="21" sentence="2" t_id="41">.</token>
+  <token number="0" sentence="3" t_id="62">In</token>
+  <token number="1" sentence="3" t_id="63">de</token>
+  <token number="2" sentence="3" t_id="64">competitie</token>
+  <token number="3" sentence="3" t_id="65">had</token>
+  <token number="4" sentence="3" t_id="66">Berlin</token>
+  <token number="5" sentence="3" t_id="67">twee</token>
+  <token number="6" sentence="3" t_id="68">keer</token>
+  <token number="7" sentence="3" t_id="69">verloren</token>
+  <token number="8" sentence="3" t_id="70">van</token>
+  <token number="9" sentence="3" t_id="71">de</token>
+  <token number="10" sentence="3" t_id="72">Spanjaarden</token>
+  <token number="11" sentence="3" t_id="73">.</token>
+  <token number="0" sentence="4" t_id="86">Op</token>
+  <token number="1" sentence="4" t_id="87">de</token>
+  <token number="2" sentence="4" t_id="88">foto</token>
+  <token number="3" sentence="4" t_id="89">kust</token>
+  <token number="4" sentence="4" t_id="90">Joe</token>
+  <token number="5" sentence="4" t_id="91">Wesley</token>
+  <token number="6" sentence="4" t_id="92">de</token>
+  <token number="7" sentence="4" t_id="93">glazen</token>
+  <token number="8" sentence="4" t_id="94">World</token>
+  <token number="9" sentence="4" t_id="95">Bowl</token>
+  <token number="10" sentence="4" t_id="96">.</token>
+  <token number="0" sentence="5" t_id="104">FOTO</token>
+  <token number="1" sentence="5" t_id="105">AP</token>
+  <Markables>
+    <EVENT_MENTION m_id="1">
+      <token_anchor t_id="9"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="2">
+      <token_anchor t_id="6"/>
+      <token_anchor t_id="7"/>
+      <token_anchor t_id="8"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="3">
+      <token_anchor t_id="29"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="4">
+      <token_anchor t_id="30"/>
+      <token_anchor t_id="31"/>
+      <token_anchor t_id="32"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="5">
+      <token_anchor t_id="20"/>
+      <token_anchor t_id="21"/>
+      <token_anchor t_id="22"/>
+      <token_anchor t_id="23"/>
+      <token_anchor t_id="24"/>
+      <token_anchor t_id="25"/>
+      <token_anchor t_id="26"/>
+      <token_anchor t_id="27"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="6">
+      <token_anchor t_id="33"/>
+      <token_anchor t_id="34"/>
+      <token_anchor t_id="35"/>
+      <token_anchor t_id="36"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="7">
+      <token_anchor t_id="37"/>
+      <token_anchor t_id="38"/>
+      <token_anchor t_id="39"/>
+      <token_anchor t_id="40"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="8">
+      <token_anchor t_id="69"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="9">
+      <token_anchor t_id="67"/>
+      <token_anchor t_id="68"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="10">
+      <token_anchor t_id="70"/>
+      <token_anchor t_id="71"/>
+      <token_anchor t_id="72"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="11">
+      <token_anchor t_id="62"/>
+      <token_anchor t_id="63"/>
+      <token_anchor t_id="64"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="12">
+      <token_anchor t_id="89"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="13">
+      <token_anchor t_id="90"/>
+      <token_anchor t_id="91"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="14">
+      <token_anchor t_id="86"/>
+      <token_anchor t_id="87"/>
+      <token_anchor t_id="88"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="15">
+      <token_anchor t_id="92"/>
+      <token_anchor t_id="93"/>
+      <token_anchor t_id="94"/>
+      <token_anchor t_id="95"/>
+    </ENTITY_MENTION>
+  </Markables>
+  <Relations>
+    <HAS_PARTICIPANT r_id="16" sem_role="Arg1" frame="Win_prize" frame_element="Prize" confidence_frame="3" confidence_role="3">
+      <source m_id="1"/>
+      <target m_id="2"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="17" sem_role="Arg0" frame="Beat_opponent" frame_element="Winner" confidence_frame="3" confidence_role="3">
+      <source m_id="3"/>
+      <target m_id="4"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="18" sem_role="ArgM-LOC" frame="Beat_opponent" frame_element="Place" confidence_frame="3" confidence_role="1">
+      <source m_id="3"/>
+      <target m_id="5"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="19" sem_role="Arg1" frame="Beat_opponent" frame_element="Loser" confidence_frame="3" confidence_role="3">
+      <source m_id="3"/>
+      <target m_id="6"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="20" sem_role="ArgM-MNR" frame="Beat_opponent" frame_element="Score" confidence_frame="3" confidence_role="3">
+      <source m_id="3"/>
+      <target m_id="7"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="21" sem_role="ArgM-TMP" frame="Finish_game" frame_element="None" confidence_frame="3" confidence_role="0">
+      <source m_id="8"/>
+      <target m_id="9"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="22" sem_role="Arg2" frame="Finish_game" frame_element="None" confidence_frame="3" confidence_role="0">
+      <source m_id="8"/>
+      <target m_id="10"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="23" sem_role="ArgM-LOC" frame="Finish_game" frame_element="Game" confidence_frame="3" confidence_role="3">
+      <source m_id="8"/>
+      <target m_id="11"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="24" sem_role="Arg0" frame="Manipulation" frame_element="Agent" confidence_frame="1" confidence_role="3">
+      <source m_id="12"/>
+      <target m_id="13"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="25" sem_role="ArgM-LOC" frame="Manipulation" frame_element="None" confidence_frame="1" confidence_role="0">
+      <source m_id="12"/>
+      <target m_id="14"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="26" sem_role="Arg1" frame="Manipulation" frame_element="Entity" confidence_frame="1" confidence_role="3">
+      <source m_id="12"/>
+      <target m_id="15"/>
+    </HAS_PARTICIPANT>
+  </Relations>
+</Document>

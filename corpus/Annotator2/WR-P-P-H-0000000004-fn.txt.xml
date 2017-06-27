@@ -1,0 +1,167 @@
+<Document doc_name="/Users/antskez/SRLexamples/500MANUAL-CAT/WR-P-P-H-0000000004..txt">
+  <token number="0" sentence="1" t_id="1">VILAMOURA</token>
+  <token number="1" sentence="1" t_id="2">-</token>
+  <token number="0" sentence="2" t_id="4">Zeilster</token>
+  <token number="1" sentence="2" t_id="5">Carolijn</token>
+  <token number="2" sentence="2" t_id="6">Brouwer</token>
+  <token number="3" sentence="2" t_id="7">is</token>
+  <token number="4" sentence="2" t_id="8">sterk</token>
+  <token number="5" sentence="2" t_id="9">gestart</token>
+  <token number="6" sentence="2" t_id="10">bij</token>
+  <token number="7" sentence="2" t_id="11">het</token>
+  <token number="8" sentence="2" t_id="12">WK</token>
+  <token number="9" sentence="2" t_id="13">Europe</token>
+  <token number="10" sentence="2" t_id="14">in</token>
+  <token number="11" sentence="2" t_id="15">Vilamoura</token>
+  <token number="12" sentence="2" t_id="16">.</token>
+  <token number="0" sentence="3" t_id="26">In</token>
+  <token number="1" sentence="3" t_id="27">lichte</token>
+  <token number="2" sentence="3" t_id="28">omstandigheden</token>
+  <token number="3" sentence="3" t_id="29">won</token>
+  <token number="4" sentence="3" t_id="30">de</token>
+  <token number="5" sentence="3" t_id="31">tweevoudige</token>
+  <token number="6" sentence="3" t_id="32">wereldkampioene</token>
+  <token number="7" sentence="3" t_id="33">de</token>
+  <token number="8" sentence="3" t_id="34">eerste</token>
+  <token number="9" sentence="3" t_id="35">race</token>
+  <token number="10" sentence="3" t_id="36">.</token>
+  <token number="0" sentence="4" t_id="43">In</token>
+  <token number="1" sentence="4" t_id="44">de</token>
+  <token number="2" sentence="4" t_id="45">tweede</token>
+  <token number="3" sentence="4" t_id="46">race</token>
+  <token number="4" sentence="4" t_id="47">eindigde</token>
+  <token number="5" sentence="4" t_id="48">de</token>
+  <token number="6" sentence="4" t_id="49">olympische</token>
+  <token number="7" sentence="4" t_id="50">kandidate</token>
+  <token number="8" sentence="4" t_id="51">als</token>
+  <token number="9" sentence="4" t_id="52">tweede</token>
+  <token number="10" sentence="4" t_id="53">.</token>
+  <token number="0" sentence="5" t_id="60">Min</token>
+  <token number="1" sentence="5" t_id="61">de</token>
+  <token number="2" sentence="5" t_id="62">Zille</token>
+  <token number="3" sentence="5" t_id="63">uit</token>
+  <token number="4" sentence="5" t_id="64">Belgi&#195;&#171;</token>
+  <token number="5" sentence="5" t_id="65">zette</token>
+  <token number="6" sentence="5" t_id="66">,</token>
+  <token number="7" sentence="5" t_id="67">omgekeerd</token>
+  <token number="8" sentence="5" t_id="68">,</token>
+  <token number="9" sentence="5" t_id="69">dezelfde</token>
+  <token number="10" sentence="5" t_id="70">prestaties</token>
+  <token number="11" sentence="5" t_id="71">neer</token>
+  <token number="12" sentence="5" t_id="72">.</token>
+  <Markables>
+    <EVENT_MENTION m_id="1">
+      <token_anchor t_id="9"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="2">
+      <token_anchor t_id="8"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="3">
+      <token_anchor t_id="10"/>
+      <token_anchor t_id="11"/>
+      <token_anchor t_id="12"/>
+      <token_anchor t_id="13"/>
+      <token_anchor t_id="14"/>
+      <token_anchor t_id="15"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="4">
+      <token_anchor t_id="29"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="5">
+      <token_anchor t_id="26"/>
+      <token_anchor t_id="27"/>
+      <token_anchor t_id="28"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="6">
+      <token_anchor t_id="30"/>
+      <token_anchor t_id="31"/>
+      <token_anchor t_id="32"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="7">
+      <token_anchor t_id="33"/>
+      <token_anchor t_id="34"/>
+      <token_anchor t_id="35"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="8">
+      <token_anchor t_id="47"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="9">
+      <token_anchor t_id="51"/>
+      <token_anchor t_id="52"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="10">
+      <token_anchor t_id="43"/>
+      <token_anchor t_id="44"/>
+      <token_anchor t_id="45"/>
+      <token_anchor t_id="46"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="11">
+      <token_anchor t_id="48"/>
+      <token_anchor t_id="49"/>
+      <token_anchor t_id="50"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="12">
+      <token_anchor t_id="65"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="13">
+      <token_anchor t_id="60"/>
+      <token_anchor t_id="61"/>
+      <token_anchor t_id="62"/>
+      <token_anchor t_id="63"/>
+      <token_anchor t_id="64"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="14">
+      <token_anchor t_id="67"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="15">
+      <token_anchor t_id="69"/>
+      <token_anchor t_id="70"/>
+    </ENTITY_MENTION>
+  </Markables>
+  <Relations>
+    <HAS_PARTICIPANT r_id="16" sem_role="ArgM-MNR" frame="Activity_start" frame_element="Manner" confidence_frame="3" confidence_role="3">
+      <source m_id="1"/>
+      <target m_id="2"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="17" sem_role="ArgM-LOC" frame="Activity_start" frame_element="Place" confidence_frame="3" confidence_role="3">
+      <source m_id="1"/>
+      <target m_id="3"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="18" sem_role="ArgM-MNR" frame="Finish_game" frame_element="Manner" confidence_frame="3" confidence_role="3">
+      <source m_id="4"/>
+      <target m_id="5"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="19" sem_role="Arg0" frame="Finish_game" frame_element="Player" confidence_frame="3" confidence_role="3">
+      <source m_id="4"/>
+      <target m_id="6"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="20" sem_role="Arg1" frame="Finish_game" frame_element="Game" confidence_frame="3" confidence_role="3">
+      <source m_id="4"/>
+      <target m_id="7"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="21" sem_role="ArgM-MNR" frame="Finish_game" frame_element="None" confidence_frame="3" confidence_role="0">
+      <source m_id="8"/>
+      <target m_id="9"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="22" sem_role="ArgM-LOC" frame="Finish_game" frame_element="Game" confidence_frame="3" confidence_role="3">
+      <source m_id="8"/>
+      <target m_id="10"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="23" sem_role="Arg0" frame="Finish_game" frame_element="Player" confidence_frame="3" confidence_role="3">
+      <source m_id="8"/>
+      <target m_id="11"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="24" sem_role="Arg0" frame="Successful_action" frame_element="Protagonist" confidence_frame="2" confidence_role="3">
+      <source m_id="12"/>
+      <target m_id="13"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="25" sem_role="ArgM-DIS" frame="Successful_action" frame_element="None" confidence_frame="2" confidence_role="0">
+      <source m_id="12"/>
+      <target m_id="14"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="26" sem_role="Arg1" frame="Successful_action" frame_element="WrongRelation" confidence_frame="3" confidence_role="3">
+      <source m_id="12"/>
+      <target m_id="15"/>
+    </HAS_PARTICIPANT>
+  </Relations>
+</Document>

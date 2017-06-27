@@ -1,0 +1,165 @@
+<Document doc_name="/Users/antskez/SRLexamples/500MANUAL-CAT/WR-P-P-H-0000000100..txt">
+  <token number="0" sentence="1" t_id="1">Profeet</token>
+  <token number="1" sentence="1" t_id="2">T.B.</token>
+  <token number="2" sentence="1" t_id="3">Joshua</token>
+  <token number="3" sentence="1" t_id="4">van</token>
+  <token number="4" sentence="1" t_id="5">The</token>
+  <token number="5" sentence="1" t_id="6">Church</token>
+  <token number="6" sentence="1" t_id="7">of</token>
+  <token number="7" sentence="1" t_id="8">All</token>
+  <token number="8" sentence="1" t_id="9">Nations</token>
+  <token number="9" sentence="1" t_id="10">in</token>
+  <token number="10" sentence="1" t_id="11">Lagos</token>
+  <token number="11" sentence="1" t_id="12">,</token>
+  <token number="12" sentence="1" t_id="13">Nigeria</token>
+  <token number="13" sentence="1" t_id="14">,</token>
+  <token number="14" sentence="1" t_id="15">claimt</token>
+  <token number="15" sentence="1" t_id="16">dat</token>
+  <token number="16" sentence="1" t_id="17">hij</token>
+  <token number="17" sentence="1" t_id="18">hiv-</token>
+  <token number="18" sentence="1" t_id="19">en</token>
+  <token number="19" sentence="1" t_id="20">aidspati&#235;nten</token>
+  <token number="20" sentence="1" t_id="21">kan</token>
+  <token number="21" sentence="1" t_id="22">genezen</token>
+  <token number="22" sentence="1" t_id="23">door</token>
+  <token number="23" sentence="1" t_id="24">handoplegging</token>
+  <token number="24" sentence="1" t_id="25">en</token>
+  <token number="25" sentence="1" t_id="26">gebed</token>
+  <token number="26" sentence="1" t_id="27">.</token>
+  <token number="0" sentence="2" t_id="56">Wie</token>
+  <token number="1" sentence="2" t_id="57">zijn</token>
+  <token number="2" sentence="2" t_id="58">zonden</token>
+  <token number="3" sentence="2" t_id="59">belijdt</token>
+  <token number="4" sentence="2" t_id="60">en</token>
+  <token number="5" sentence="2" t_id="61">zich</token>
+  <token number="6" sentence="2" t_id="62">bekeert</token>
+  <token number="7" sentence="2" t_id="63">tot</token>
+  <token number="8" sentence="2" t_id="64">Jezus</token>
+  <token number="9" sentence="2" t_id="65">Christus</token>
+  <token number="10" sentence="2" t_id="66">zal</token>
+  <token number="11" sentence="2" t_id="67">de</token>
+  <token number="12" sentence="2" t_id="68">dodelijke</token>
+  <token number="13" sentence="2" t_id="69">ziekte</token>
+  <token number="14" sentence="2" t_id="70">kwijtraken</token>
+  <token number="15" sentence="2" t_id="71">.</token>
+  <token number="0" sentence="3" t_id="86">Voor</token>
+  <token number="1" sentence="3" t_id="87">veel</token>
+  <token number="2" sentence="3" t_id="88">besmette</token>
+  <token number="3" sentence="3" t_id="89">Nigerianen</token>
+  <token number="4" sentence="3" t_id="90">is</token>
+  <token number="5" sentence="3" t_id="91">de</token>
+  <token number="6" sentence="3" t_id="92">Profeet</token>
+  <token number="7" sentence="3" t_id="93">hun</token>
+  <token number="8" sentence="3" t_id="94">laatste</token>
+  <token number="9" sentence="3" t_id="95">hoop</token>
+  <token number="10" sentence="3" t_id="96">.</token>
+  <token number="0" sentence="4" t_id="103">FOTO</token>
+  <token number="1" sentence="4" t_id="104">SAURABH</token>
+  <token number="2" sentence="4" t_id="105">DAS/AP</token>
+  <Markables>
+    <EVENT_MENTION m_id="1">
+      <token_anchor t_id="22"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="2">
+      <token_anchor t_id="18"/>
+      <token_anchor t_id="19"/>
+      <token_anchor t_id="20"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="3">
+      <token_anchor t_id="23"/>
+      <token_anchor t_id="24"/>
+      <token_anchor t_id="25"/>
+      <token_anchor t_id="26"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="4">
+      <token_anchor t_id="15"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="5">
+      <token_anchor t_id="16"/>
+      <token_anchor t_id="17"/>
+      <token_anchor t_id="21"/>
+      <token_anchor t_id="18"/>
+      <token_anchor t_id="19"/>
+      <token_anchor t_id="20"/>
+      <token_anchor t_id="22"/>
+      <token_anchor t_id="23"/>
+      <token_anchor t_id="24"/>
+      <token_anchor t_id="25"/>
+      <token_anchor t_id="26"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="6">
+      <token_anchor t_id="1"/>
+      <token_anchor t_id="2"/>
+      <token_anchor t_id="3"/>
+      <token_anchor t_id="4"/>
+      <token_anchor t_id="5"/>
+      <token_anchor t_id="6"/>
+      <token_anchor t_id="7"/>
+      <token_anchor t_id="8"/>
+      <token_anchor t_id="9"/>
+      <token_anchor t_id="10"/>
+      <token_anchor t_id="11"/>
+      <token_anchor t_id="13"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="7">
+      <token_anchor t_id="59"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="8">
+      <token_anchor t_id="57"/>
+      <token_anchor t_id="58"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="9">
+      <token_anchor t_id="62"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="10">
+      <token_anchor t_id="63"/>
+      <token_anchor t_id="64"/>
+      <token_anchor t_id="65"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION m_id="11">
+      <token_anchor t_id="61"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION m_id="12">
+      <token_anchor t_id="70"/>
+    </EVENT_MENTION>
+    <ENTITY_MENTION m_id="13">
+      <token_anchor t_id="67"/>
+      <token_anchor t_id="68"/>
+      <token_anchor t_id="69"/>
+    </ENTITY_MENTION>
+  </Markables>
+  <Relations>
+    <HAS_PARTICIPANT r_id="14" sem_role="Arg1" frame="Cure" frame_element="Patient" confidence_frame="3" confidence_role="3">
+      <source m_id="1"/>
+      <target m_id="2"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="15" sem_role="ArgM-CAU" frame="Cure" frame_element="Treatment" confidence_frame="3" confidence_role="3">
+      <source m_id="1"/>
+      <target m_id="3"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="16" sem_role="Arg1" frame="Statement" frame_element="Message" confidence_frame="3" confidence_role="3">
+      <source m_id="4"/>
+      <target m_id="5"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="17" sem_role="Arg0" frame="Statement" frame_element="Speaker" confidence_frame="3" confidence_role="3">
+      <source m_id="4"/>
+      <target m_id="6"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="18" sem_role="Arg1" frame="Reveal_secret" frame_element="Information" confidence_frame="1" confidence_role="2">
+      <source m_id="7"/>
+      <target m_id="8"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="19" sem_role="Arg2" frame="Undergo_transformation" frame_element="Final_category" confidence_frame="2" confidence_role="3">
+      <source m_id="9"/>
+      <target m_id="10"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="20" sem_role="ArgM-REC" frame="Undergo_transformation" frame_element="Entity" confidence_frame="2" confidence_role="3">
+      <source m_id="9"/>
+      <target m_id="11"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT r_id="21" sem_role="Arg1" frame="Losing" frame_element="Possession" confidence_frame="2" confidence_role="3">
+      <source m_id="12"/>
+      <target m_id="13"/>
+    </HAS_PARTICIPANT>
+  </Relations>
+</Document>
