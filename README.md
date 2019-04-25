@@ -1,4 +1,4 @@
-# Signficance tests for classification tasks
+# Dutch FrameNet annotations on SoNaR corpus
 
 The goal of this repository is load the FrameNet annotations on the Dutch corpus SoNaR into Python classes.
 
