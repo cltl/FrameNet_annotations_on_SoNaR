@@ -21,13 +21,20 @@ pip install -r requirements.txt
 * **scripts**: Python modules to load annotations into Python classes
 
 ## How to use
-Please call **main.py** in **scripts** for information on how to use.
+Please call **python main.py -h** in **scripts** for information on how to use.
+
+This creates for the annotation of one annotator a dictionary mapping:
+* **key**: (document name, event mention id)
+* **value**: a instance of the **Frame** class (see *sonar_classes.py)
 
 ## Authors
 * **Piek Vossen** (p.t.j.m.vossen@vu.nl)
 * **Isa Maks** (isa.maks@vu.nl)
 * **Chantal van Son** (c.m.van.son@vu.nl)
 * **Marten Postma** (m.c.postma@vu.nl)
+
+## TODO
+* obtain lemma and morphofeat information from original SoNaR corpus
 
 ## License
 This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details

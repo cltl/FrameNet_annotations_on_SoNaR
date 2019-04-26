@@ -1,4 +1,4 @@
-from my_classes import Frame, FrameElement
+from sonar_classes import Frame, FrameElement
 from lxml import etree
 
 

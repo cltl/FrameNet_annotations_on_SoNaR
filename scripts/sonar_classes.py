@@ -10,15 +10,15 @@ class Frame:
         self.doc_name = doc_name
         self.m_id = m_id
         self.id_ = (self.doc_name, self.m_id)
-        self.tokens = tokens
+        assert len(tokens) == 1
+        self.predicate = tokens[0]
         self.frame = set()
         self.confidence_frame = []
         self.roles = dict()
 
     def __str__(self):
         info = [f'ID: {self.doc_name} {self.m_id}']
-        info.append(' '.join(token['text']
-                            for token in self.tokens))
+        info.append(f'predicate: {self.predicate}')
         info.append(f'frame: {self.frame}')
         info.append(f'confidence frame: {self.confidence_frame}')
         for role, role_info in self.roles.items():
