@@ -1,0 +1,1688 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl">
+  <raw><![CDATA[ Peer ( België )
+
+ Peer is een stad in de provincie Limburg in België . De stad heeft ruim 15.500 inwoners . Het is een Mariastad en was ook één van de Goede Steden van het prinsbisdom Luik . De naam Peer is afkomstig van « pirgus » ( betekent verharde weg ) .
+
+ Anno 2003 telt Peer 25 gemeenteraadsleden waaronder 1 burgemeester , 5 schepenen en 19 raadsleden . De burgemeester van Peer heet Theo Kelchtermans .
+
+ Kernen
+
+ Peer telt 7 kerkdorpen : Peer zelf , Linde Peer , Wijchmaal , Wauberg , Grote-Brogel , Kleine-Brogel en Erpekom .
+
+ Bezienswaardigheden
+
+ de Sint-Trudokerk uit 1422 . In de kerk staan zeer oude beelden . het stadhuis in Maaslandse renaissance uit 1637 het Armand Preud'homme Museum het museum van de Koninklijke Harmonie van Peer het militair domein met luchtmachtbasis in Kleine-Brogel , thuisbasis van de Tiende Tactische Wing en de Belgische F-16 . Voorzien van een spotterscorner . recreatiedomein Erperheide een van Europa's grootste overdekte skipistes « Darco » , het paard waar Ludo Philippaerts grote successen mee behaalde , is vereeuwigd in een bronzen beeld .
+
+ Bekende inwoners
+
+ De componist Armand Preud'homme werd op 21 februari 1904 geboren in de Kloosterstraat 37 van Peer . Met medewerking van de stad Peer werd zijn geboortehuis later ingericht als het « Armand Preud'homme Museum » . De charmezanger Salim Seghers woont in Wijchmaal , een deelgemeente van Peer .
+
+ Externe link]]></raw>
+  <nafHeader>
+    <fileDesc title="wiki-9809"/>
+    <linguisticProcessors layer="text">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:54:08CEST" beginTimestamp="2016-10-10T21:54:08CEST" endTimestamp="2016-10-10T21:54:08CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:54:08CEST" beginTimestamp="2016-10-10T21:54:08CEST" endTimestamp="2016-10-10T21:54:08CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:54:08CEST" beginTimestamp="2016-10-10T21:54:08CEST" endTimestamp="2016-10-10T21:54:08CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <text>
+    <wf id="w1" para="1" sent="1" offset="0" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w2" para="1" sent="1" offset="5" length="1"><![CDATA[(]]></wf>
+    <wf id="w3" para="1" sent="1" offset="7" length="6"><![CDATA[België]]></wf>
+    <wf id="w4" para="1" sent="1" offset="14" length="1"><![CDATA[)]]></wf>
+    <wf id="w8" para="2" sent="2" offset="16" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w9" para="2" sent="2" offset="21" length="2"><![CDATA[is]]></wf>
+    <wf id="w10" para="2" sent="2" offset="24" length="3"><![CDATA[een]]></wf>
+    <wf id="w11" para="2" sent="2" offset="28" length="4"><![CDATA[stad]]></wf>
+    <wf id="w12" para="2" sent="2" offset="33" length="2"><![CDATA[in]]></wf>
+    <wf id="w13" para="2" sent="2" offset="36" length="2"><![CDATA[de]]></wf>
+    <wf id="w14" para="2" sent="2" offset="39" length="9"><![CDATA[provincie]]></wf>
+    <wf id="w15" para="2" sent="2" offset="49" length="7"><![CDATA[Limburg]]></wf>
+    <wf id="w16" para="2" sent="2" offset="57" length="2"><![CDATA[in]]></wf>
+    <wf id="w17" para="2" sent="2" offset="60" length="6"><![CDATA[België]]></wf>
+    <wf id="w18" para="2" sent="2" offset="67" length="1"><![CDATA[.]]></wf>
+    <wf id="w25" para="2" sent="3" offset="69" length="2"><![CDATA[De]]></wf>
+    <wf id="w26" para="2" sent="3" offset="72" length="4"><![CDATA[stad]]></wf>
+    <wf id="w27" para="2" sent="3" offset="77" length="5"><![CDATA[heeft]]></wf>
+    <wf id="w28" para="2" sent="3" offset="83" length="4"><![CDATA[ruim]]></wf>
+    <wf id="w29" para="2" sent="3" offset="88" length="6"><![CDATA[15.500]]></wf>
+    <wf id="w30" para="2" sent="3" offset="95" length="8"><![CDATA[inwoners]]></wf>
+    <wf id="w31" para="2" sent="3" offset="104" length="1"><![CDATA[.]]></wf>
+    <wf id="w36" para="2" sent="4" offset="106" length="3"><![CDATA[Het]]></wf>
+    <wf id="w37" para="2" sent="4" offset="110" length="2"><![CDATA[is]]></wf>
+    <wf id="w38" para="2" sent="4" offset="113" length="3"><![CDATA[een]]></wf>
+    <wf id="w39" para="2" sent="4" offset="117" length="9"><![CDATA[Mariastad]]></wf>
+    <wf id="w40" para="2" sent="4" offset="127" length="2"><![CDATA[en]]></wf>
+    <wf id="w41" para="2" sent="4" offset="130" length="3"><![CDATA[was]]></wf>
+    <wf id="w42" para="2" sent="4" offset="134" length="3"><![CDATA[ook]]></wf>
+    <wf id="w43" para="2" sent="4" offset="138" length="3"><![CDATA[één]]></wf>
+    <wf id="w44" para="2" sent="4" offset="142" length="3"><![CDATA[van]]></wf>
+    <wf id="w45" para="2" sent="4" offset="146" length="2"><![CDATA[de]]></wf>
+    <wf id="w46" para="2" sent="4" offset="149" length="5"><![CDATA[Goede]]></wf>
+    <wf id="w47" para="2" sent="4" offset="155" length="6"><![CDATA[Steden]]></wf>
+    <wf id="w48" para="2" sent="4" offset="162" length="3"><![CDATA[van]]></wf>
+    <wf id="w49" para="2" sent="4" offset="166" length="3"><![CDATA[het]]></wf>
+    <wf id="w50" para="2" sent="4" offset="170" length="11"><![CDATA[prinsbisdom]]></wf>
+    <wf id="w51" para="2" sent="4" offset="182" length="4"><![CDATA[Luik]]></wf>
+    <wf id="w52" para="2" sent="4" offset="187" length="1"><![CDATA[.]]></wf>
+    <wf id="w65" para="2" sent="5" offset="189" length="2"><![CDATA[De]]></wf>
+    <wf id="w66" para="2" sent="5" offset="192" length="4"><![CDATA[naam]]></wf>
+    <wf id="w67" para="2" sent="5" offset="197" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w68" para="2" sent="5" offset="202" length="2"><![CDATA[is]]></wf>
+    <wf id="w69" para="2" sent="5" offset="205" length="9"><![CDATA[afkomstig]]></wf>
+    <wf id="w70" para="2" sent="5" offset="215" length="3"><![CDATA[van]]></wf>
+    <wf id="w71" para="2" sent="5" offset="219" length="1"><![CDATA[«]]></wf>
+    <wf id="w72" para="2" sent="5" offset="221" length="6"><![CDATA[pirgus]]></wf>
+    <wf id="w73" para="2" sent="5" offset="228" length="1"><![CDATA[»]]></wf>
+    <wf id="w74" para="2" sent="5" offset="230" length="1"><![CDATA[(]]></wf>
+    <wf id="w75" para="2" sent="5" offset="232" length="8"><![CDATA[betekent]]></wf>
+    <wf id="w76" para="2" sent="5" offset="241" length="8"><![CDATA[verharde]]></wf>
+    <wf id="w77" para="2" sent="5" offset="250" length="3"><![CDATA[weg]]></wf>
+    <wf id="w78" para="2" sent="5" offset="254" length="1"><![CDATA[)]]></wf>
+    <wf id="w79" para="2" sent="5" offset="256" length="1"><![CDATA[.]]></wf>
+    <wf id="w95" para="3" sent="6" offset="258" length="4"><![CDATA[Anno]]></wf>
+    <wf id="w96" para="3" sent="6" offset="263" length="4"><![CDATA[2003]]></wf>
+    <wf id="w97" para="3" sent="6" offset="268" length="4"><![CDATA[telt]]></wf>
+    <wf id="w98" para="3" sent="6" offset="273" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w99" para="3" sent="6" offset="278" length="2"><![CDATA[25]]></wf>
+    <wf id="w100" para="3" sent="6" offset="281" length="18"><![CDATA[gemeenteraadsleden]]></wf>
+    <wf id="w101" para="3" sent="6" offset="300" length="9"><![CDATA[waaronder]]></wf>
+    <wf id="w102" para="3" sent="6" offset="310" length="1"><![CDATA[1]]></wf>
+    <wf id="w103" para="3" sent="6" offset="312" length="12"><![CDATA[burgemeester]]></wf>
+    <wf id="w104" para="3" sent="6" offset="325" length="1"><![CDATA[,]]></wf>
+    <wf id="w105" para="3" sent="6" offset="327" length="1"><![CDATA[5]]></wf>
+    <wf id="w106" para="3" sent="6" offset="329" length="9"><![CDATA[schepenen]]></wf>
+    <wf id="w107" para="3" sent="6" offset="339" length="2"><![CDATA[en]]></wf>
+    <wf id="w108" para="3" sent="6" offset="342" length="2"><![CDATA[19]]></wf>
+    <wf id="w109" para="3" sent="6" offset="345" length="10"><![CDATA[raadsleden]]></wf>
+    <wf id="w110" para="3" sent="6" offset="356" length="1"><![CDATA[.]]></wf>
+    <wf id="w132" para="3" sent="7" offset="358" length="2"><![CDATA[De]]></wf>
+    <wf id="w133" para="3" sent="7" offset="361" length="12"><![CDATA[burgemeester]]></wf>
+    <wf id="w134" para="3" sent="7" offset="374" length="3"><![CDATA[van]]></wf>
+    <wf id="w135" para="3" sent="7" offset="378" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w136" para="3" sent="7" offset="383" length="4"><![CDATA[heet]]></wf>
+    <wf id="w137" para="3" sent="7" offset="388" length="4"><![CDATA[Theo]]></wf>
+    <wf id="w138" para="3" sent="7" offset="393" length="12"><![CDATA[Kelchtermans]]></wf>
+    <wf id="w139" para="3" sent="7" offset="406" length="1"><![CDATA[.]]></wf>
+    <wf id="w145" para="4" sent="8" offset="408" length="6"><![CDATA[Kernen]]></wf>
+    <wf id="w147" para="5" sent="9" offset="415" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w148" para="5" sent="9" offset="420" length="4"><![CDATA[telt]]></wf>
+    <wf id="w149" para="5" sent="9" offset="425" length="1"><![CDATA[7]]></wf>
+    <wf id="w150" para="5" sent="9" offset="427" length="10"><![CDATA[kerkdorpen]]></wf>
+    <wf id="w151" para="5" sent="9" offset="438" length="1"><![CDATA[:]]></wf>
+    <wf id="w152" para="5" sent="9" offset="440" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w153" para="5" sent="9" offset="445" length="4"><![CDATA[zelf]]></wf>
+    <wf id="w154" para="5" sent="9" offset="450" length="1"><![CDATA[,]]></wf>
+    <wf id="w155" para="5" sent="9" offset="452" length="5"><![CDATA[Linde]]></wf>
+    <wf id="w156" para="5" sent="9" offset="458" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w157" para="5" sent="9" offset="463" length="1"><![CDATA[,]]></wf>
+    <wf id="w158" para="5" sent="9" offset="465" length="9"><![CDATA[Wijchmaal]]></wf>
+    <wf id="w159" para="5" sent="9" offset="475" length="1"><![CDATA[,]]></wf>
+    <wf id="w160" para="5" sent="9" offset="477" length="7"><![CDATA[Wauberg]]></wf>
+    <wf id="w161" para="5" sent="9" offset="485" length="1"><![CDATA[,]]></wf>
+    <wf id="w162" para="5" sent="9" offset="487" length="12"><![CDATA[Grote-Brogel]]></wf>
+    <wf id="w163" para="5" sent="9" offset="500" length="1"><![CDATA[,]]></wf>
+    <wf id="w164" para="5" sent="9" offset="502" length="13"><![CDATA[Kleine-Brogel]]></wf>
+    <wf id="w165" para="5" sent="9" offset="516" length="2"><![CDATA[en]]></wf>
+    <wf id="w166" para="5" sent="9" offset="519" length="7"><![CDATA[Erpekom]]></wf>
+    <wf id="w167" para="5" sent="9" offset="527" length="1"><![CDATA[.]]></wf>
+    <wf id="w185" para="6" sent="10" offset="529" length="19"><![CDATA[Bezienswaardigheden]]></wf>
+    <wf id="w187" para="7" sent="11" offset="549" length="2"><![CDATA[de]]></wf>
+    <wf id="w188" para="7" sent="11" offset="552" length="14"><![CDATA[Sint-Trudokerk]]></wf>
+    <wf id="w189" para="7" sent="11" offset="567" length="3"><![CDATA[uit]]></wf>
+    <wf id="w190" para="7" sent="11" offset="571" length="4"><![CDATA[1422]]></wf>
+    <wf id="w191" para="7" sent="11" offset="576" length="1"><![CDATA[.]]></wf>
+    <wf id="w195" para="7" sent="12" offset="578" length="2"><![CDATA[In]]></wf>
+    <wf id="w196" para="7" sent="12" offset="581" length="2"><![CDATA[de]]></wf>
+    <wf id="w197" para="7" sent="12" offset="584" length="4"><![CDATA[kerk]]></wf>
+    <wf id="w198" para="7" sent="12" offset="589" length="5"><![CDATA[staan]]></wf>
+    <wf id="w199" para="7" sent="12" offset="595" length="4"><![CDATA[zeer]]></wf>
+    <wf id="w200" para="7" sent="12" offset="600" length="4"><![CDATA[oude]]></wf>
+    <wf id="w201" para="7" sent="12" offset="605" length="7"><![CDATA[beelden]]></wf>
+    <wf id="w202" para="7" sent="12" offset="613" length="1"><![CDATA[.]]></wf>
+    <wf id="w209" para="7" sent="13" offset="615" length="3"><![CDATA[het]]></wf>
+    <wf id="w210" para="7" sent="13" offset="619" length="8"><![CDATA[stadhuis]]></wf>
+    <wf id="w211" para="7" sent="13" offset="628" length="2"><![CDATA[in]]></wf>
+    <wf id="w212" para="7" sent="13" offset="631" length="10"><![CDATA[Maaslandse]]></wf>
+    <wf id="w213" para="7" sent="13" offset="642" length="11"><![CDATA[renaissance]]></wf>
+    <wf id="w214" para="7" sent="13" offset="654" length="3"><![CDATA[uit]]></wf>
+    <wf id="w215" para="7" sent="13" offset="658" length="4"><![CDATA[1637]]></wf>
+    <wf id="w221" para="7" sent="14" offset="663" length="3"><![CDATA[het]]></wf>
+    <wf id="w222" para="7" sent="14" offset="667" length="6"><![CDATA[Armand]]></wf>
+    <wf id="w223" para="7" sent="14" offset="674" length="11"><![CDATA[Preud'homme]]></wf>
+    <wf id="w224" para="7" sent="14" offset="686" length="6"><![CDATA[Museum]]></wf>
+    <wf id="w228" para="7" sent="15" offset="693" length="3"><![CDATA[het]]></wf>
+    <wf id="w229" para="7" sent="15" offset="697" length="6"><![CDATA[museum]]></wf>
+    <wf id="w230" para="7" sent="15" offset="704" length="3"><![CDATA[van]]></wf>
+    <wf id="w231" para="7" sent="15" offset="708" length="2"><![CDATA[de]]></wf>
+    <wf id="w232" para="7" sent="15" offset="711" length="11"><![CDATA[Koninklijke]]></wf>
+    <wf id="w233" para="7" sent="15" offset="723" length="8"><![CDATA[Harmonie]]></wf>
+    <wf id="w234" para="7" sent="15" offset="732" length="3"><![CDATA[van]]></wf>
+    <wf id="w235" para="7" sent="15" offset="736" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w242" para="7" sent="16" offset="741" length="3"><![CDATA[het]]></wf>
+    <wf id="w243" para="7" sent="16" offset="745" length="8"><![CDATA[militair]]></wf>
+    <wf id="w244" para="7" sent="16" offset="754" length="6"><![CDATA[domein]]></wf>
+    <wf id="w245" para="7" sent="16" offset="761" length="3"><![CDATA[met]]></wf>
+    <wf id="w246" para="7" sent="16" offset="765" length="15"><![CDATA[luchtmachtbasis]]></wf>
+    <wf id="w247" para="7" sent="16" offset="781" length="2"><![CDATA[in]]></wf>
+    <wf id="w248" para="7" sent="16" offset="784" length="13"><![CDATA[Kleine-Brogel]]></wf>
+    <wf id="w249" para="7" sent="16" offset="798" length="1"><![CDATA[,]]></wf>
+    <wf id="w250" para="7" sent="16" offset="800" length="10"><![CDATA[thuisbasis]]></wf>
+    <wf id="w251" para="7" sent="16" offset="811" length="3"><![CDATA[van]]></wf>
+    <wf id="w252" para="7" sent="16" offset="815" length="2"><![CDATA[de]]></wf>
+    <wf id="w253" para="7" sent="16" offset="818" length="6"><![CDATA[Tiende]]></wf>
+    <wf id="w254" para="7" sent="16" offset="825" length="9"><![CDATA[Tactische]]></wf>
+    <wf id="w255" para="7" sent="16" offset="835" length="4"><![CDATA[Wing]]></wf>
+    <wf id="w256" para="7" sent="16" offset="840" length="2"><![CDATA[en]]></wf>
+    <wf id="w257" para="7" sent="16" offset="843" length="2"><![CDATA[de]]></wf>
+    <wf id="w258" para="7" sent="16" offset="846" length="9"><![CDATA[Belgische]]></wf>
+    <wf id="w259" para="7" sent="16" offset="856" length="4"><![CDATA[F-16]]></wf>
+    <wf id="w260" para="7" sent="16" offset="861" length="1"><![CDATA[.]]></wf>
+    <wf id="w279" para="7" sent="17" offset="863" length="8"><![CDATA[Voorzien]]></wf>
+    <wf id="w280" para="7" sent="17" offset="872" length="3"><![CDATA[van]]></wf>
+    <wf id="w281" para="7" sent="17" offset="876" length="3"><![CDATA[een]]></wf>
+    <wf id="w282" para="7" sent="17" offset="880" length="14"><![CDATA[spotterscorner]]></wf>
+    <wf id="w283" para="7" sent="17" offset="895" length="1"><![CDATA[.]]></wf>
+    <wf id="w288" para="7" sent="18" offset="897" length="15"><![CDATA[recreatiedomein]]></wf>
+    <wf id="w289" para="7" sent="18" offset="913" length="10"><![CDATA[Erperheide]]></wf>
+    <wf id="w292" para="7" sent="19" offset="924" length="3"><![CDATA[een]]></wf>
+    <wf id="w293" para="7" sent="19" offset="928" length="3"><![CDATA[van]]></wf>
+    <wf id="w294" para="7" sent="19" offset="932" length="8"><![CDATA[Europa's]]></wf>
+    <wf id="w295" para="7" sent="19" offset="941" length="8"><![CDATA[grootste]]></wf>
+    <wf id="w296" para="7" sent="19" offset="950" length="9"><![CDATA[overdekte]]></wf>
+    <wf id="w297" para="7" sent="19" offset="960" length="9"><![CDATA[skipistes]]></wf>
+    <wf id="w302" para="7" sent="20" offset="970" length="1"><![CDATA[«]]></wf>
+    <wf id="w303" para="7" sent="20" offset="972" length="5"><![CDATA[Darco]]></wf>
+    <wf id="w304" para="7" sent="20" offset="978" length="1"><![CDATA[»]]></wf>
+    <wf id="w305" para="7" sent="20" offset="980" length="1"><![CDATA[,]]></wf>
+    <wf id="w306" para="7" sent="20" offset="982" length="3"><![CDATA[het]]></wf>
+    <wf id="w307" para="7" sent="20" offset="986" length="5"><![CDATA[paard]]></wf>
+    <wf id="w308" para="7" sent="20" offset="992" length="4"><![CDATA[waar]]></wf>
+    <wf id="w309" para="7" sent="20" offset="997" length="4"><![CDATA[Ludo]]></wf>
+    <wf id="w310" para="7" sent="20" offset="1002" length="12"><![CDATA[Philippaerts]]></wf>
+    <wf id="w311" para="7" sent="20" offset="1015" length="5"><![CDATA[grote]]></wf>
+    <wf id="w312" para="7" sent="20" offset="1021" length="9"><![CDATA[successen]]></wf>
+    <wf id="w313" para="7" sent="20" offset="1031" length="3"><![CDATA[mee]]></wf>
+    <wf id="w314" para="7" sent="20" offset="1035" length="8"><![CDATA[behaalde]]></wf>
+    <wf id="w315" para="7" sent="20" offset="1044" length="1"><![CDATA[,]]></wf>
+    <wf id="w316" para="7" sent="20" offset="1046" length="2"><![CDATA[is]]></wf>
+    <wf id="w317" para="7" sent="20" offset="1049" length="10"><![CDATA[vereeuwigd]]></wf>
+    <wf id="w318" para="7" sent="20" offset="1060" length="2"><![CDATA[in]]></wf>
+    <wf id="w319" para="7" sent="20" offset="1063" length="3"><![CDATA[een]]></wf>
+    <wf id="w320" para="7" sent="20" offset="1067" length="7"><![CDATA[bronzen]]></wf>
+    <wf id="w321" para="7" sent="20" offset="1075" length="5"><![CDATA[beeld]]></wf>
+    <wf id="w322" para="7" sent="20" offset="1081" length="1"><![CDATA[.]]></wf>
+    <wf id="w347" para="8" sent="21" offset="1083" length="7"><![CDATA[Bekende]]></wf>
+    <wf id="w348" para="8" sent="21" offset="1091" length="8"><![CDATA[inwoners]]></wf>
+    <wf id="w351" para="9" sent="22" offset="1100" length="2"><![CDATA[De]]></wf>
+    <wf id="w352" para="9" sent="22" offset="1103" length="9"><![CDATA[componist]]></wf>
+    <wf id="w353" para="9" sent="22" offset="1113" length="6"><![CDATA[Armand]]></wf>
+    <wf id="w354" para="9" sent="22" offset="1120" length="11"><![CDATA[Preud'homme]]></wf>
+    <wf id="w355" para="9" sent="22" offset="1132" length="4"><![CDATA[werd]]></wf>
+    <wf id="w356" para="9" sent="22" offset="1137" length="2"><![CDATA[op]]></wf>
+    <wf id="w357" para="9" sent="22" offset="1140" length="2"><![CDATA[21]]></wf>
+    <wf id="w358" para="9" sent="22" offset="1143" length="8"><![CDATA[februari]]></wf>
+    <wf id="w359" para="9" sent="22" offset="1152" length="4"><![CDATA[1904]]></wf>
+    <wf id="w360" para="9" sent="22" offset="1157" length="7"><![CDATA[geboren]]></wf>
+    <wf id="w361" para="9" sent="22" offset="1165" length="2"><![CDATA[in]]></wf>
+    <wf id="w362" para="9" sent="22" offset="1168" length="2"><![CDATA[de]]></wf>
+    <wf id="w363" para="9" sent="22" offset="1171" length="14"><![CDATA[Kloosterstraat]]></wf>
+    <wf id="w364" para="9" sent="22" offset="1186" length="2"><![CDATA[37]]></wf>
+    <wf id="w365" para="9" sent="22" offset="1189" length="3"><![CDATA[van]]></wf>
+    <wf id="w366" para="9" sent="22" offset="1193" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w367" para="9" sent="22" offset="1198" length="1"><![CDATA[.]]></wf>
+    <wf id="w379" para="9" sent="23" offset="1200" length="3"><![CDATA[Met]]></wf>
+    <wf id="w380" para="9" sent="23" offset="1204" length="11"><![CDATA[medewerking]]></wf>
+    <wf id="w381" para="9" sent="23" offset="1216" length="3"><![CDATA[van]]></wf>
+    <wf id="w382" para="9" sent="23" offset="1220" length="2"><![CDATA[de]]></wf>
+    <wf id="w383" para="9" sent="23" offset="1223" length="4"><![CDATA[stad]]></wf>
+    <wf id="w384" para="9" sent="23" offset="1228" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w385" para="9" sent="23" offset="1233" length="4"><![CDATA[werd]]></wf>
+    <wf id="w386" para="9" sent="23" offset="1238" length="4"><![CDATA[zijn]]></wf>
+    <wf id="w387" para="9" sent="23" offset="1243" length="12"><![CDATA[geboortehuis]]></wf>
+    <wf id="w388" para="9" sent="23" offset="1256" length="5"><![CDATA[later]]></wf>
+    <wf id="w389" para="9" sent="23" offset="1262" length="9"><![CDATA[ingericht]]></wf>
+    <wf id="w390" para="9" sent="23" offset="1272" length="3"><![CDATA[als]]></wf>
+    <wf id="w391" para="9" sent="23" offset="1276" length="3"><![CDATA[het]]></wf>
+    <wf id="w392" para="9" sent="23" offset="1280" length="1"><![CDATA[«]]></wf>
+    <wf id="w393" para="9" sent="23" offset="1282" length="6"><![CDATA[Armand]]></wf>
+    <wf id="w394" para="9" sent="23" offset="1289" length="11"><![CDATA[Preud'homme]]></wf>
+    <wf id="w395" para="9" sent="23" offset="1301" length="6"><![CDATA[Museum]]></wf>
+    <wf id="w396" para="9" sent="23" offset="1308" length="1"><![CDATA[»]]></wf>
+    <wf id="w397" para="9" sent="23" offset="1310" length="1"><![CDATA[.]]></wf>
+    <wf id="w422" para="9" sent="24" offset="1312" length="2"><![CDATA[De]]></wf>
+    <wf id="w423" para="9" sent="24" offset="1315" length="12"><![CDATA[charmezanger]]></wf>
+    <wf id="w424" para="9" sent="24" offset="1328" length="5"><![CDATA[Salim]]></wf>
+    <wf id="w425" para="9" sent="24" offset="1334" length="7"><![CDATA[Seghers]]></wf>
+    <wf id="w426" para="9" sent="24" offset="1342" length="5"><![CDATA[woont]]></wf>
+    <wf id="w427" para="9" sent="24" offset="1348" length="2"><![CDATA[in]]></wf>
+    <wf id="w428" para="9" sent="24" offset="1351" length="9"><![CDATA[Wijchmaal]]></wf>
+    <wf id="w429" para="9" sent="24" offset="1361" length="1"><![CDATA[,]]></wf>
+    <wf id="w430" para="9" sent="24" offset="1363" length="3"><![CDATA[een]]></wf>
+    <wf id="w431" para="9" sent="24" offset="1367" length="12"><![CDATA[deelgemeente]]></wf>
+    <wf id="w432" para="9" sent="24" offset="1380" length="3"><![CDATA[van]]></wf>
+    <wf id="w433" para="9" sent="24" offset="1384" length="4"><![CDATA[Peer]]></wf>
+    <wf id="w434" para="9" sent="24" offset="1389" length="1"><![CDATA[.]]></wf>
+    <wf id="w450" para="10" sent="25" offset="1391" length="7"><![CDATA[Externe]]></wf>
+    <wf id="w451" para="10" sent="25" offset="1399" length="4"><![CDATA[link]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="Peer" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="(" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="België" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma=")" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Peer" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="zijn" pos="verb" morphofeat="WW(pv,tgw,ev)">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="een" pos="det" morphofeat="LID(onbep,stan,agr)">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="stad" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="provincie" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Limburg" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="België" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t25" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="stad" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="hebben" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="ruim" pos="adv" morphofeat="ADJ(vrij,basis,zonder)">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="15.500" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="inwoner" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t36" lemma="het" pos="det" morphofeat="VNW(pers,pron,stan,red,3,ev,onz)">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="zijn" pos="verb" morphofeat="WW(pv,tgw,ev)">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="een" pos="det" morphofeat="LID(onbep,stan,agr)">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="Mariastad" pos="name" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="zijn" pos="verb" morphofeat="WW(pv,verl,ev)">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="ook" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="één" pos="num" morphofeat="TW(hoofd,nom,zonder-n,basis)">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="goed" pos="name" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="stad" pos="name" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="prinsbisdom" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="Luik" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t65" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="naam" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="Peer" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="zijn" pos="verb" morphofeat="WW(pv,tgw,ev)">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="afkomstig" pos="adj" morphofeat="ADJ(vrij,basis,zonder)">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="«" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="pirgus" pos="noun" morphofeat="SPEC(vreemd)">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="»" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="(" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="betekenen" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="verharden" pos="adj" morphofeat="WW(vd,prenom,met-e)">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="weg" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma=")" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t95" lemma="anno" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="2003" pos="noun" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="tellen" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="Peer" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="25" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="gemeenteraadslid" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="waaronder" pos="pp" morphofeat="BW()">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="1" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="burgemeester" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="5" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="schepen" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="19" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="raadslid" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t132" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term id="t133" lemma="burgemeester" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term id="t134" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w134"/>
+      </span>
+    </term>
+    <term id="t135" lemma="Peer" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w135"/>
+      </span>
+    </term>
+    <term id="t136" lemma="heten" pos="verb" morphofeat="WW(pv,tgw,ev)">
+      <span>
+        <target id="w136"/>
+      </span>
+    </term>
+    <term id="t137" lemma="Theo" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w137"/>
+      </span>
+    </term>
+    <term id="t138" lemma="Kelchtermans" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w138"/>
+      </span>
+    </term>
+    <term id="t139" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w139"/>
+      </span>
+    </term>
+    <term id="t145" lemma="kern" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w145"/>
+      </span>
+    </term>
+    <term id="t147" lemma="Peer" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w147"/>
+      </span>
+    </term>
+    <term id="t148" lemma="tellen" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w148"/>
+      </span>
+    </term>
+    <term id="t149" lemma="7" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w149"/>
+      </span>
+    </term>
+    <term id="t150" lemma="kerkdorp" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w150"/>
+      </span>
+    </term>
+    <term id="t151" lemma=":" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w151"/>
+      </span>
+    </term>
+    <term id="t152" lemma="Peer" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w152"/>
+      </span>
+    </term>
+    <term id="t153" lemma="zelf" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w153"/>
+      </span>
+    </term>
+    <term id="t154" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w154"/>
+      </span>
+    </term>
+    <term id="t155" lemma="Linde" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w155"/>
+      </span>
+    </term>
+    <term id="t156" lemma="Peer" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w156"/>
+      </span>
+    </term>
+    <term id="t157" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w157"/>
+      </span>
+    </term>
+    <term id="t158" lemma="Wijchmaal" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w158"/>
+      </span>
+    </term>
+    <term id="t159" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w159"/>
+      </span>
+    </term>
+    <term id="t160" lemma="Wauberg" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w160"/>
+      </span>
+    </term>
+    <term id="t161" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w161"/>
+      </span>
+    </term>
+    <term id="t162" lemma="Grote-Brogel" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w162"/>
+      </span>
+    </term>
+    <term id="t163" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w163"/>
+      </span>
+    </term>
+    <term id="t164" lemma="Kleine-Brogel" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w164"/>
+      </span>
+    </term>
+    <term id="t165" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w165"/>
+      </span>
+    </term>
+    <term id="t166" lemma="Erpekom" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w166"/>
+      </span>
+    </term>
+    <term id="t167" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w167"/>
+      </span>
+    </term>
+    <term id="t185" lemma="bezienswaardigheid" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w185"/>
+      </span>
+    </term>
+    <term id="t187" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w187"/>
+      </span>
+    </term>
+    <term id="t188" lemma="Sint-Trudokerk" pos="name" morphofeat="N(eigen,ev,basis,zijd,stan)">
+      <span>
+        <target id="w188"/>
+      </span>
+    </term>
+    <term id="t189" lemma="uit" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w189"/>
+      </span>
+    </term>
+    <term id="t190" lemma="1422" pos="noun" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w190"/>
+      </span>
+    </term>
+    <term id="t191" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w191"/>
+      </span>
+    </term>
+    <term id="t195" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w195"/>
+      </span>
+    </term>
+    <term id="t196" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w196"/>
+      </span>
+    </term>
+    <term id="t197" lemma="kerk" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w197"/>
+      </span>
+    </term>
+    <term id="t198" lemma="staan" pos="verb" morphofeat="WW(pv,tgw,mv)">
+      <span>
+        <target id="w198"/>
+      </span>
+    </term>
+    <term id="t199" lemma="zeer" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w199"/>
+      </span>
+    </term>
+    <term id="t200" lemma="oud" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w200"/>
+      </span>
+    </term>
+    <term id="t201" lemma="beeld" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w201"/>
+      </span>
+    </term>
+    <term id="t202" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w202"/>
+      </span>
+    </term>
+    <term id="t209" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w209"/>
+      </span>
+    </term>
+    <term id="t210" lemma="stadhuis" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w210"/>
+      </span>
+    </term>
+    <term id="t211" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w211"/>
+      </span>
+    </term>
+    <term id="t212" lemma="Maaslands" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w212"/>
+      </span>
+    </term>
+    <term id="t213" lemma="renaissance" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w213"/>
+      </span>
+    </term>
+    <term id="t214" lemma="uit" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w214"/>
+      </span>
+    </term>
+    <term id="t215" lemma="1637" pos="noun" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w215"/>
+      </span>
+    </term>
+    <term id="t221" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w221"/>
+      </span>
+    </term>
+    <term id="t222" lemma="Armand" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w222"/>
+      </span>
+    </term>
+    <term id="t223" lemma="Preud'homme" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w223"/>
+      </span>
+    </term>
+    <term id="t224" lemma="museum" pos="name" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w224"/>
+      </span>
+    </term>
+    <term id="t228" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w228"/>
+      </span>
+    </term>
+    <term id="t229" lemma="museum" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w229"/>
+      </span>
+    </term>
+    <term id="t230" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w230"/>
+      </span>
+    </term>
+    <term id="t231" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w231"/>
+      </span>
+    </term>
+    <term id="t232" lemma="koninklijk" pos="name" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w232"/>
+      </span>
+    </term>
+    <term id="t233" lemma="harmonie" pos="name" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w233"/>
+      </span>
+    </term>
+    <term id="t234" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w234"/>
+      </span>
+    </term>
+    <term id="t235" lemma="Peer" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w235"/>
+      </span>
+    </term>
+    <term id="t242" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w242"/>
+      </span>
+    </term>
+    <term id="t243" lemma="militair" pos="adj" morphofeat="ADJ(prenom,basis,zonder)">
+      <span>
+        <target id="w243"/>
+      </span>
+    </term>
+    <term id="t244" lemma="domein" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w244"/>
+      </span>
+    </term>
+    <term id="t245" lemma="met" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w245"/>
+      </span>
+    </term>
+    <term id="t246" lemma="luchtmachtbasis" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w246"/>
+      </span>
+    </term>
+    <term id="t247" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w247"/>
+      </span>
+    </term>
+    <term id="t248" lemma="Kleine-Brogel" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w248"/>
+      </span>
+    </term>
+    <term id="t249" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w249"/>
+      </span>
+    </term>
+    <term id="t250" lemma="thuisbasis" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w250"/>
+      </span>
+    </term>
+    <term id="t251" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w251"/>
+      </span>
+    </term>
+    <term id="t252" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w252"/>
+      </span>
+    </term>
+    <term id="t253" lemma="tien" pos="name" morphofeat="TW(rang,prenom,stan)">
+      <span>
+        <target id="w253"/>
+      </span>
+    </term>
+    <term id="t254" lemma="tactisch" pos="name" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w254"/>
+      </span>
+    </term>
+    <term id="t255" lemma="wing" pos="name" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w255"/>
+      </span>
+    </term>
+    <term id="t256" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w256"/>
+      </span>
+    </term>
+    <term id="t257" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w257"/>
+      </span>
+    </term>
+    <term id="t258" lemma="Belgisch" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w258"/>
+      </span>
+    </term>
+    <term id="t259" lemma="F-16" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w259"/>
+      </span>
+    </term>
+    <term id="t260" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w260"/>
+      </span>
+    </term>
+    <term id="t279" lemma="voorzien" pos="adj" morphofeat="WW(vd,vrij,zonder)">
+      <span>
+        <target id="w279"/>
+      </span>
+    </term>
+    <term id="t280" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w280"/>
+      </span>
+    </term>
+    <term id="t281" lemma="een" pos="det" morphofeat="LID(onbep,stan,agr)">
+      <span>
+        <target id="w281"/>
+      </span>
+    </term>
+    <term id="t282" lemma="spotterscorner" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w282"/>
+      </span>
+    </term>
+    <term id="t283" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w283"/>
+      </span>
+    </term>
+    <term id="t288" lemma="recreatiedomein" pos="name" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w288"/>
+      </span>
+    </term>
+    <term id="t289" lemma="Erperheide" pos="name" morphofeat="N(eigen,ev,basis,zijd,stan)">
+      <span>
+        <target id="w289"/>
+      </span>
+    </term>
+    <term id="t292" lemma="één" pos="pron" morphofeat="TW(hoofd,nom,zonder-n,basis)">
+      <span>
+        <target id="w292"/>
+      </span>
+    </term>
+    <term id="t293" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w293"/>
+      </span>
+    </term>
+    <term id="t294" lemma="Europa" pos="det" morphofeat="N(eigen,ev,basis,gen)">
+      <span>
+        <target id="w294"/>
+      </span>
+    </term>
+    <term id="t295" lemma="groot" pos="adj" morphofeat="ADJ(prenom,sup,met-e,stan)">
+      <span>
+        <target id="w295"/>
+      </span>
+    </term>
+    <term id="t296" lemma="overdekken" pos="adj" morphofeat="WW(vd,prenom,met-e)">
+      <span>
+        <target id="w296"/>
+      </span>
+    </term>
+    <term id="t297" lemma="skipiste" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w297"/>
+      </span>
+    </term>
+    <term id="t302" lemma="«" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w302"/>
+      </span>
+    </term>
+    <term id="t303" lemma="Darco" pos="name" morphofeat="N(eigen,ev,basis,zijd,stan)">
+      <span>
+        <target id="w303"/>
+      </span>
+    </term>
+    <term id="t304" lemma="»" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w304"/>
+      </span>
+    </term>
+    <term id="t305" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w305"/>
+      </span>
+    </term>
+    <term id="t306" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w306"/>
+      </span>
+    </term>
+    <term id="t307" lemma="paard" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w307"/>
+      </span>
+    </term>
+    <term id="t308" lemma="waar" pos="adv" morphofeat="VNW(vb,adv-pron,obl,vol,3o,getal)">
+      <span>
+        <target id="w308"/>
+      </span>
+    </term>
+    <term id="t309" lemma="Ludo" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w309"/>
+      </span>
+    </term>
+    <term id="t310" lemma="Philippaerts" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w310"/>
+      </span>
+    </term>
+    <term id="t311" lemma="groot" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w311"/>
+      </span>
+    </term>
+    <term id="t312" lemma="succes" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w312"/>
+      </span>
+    </term>
+    <term id="t313" lemma="mee" pos="prep" morphofeat="VZ(fin)">
+      <span>
+        <target id="w313"/>
+      </span>
+    </term>
+    <term id="t314" lemma="behalen" pos="verb" morphofeat="WW(pv,verl,ev)">
+      <span>
+        <target id="w314"/>
+      </span>
+    </term>
+    <term id="t315" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w315"/>
+      </span>
+    </term>
+    <term id="t316" lemma="zijn" pos="verb" morphofeat="WW(pv,tgw,ev)">
+      <span>
+        <target id="w316"/>
+      </span>
+    </term>
+    <term id="t317" lemma="vereeuwigen" pos="verb" morphofeat="WW(vd,vrij,zonder)">
+      <span>
+        <target id="w317"/>
+      </span>
+    </term>
+    <term id="t318" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w318"/>
+      </span>
+    </term>
+    <term id="t319" lemma="een" pos="det" morphofeat="LID(onbep,stan,agr)">
+      <span>
+        <target id="w319"/>
+      </span>
+    </term>
+    <term id="t320" lemma="bronzen" pos="adj" morphofeat="ADJ(prenom,basis,zonder)">
+      <span>
+        <target id="w320"/>
+      </span>
+    </term>
+    <term id="t321" lemma="beeld" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w321"/>
+      </span>
+    </term>
+    <term id="t322" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w322"/>
+      </span>
+    </term>
+    <term id="t347" lemma="bekend" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w347"/>
+      </span>
+    </term>
+    <term id="t348" lemma="inwoner" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w348"/>
+      </span>
+    </term>
+    <term id="t351" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w351"/>
+      </span>
+    </term>
+    <term id="t352" lemma="componist" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w352"/>
+      </span>
+    </term>
+    <term id="t353" lemma="Armand" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w353"/>
+      </span>
+    </term>
+    <term id="t354" lemma="Preud'homme" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w354"/>
+      </span>
+    </term>
+    <term id="t355" lemma="worden" pos="verb" morphofeat="WW(pv,verl,ev)">
+      <span>
+        <target id="w355"/>
+      </span>
+    </term>
+    <term id="t356" lemma="op" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w356"/>
+      </span>
+    </term>
+    <term id="t357" lemma="21" pos="noun" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w357"/>
+      </span>
+    </term>
+    <term id="t358" lemma="februari" pos="noun" morphofeat="N(eigen,ev,basis,zijd,stan)">
+      <span>
+        <target id="w358"/>
+      </span>
+    </term>
+    <term id="t359" lemma="1904" pos="noun" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w359"/>
+      </span>
+    </term>
+    <term id="t360" lemma="geboren" pos="verb" morphofeat="ADJ(vrij,basis,zonder)">
+      <span>
+        <target id="w360"/>
+      </span>
+    </term>
+    <term id="t361" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w361"/>
+      </span>
+    </term>
+    <term id="t362" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w362"/>
+      </span>
+    </term>
+    <term id="t363" lemma="Kloosterstraat" pos="name" morphofeat="N(eigen,ev,basis,zijd,stan)">
+      <span>
+        <target id="w363"/>
+      </span>
+    </term>
+    <term id="t364" lemma="37" pos="num" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w364"/>
+      </span>
+    </term>
+    <term id="t365" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w365"/>
+      </span>
+    </term>
+    <term id="t366" lemma="Peer" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w366"/>
+      </span>
+    </term>
+    <term id="t367" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w367"/>
+      </span>
+    </term>
+    <term id="t379" lemma="met" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w379"/>
+      </span>
+    </term>
+    <term id="t380" lemma="medewerking" pos="prep" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w380"/>
+      </span>
+    </term>
+    <term id="t381" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w381"/>
+      </span>
+    </term>
+    <term id="t382" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w382"/>
+      </span>
+    </term>
+    <term id="t383" lemma="stad" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w383"/>
+      </span>
+    </term>
+    <term id="t384" lemma="Peer" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w384"/>
+      </span>
+    </term>
+    <term id="t385" lemma="worden" pos="verb" morphofeat="WW(pv,verl,ev)">
+      <span>
+        <target id="w385"/>
+      </span>
+    </term>
+    <term id="t386" lemma="zijn" pos="det" morphofeat="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)">
+      <span>
+        <target id="w386"/>
+      </span>
+    </term>
+    <term id="t387" lemma="geboortehuis" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w387"/>
+      </span>
+    </term>
+    <term id="t388" lemma="laat" pos="adv" morphofeat="ADJ(vrij,comp,zonder)">
+      <span>
+        <target id="w388"/>
+      </span>
+    </term>
+    <term id="t389" lemma="inrichten" pos="verb" morphofeat="WW(vd,vrij,zonder)">
+      <span>
+        <target id="w389"/>
+      </span>
+    </term>
+    <term id="t390" lemma="als" pos="comp" morphofeat="VZ(init)">
+      <span>
+        <target id="w390"/>
+      </span>
+    </term>
+    <term id="t391" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w391"/>
+      </span>
+    </term>
+    <term id="t392" lemma="«" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w392"/>
+      </span>
+    </term>
+    <term id="t393" lemma="Armand" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w393"/>
+      </span>
+    </term>
+    <term id="t394" lemma="Preud'homme" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w394"/>
+      </span>
+    </term>
+    <term id="t395" lemma="museum" pos="name" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w395"/>
+      </span>
+    </term>
+    <term id="t396" lemma="»" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w396"/>
+      </span>
+    </term>
+    <term id="t397" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w397"/>
+      </span>
+    </term>
+    <term id="t422" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w422"/>
+      </span>
+    </term>
+    <term id="t423" lemma="charmezanger" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w423"/>
+      </span>
+    </term>
+    <term id="t424" lemma="Salim" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w424"/>
+      </span>
+    </term>
+    <term id="t425" lemma="Seghers" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w425"/>
+      </span>
+    </term>
+    <term id="t426" lemma="wonen" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w426"/>
+      </span>
+    </term>
+    <term id="t427" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w427"/>
+      </span>
+    </term>
+    <term id="t428" lemma="Wijchmaal" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w428"/>
+      </span>
+    </term>
+    <term id="t429" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w429"/>
+      </span>
+    </term>
+    <term id="t430" lemma="een" pos="det" morphofeat="LID(onbep,stan,agr)">
+      <span>
+        <target id="w430"/>
+      </span>
+    </term>
+    <term id="t431" lemma="deelgemeente" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w431"/>
+      </span>
+    </term>
+    <term id="t432" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w432"/>
+      </span>
+    </term>
+    <term id="t433" lemma="Peer" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w433"/>
+      </span>
+    </term>
+    <term id="t434" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w434"/>
+      </span>
+    </term>
+    <term id="t450" lemma="extern" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w450"/>
+      </span>
+    </term>
+    <term id="t451" lemma="link" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w451"/>
+      </span>
+    </term>
+  </terms>
+  <srl>
+    <predicate id="p1">
+      <span>
+        <target id="t27"/>
+      </span>
+      <role id="s1" semRole="Arg0">
+        <span>
+          <target id="t25"/>
+          <target id="t26"/>
+        </span>
+      </role>
+      <role id="s2" semRole="Arg1">
+        <span>
+          <target id="t28"/>
+          <target id="t29"/>
+          <target id="t30"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p2">
+      <span>
+        <target id="t75"/>
+      </span>
+      <role id="s3" semRole="Arg1">
+        <span>
+          <target id="t76"/>
+          <target id="t77"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p3">
+      <span>
+        <target id="t97"/>
+      </span>
+      <role id="s4" semRole="Arg0">
+        <span>
+          <target id="t98"/>
+        </span>
+      </role>
+      <role id="s5" semRole="Arg1">
+        <span>
+          <target id="t99"/>
+          <target id="t100"/>
+          <target id="t101"/>
+          <target id="t102"/>
+          <target id="t103"/>
+          <target id="t105"/>
+          <target id="t106"/>
+          <target id="t107"/>
+          <target id="t108"/>
+          <target id="t109"/>
+        </span>
+      </role>
+      <role id="s6" semRole="ArgM-TMP">
+        <span>
+          <target id="t95"/>
+          <target id="t96"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p4">
+      <span>
+        <target id="t148"/>
+      </span>
+      <role id="s7" semRole="Arg0">
+        <span>
+          <target id="t147"/>
+        </span>
+      </role>
+      <role id="s8" semRole="Arg1">
+        <span>
+          <target id="t149"/>
+          <target id="t150"/>
+          <target id="t152"/>
+          <target id="t153"/>
+          <target id="t155"/>
+          <target id="t156"/>
+          <target id="t158"/>
+          <target id="t160"/>
+          <target id="t162"/>
+          <target id="t164"/>
+          <target id="t165"/>
+          <target id="t166"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p5">
+      <span>
+        <target id="t198"/>
+      </span>
+      <role id="s9" semRole="Arg1">
+        <span>
+          <target id="t199"/>
+          <target id="t200"/>
+          <target id="t201"/>
+        </span>
+      </role>
+      <role id="s10" semRole="Arg2">
+        <span>
+          <target id="t195"/>
+          <target id="t196"/>
+          <target id="t197"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p6">
+      <span>
+        <target id="t314"/>
+      </span>
+      <role id="s11" semRole="Arg0">
+        <span>
+          <target id="t309"/>
+          <target id="t310"/>
+        </span>
+      </role>
+      <role id="s12" semRole="ArgM-LOC">
+        <span>
+          <target id="t313"/>
+        </span>
+      </role>
+      <role id="s13" semRole="Arg1">
+        <span>
+          <target id="t311"/>
+          <target id="t312"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p7">
+      <span>
+        <target id="t317"/>
+      </span>
+      <role id="s14" semRole="ArgM-LOC">
+        <span>
+          <target id="t318"/>
+          <target id="t319"/>
+          <target id="t320"/>
+          <target id="t321"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p8">
+      <span>
+        <target id="t360"/>
+      </span>
+      <role id="s15" semRole="ArgM-LOC">
+        <span>
+          <target id="t361"/>
+          <target id="t362"/>
+          <target id="t363"/>
+          <target id="t364"/>
+          <target id="t365"/>
+          <target id="t366"/>
+        </span>
+      </role>
+      <role id="s16" semRole="ArgM-TMP">
+        <span>
+          <target id="t356"/>
+          <target id="t357"/>
+          <target id="t358"/>
+          <target id="t359"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p9">
+      <span>
+        <target id="t389"/>
+      </span>
+      <role id="s17" semRole="ArgM-ADV">
+        <span>
+          <target id="t379"/>
+          <target id="t380"/>
+          <target id="t381"/>
+          <target id="t382"/>
+          <target id="t383"/>
+          <target id="t384"/>
+        </span>
+      </role>
+      <role id="s18" semRole="ArgM-TMP">
+        <span>
+          <target id="t388"/>
+        </span>
+      </role>
+      <role id="s19" semRole="Arg2">
+        <span>
+          <target id="t390"/>
+          <target id="t391"/>
+          <target id="t393"/>
+          <target id="t394"/>
+          <target id="t395"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p10">
+      <span>
+        <target id="t426"/>
+      </span>
+      <role id="s20" semRole="Arg0">
+        <span>
+          <target id="t422"/>
+          <target id="t423"/>
+          <target id="t424"/>
+          <target id="t425"/>
+        </span>
+      </role>
+      <role id="s21" semRole="Arg1">
+        <span>
+          <target id="t427"/>
+          <target id="t428"/>
+          <target id="t430"/>
+          <target id="t431"/>
+          <target id="t432"/>
+          <target id="t433"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+</NAF>

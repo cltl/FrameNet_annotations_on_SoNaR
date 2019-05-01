@@ -14,6 +14,7 @@ Examples:
 """
 import utils
 import os
+from pathlib import Path
 from glob import glob
 from lxml import etree
 import pickle
@@ -32,18 +33,32 @@ assert annotator in {'A1', 'A2'}, f'{annotator} not an option: {"A1", "A2"}'
 
 id2frame_obj = dict()
 for path in glob(f'../corpus/{annotator}/*xml'):
+
+    # load paths
+    cat_path = Path(path)
+    base = cat_path.stem.replace('-fn.txt', '')
+    naf_path = Path(f'../corpus/MANUAL500-NAF/{base}.naf')
+    assert cat_path.exists()
+    cat_doc = etree.parse(cat_path.as_posix())
+    assert naf_path.exists(), f'no equivalent for cat file {cat_path}'
+    naf_doc = etree.parse(naf_path.as_posix())
+
     doc = etree.parse(path)
     root = doc.getroot()
-    doc_name = os.path.basename(path)
+    doc_name = base
 
-    t_id2token_info = utils.load_all_tokens(doc)
-    m_id2frame_obj = utils.load_event_mentions(doc,
+    # load information about lemmatization from naf
+    index2lemma = utils.load_index2lemma_from_naf(naf_doc)
+
+    t_id2token_info = utils.load_all_tokens(cat_doc, index2lemma)
+    m_id2frame_obj = utils.load_event_mentions(cat_doc,
                                                doc_name,
                                                t_id2token_info)
-    m_id2frame_element_obj = utils.load_entity_mentions(doc,
+
+    m_id2frame_element_obj = utils.load_entity_mentions(cat_doc,
                                                         doc_name,
                                                         t_id2token_info)
-    utils.update_frame_and_fe_info(doc,
+    utils.update_frame_and_fe_info(cat_doc,
                                    m_id2frame_obj,
                                    m_id2frame_element_obj,
                                    verbose=1)

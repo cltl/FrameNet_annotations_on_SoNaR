@@ -1,0 +1,2097 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl">
+  <raw><![CDATA[ Maar liefst 11892 drugsverslaafden en - handelaren zijn afgelopen week bij grootscheepse razzia's in Iran aangehouden . Niet altijd zonder tegenstand , want bij schietpartijen kwamen negen handelaren om , zo meldt het Iraanse staatspersbureau Irna .
+
+ De islamitische republiek heeft al sinds jaar en dag een drugsprobleem . Het land telt zeker 1,2 miljoen verslaafden en een kleine miljoen onregelmatige gebruikers - en hier en daar valt ook het totale aantal van zes miljoen druggebruikers te horen , bijna tien procent van de bevolking . Bij die cijfers wordt geen onderscheid gemaakt tussen heroïne , opium , morfine en hasj . Van opium wordt beweerd dat zich zelfs onder de geestelijke elite tot op zeer hoog niveau gebruikers bevinden . De andere drugs worden in toenemende mate gebruikt door Iraanse jongeren , die ontevreden zijn vanwege hoge werkloosheid en de beperkingen die de islamitische republiek hen oplegt .
+
+ Iran is een belangrijke doorvoerroute voor drugs uit Afghanistan en Pakistan . Langs de 945 kilometer lange Afghaanse grens staat sinds vorig jaar een bewaakt hek , maar handelaren brengen hun waar nu met boten over de Perzische Golf . Zestig procent van de handel vindt via Iran z'n weg naar Turkije en daarna verder naar het Westen .
+
+ De razzia's van afgelopen week zijn onderdeel van een hard beleid tegen de drugsmokkel . Vrijwel wekelijks zijn er berichten over schietpartijen bij het onderscheppen van partijen van soms wel een ton of meer . Iran heeft de afgelopen twintig jaar meer dan 10000 handelaren geëxecuteerd . Zo'n 800 ter dood veroordeelden wachten nog op de uitvoering van hun vonnis .]]></raw>
+  <nafHeader>
+    <fileDesc title="WR-P-P-H-0000000099"/>
+    <linguisticProcessors layer="text">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:53:12CEST" beginTimestamp="2016-10-10T21:53:12CEST" endTimestamp="2016-10-10T21:53:12CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:53:12CEST" beginTimestamp="2016-10-10T21:53:12CEST" endTimestamp="2016-10-10T21:53:12CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:53:12CEST" beginTimestamp="2016-10-10T21:53:12CEST" endTimestamp="2016-10-10T21:53:12CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <text>
+    <wf id="w1" para="1" sent="1" offset="0" length="4"><![CDATA[Maar]]></wf>
+    <wf id="w2" para="1" sent="1" offset="5" length="6"><![CDATA[liefst]]></wf>
+    <wf id="w3" para="1" sent="1" offset="12" length="5"><![CDATA[11892]]></wf>
+    <wf id="w4" para="1" sent="1" offset="18" length="16"><![CDATA[drugsverslaafden]]></wf>
+    <wf id="w5" para="1" sent="1" offset="35" length="2"><![CDATA[en]]></wf>
+    <wf id="w6" para="1" sent="1" offset="38" length="1"><![CDATA[-]]></wf>
+    <wf id="w7" para="1" sent="1" offset="40" length="10"><![CDATA[handelaren]]></wf>
+    <wf id="w8" para="1" sent="1" offset="51" length="4"><![CDATA[zijn]]></wf>
+    <wf id="w9" para="1" sent="1" offset="56" length="9"><![CDATA[afgelopen]]></wf>
+    <wf id="w10" para="1" sent="1" offset="66" length="4"><![CDATA[week]]></wf>
+    <wf id="w11" para="1" sent="1" offset="71" length="3"><![CDATA[bij]]></wf>
+    <wf id="w12" para="1" sent="1" offset="75" length="13"><![CDATA[grootscheepse]]></wf>
+    <wf id="w13" para="1" sent="1" offset="89" length="8"><![CDATA[razzia's]]></wf>
+    <wf id="w14" para="1" sent="1" offset="98" length="2"><![CDATA[in]]></wf>
+    <wf id="w15" para="1" sent="1" offset="101" length="4"><![CDATA[Iran]]></wf>
+    <wf id="w16" para="1" sent="1" offset="106" length="11"><![CDATA[aangehouden]]></wf>
+    <wf id="w17" para="1" sent="1" offset="118" length="1"><![CDATA[.]]></wf>
+    <wf id="w37" para="1" sent="2" offset="120" length="4"><![CDATA[Niet]]></wf>
+    <wf id="w38" para="1" sent="2" offset="125" length="6"><![CDATA[altijd]]></wf>
+    <wf id="w39" para="1" sent="2" offset="132" length="6"><![CDATA[zonder]]></wf>
+    <wf id="w40" para="1" sent="2" offset="139" length="10"><![CDATA[tegenstand]]></wf>
+    <wf id="w41" para="1" sent="2" offset="150" length="1"><![CDATA[,]]></wf>
+    <wf id="w42" para="1" sent="2" offset="152" length="4"><![CDATA[want]]></wf>
+    <wf id="w43" para="1" sent="2" offset="157" length="3"><![CDATA[bij]]></wf>
+    <wf id="w44" para="1" sent="2" offset="161" length="14"><![CDATA[schietpartijen]]></wf>
+    <wf id="w45" para="1" sent="2" offset="176" length="6"><![CDATA[kwamen]]></wf>
+    <wf id="w46" para="1" sent="2" offset="183" length="5"><![CDATA[negen]]></wf>
+    <wf id="w47" para="1" sent="2" offset="189" length="10"><![CDATA[handelaren]]></wf>
+    <wf id="w48" para="1" sent="2" offset="200" length="2"><![CDATA[om]]></wf>
+    <wf id="w49" para="1" sent="2" offset="203" length="1"><![CDATA[,]]></wf>
+    <wf id="w50" para="1" sent="2" offset="205" length="2"><![CDATA[zo]]></wf>
+    <wf id="w51" para="1" sent="2" offset="208" length="5"><![CDATA[meldt]]></wf>
+    <wf id="w52" para="1" sent="2" offset="214" length="3"><![CDATA[het]]></wf>
+    <wf id="w53" para="1" sent="2" offset="218" length="7"><![CDATA[Iraanse]]></wf>
+    <wf id="w54" para="1" sent="2" offset="226" length="16"><![CDATA[staatspersbureau]]></wf>
+    <wf id="w55" para="1" sent="2" offset="243" length="4"><![CDATA[Irna]]></wf>
+    <wf id="w56" para="1" sent="2" offset="248" length="1"><![CDATA[.]]></wf>
+    <wf id="w78" para="2" sent="3" offset="250" length="2"><![CDATA[De]]></wf>
+    <wf id="w79" para="2" sent="3" offset="253" length="12"><![CDATA[islamitische]]></wf>
+    <wf id="w80" para="2" sent="3" offset="266" length="9"><![CDATA[republiek]]></wf>
+    <wf id="w81" para="2" sent="3" offset="276" length="5"><![CDATA[heeft]]></wf>
+    <wf id="w82" para="2" sent="3" offset="282" length="2"><![CDATA[al]]></wf>
+    <wf id="w83" para="2" sent="3" offset="285" length="5"><![CDATA[sinds]]></wf>
+    <wf id="w84" para="2" sent="3" offset="291" length="4"><![CDATA[jaar]]></wf>
+    <wf id="w85" para="2" sent="3" offset="296" length="2"><![CDATA[en]]></wf>
+    <wf id="w86" para="2" sent="3" offset="299" length="3"><![CDATA[dag]]></wf>
+    <wf id="w87" para="2" sent="3" offset="303" length="3"><![CDATA[een]]></wf>
+    <wf id="w88" para="2" sent="3" offset="307" length="13"><![CDATA[drugsprobleem]]></wf>
+    <wf id="w89" para="2" sent="3" offset="321" length="1"><![CDATA[.]]></wf>
+    <wf id="w96" para="2" sent="4" offset="323" length="3"><![CDATA[Het]]></wf>
+    <wf id="w97" para="2" sent="4" offset="327" length="4"><![CDATA[land]]></wf>
+    <wf id="w98" para="2" sent="4" offset="332" length="4"><![CDATA[telt]]></wf>
+    <wf id="w99" para="2" sent="4" offset="337" length="5"><![CDATA[zeker]]></wf>
+    <wf id="w100" para="2" sent="4" offset="343" length="3"><![CDATA[1,2]]></wf>
+    <wf id="w101" para="2" sent="4" offset="347" length="7"><![CDATA[miljoen]]></wf>
+    <wf id="w102" para="2" sent="4" offset="355" length="11"><![CDATA[verslaafden]]></wf>
+    <wf id="w103" para="2" sent="4" offset="367" length="2"><![CDATA[en]]></wf>
+    <wf id="w104" para="2" sent="4" offset="370" length="3"><![CDATA[een]]></wf>
+    <wf id="w105" para="2" sent="4" offset="374" length="6"><![CDATA[kleine]]></wf>
+    <wf id="w106" para="2" sent="4" offset="381" length="7"><![CDATA[miljoen]]></wf>
+    <wf id="w107" para="2" sent="4" offset="389" length="13"><![CDATA[onregelmatige]]></wf>
+    <wf id="w108" para="2" sent="4" offset="403" length="10"><![CDATA[gebruikers]]></wf>
+    <wf id="w109" para="2" sent="4" offset="414" length="1"><![CDATA[-]]></wf>
+    <wf id="w110" para="2" sent="4" offset="416" length="2"><![CDATA[en]]></wf>
+    <wf id="w111" para="2" sent="4" offset="419" length="4"><![CDATA[hier]]></wf>
+    <wf id="w112" para="2" sent="4" offset="424" length="2"><![CDATA[en]]></wf>
+    <wf id="w113" para="2" sent="4" offset="427" length="4"><![CDATA[daar]]></wf>
+    <wf id="w114" para="2" sent="4" offset="432" length="4"><![CDATA[valt]]></wf>
+    <wf id="w115" para="2" sent="4" offset="437" length="3"><![CDATA[ook]]></wf>
+    <wf id="w116" para="2" sent="4" offset="441" length="3"><![CDATA[het]]></wf>
+    <wf id="w117" para="2" sent="4" offset="445" length="6"><![CDATA[totale]]></wf>
+    <wf id="w118" para="2" sent="4" offset="452" length="6"><![CDATA[aantal]]></wf>
+    <wf id="w119" para="2" sent="4" offset="459" length="3"><![CDATA[van]]></wf>
+    <wf id="w120" para="2" sent="4" offset="463" length="3"><![CDATA[zes]]></wf>
+    <wf id="w121" para="2" sent="4" offset="467" length="7"><![CDATA[miljoen]]></wf>
+    <wf id="w122" para="2" sent="4" offset="475" length="14"><![CDATA[druggebruikers]]></wf>
+    <wf id="w123" para="2" sent="4" offset="490" length="2"><![CDATA[te]]></wf>
+    <wf id="w124" para="2" sent="4" offset="493" length="5"><![CDATA[horen]]></wf>
+    <wf id="w125" para="2" sent="4" offset="499" length="1"><![CDATA[,]]></wf>
+    <wf id="w126" para="2" sent="4" offset="501" length="5"><![CDATA[bijna]]></wf>
+    <wf id="w127" para="2" sent="4" offset="507" length="4"><![CDATA[tien]]></wf>
+    <wf id="w128" para="2" sent="4" offset="512" length="7"><![CDATA[procent]]></wf>
+    <wf id="w129" para="2" sent="4" offset="520" length="3"><![CDATA[van]]></wf>
+    <wf id="w130" para="2" sent="4" offset="524" length="2"><![CDATA[de]]></wf>
+    <wf id="w131" para="2" sent="4" offset="527" length="9"><![CDATA[bevolking]]></wf>
+    <wf id="w132" para="2" sent="4" offset="537" length="1"><![CDATA[.]]></wf>
+    <wf id="w181" para="2" sent="5" offset="539" length="3"><![CDATA[Bij]]></wf>
+    <wf id="w182" para="2" sent="5" offset="543" length="3"><![CDATA[die]]></wf>
+    <wf id="w183" para="2" sent="5" offset="547" length="7"><![CDATA[cijfers]]></wf>
+    <wf id="w184" para="2" sent="5" offset="555" length="5"><![CDATA[wordt]]></wf>
+    <wf id="w185" para="2" sent="5" offset="561" length="4"><![CDATA[geen]]></wf>
+    <wf id="w186" para="2" sent="5" offset="566" length="11"><![CDATA[onderscheid]]></wf>
+    <wf id="w187" para="2" sent="5" offset="578" length="7"><![CDATA[gemaakt]]></wf>
+    <wf id="w188" para="2" sent="5" offset="586" length="6"><![CDATA[tussen]]></wf>
+    <wf id="w189" para="2" sent="5" offset="593" length="7"><![CDATA[heroïne]]></wf>
+    <wf id="w190" para="2" sent="5" offset="601" length="1"><![CDATA[,]]></wf>
+    <wf id="w191" para="2" sent="5" offset="603" length="5"><![CDATA[opium]]></wf>
+    <wf id="w192" para="2" sent="5" offset="609" length="1"><![CDATA[,]]></wf>
+    <wf id="w193" para="2" sent="5" offset="611" length="7"><![CDATA[morfine]]></wf>
+    <wf id="w194" para="2" sent="5" offset="619" length="2"><![CDATA[en]]></wf>
+    <wf id="w195" para="2" sent="5" offset="622" length="4"><![CDATA[hasj]]></wf>
+    <wf id="w196" para="2" sent="5" offset="627" length="1"><![CDATA[.]]></wf>
+    <wf id="w216" para="2" sent="6" offset="629" length="3"><![CDATA[Van]]></wf>
+    <wf id="w217" para="2" sent="6" offset="633" length="5"><![CDATA[opium]]></wf>
+    <wf id="w218" para="2" sent="6" offset="639" length="5"><![CDATA[wordt]]></wf>
+    <wf id="w219" para="2" sent="6" offset="645" length="7"><![CDATA[beweerd]]></wf>
+    <wf id="w220" para="2" sent="6" offset="653" length="3"><![CDATA[dat]]></wf>
+    <wf id="w221" para="2" sent="6" offset="657" length="4"><![CDATA[zich]]></wf>
+    <wf id="w222" para="2" sent="6" offset="662" length="5"><![CDATA[zelfs]]></wf>
+    <wf id="w223" para="2" sent="6" offset="668" length="5"><![CDATA[onder]]></wf>
+    <wf id="w224" para="2" sent="6" offset="674" length="2"><![CDATA[de]]></wf>
+    <wf id="w225" para="2" sent="6" offset="677" length="11"><![CDATA[geestelijke]]></wf>
+    <wf id="w226" para="2" sent="6" offset="689" length="5"><![CDATA[elite]]></wf>
+    <wf id="w227" para="2" sent="6" offset="695" length="3"><![CDATA[tot]]></wf>
+    <wf id="w228" para="2" sent="6" offset="699" length="2"><![CDATA[op]]></wf>
+    <wf id="w229" para="2" sent="6" offset="702" length="4"><![CDATA[zeer]]></wf>
+    <wf id="w230" para="2" sent="6" offset="707" length="4"><![CDATA[hoog]]></wf>
+    <wf id="w231" para="2" sent="6" offset="712" length="6"><![CDATA[niveau]]></wf>
+    <wf id="w232" para="2" sent="6" offset="719" length="10"><![CDATA[gebruikers]]></wf>
+    <wf id="w233" para="2" sent="6" offset="730" length="8"><![CDATA[bevinden]]></wf>
+    <wf id="w234" para="2" sent="6" offset="739" length="1"><![CDATA[.]]></wf>
+    <wf id="w249" para="2" sent="7" offset="741" length="2"><![CDATA[De]]></wf>
+    <wf id="w250" para="2" sent="7" offset="744" length="6"><![CDATA[andere]]></wf>
+    <wf id="w251" para="2" sent="7" offset="751" length="5"><![CDATA[drugs]]></wf>
+    <wf id="w252" para="2" sent="7" offset="757" length="6"><![CDATA[worden]]></wf>
+    <wf id="w253" para="2" sent="7" offset="764" length="2"><![CDATA[in]]></wf>
+    <wf id="w254" para="2" sent="7" offset="767" length="10"><![CDATA[toenemende]]></wf>
+    <wf id="w255" para="2" sent="7" offset="778" length="4"><![CDATA[mate]]></wf>
+    <wf id="w256" para="2" sent="7" offset="783" length="8"><![CDATA[gebruikt]]></wf>
+    <wf id="w257" para="2" sent="7" offset="792" length="4"><![CDATA[door]]></wf>
+    <wf id="w258" para="2" sent="7" offset="797" length="7"><![CDATA[Iraanse]]></wf>
+    <wf id="w259" para="2" sent="7" offset="805" length="8"><![CDATA[jongeren]]></wf>
+    <wf id="w260" para="2" sent="7" offset="814" length="1"><![CDATA[,]]></wf>
+    <wf id="w261" para="2" sent="7" offset="816" length="3"><![CDATA[die]]></wf>
+    <wf id="w262" para="2" sent="7" offset="820" length="10"><![CDATA[ontevreden]]></wf>
+    <wf id="w263" para="2" sent="7" offset="831" length="4"><![CDATA[zijn]]></wf>
+    <wf id="w264" para="2" sent="7" offset="836" length="7"><![CDATA[vanwege]]></wf>
+    <wf id="w265" para="2" sent="7" offset="844" length="4"><![CDATA[hoge]]></wf>
+    <wf id="w266" para="2" sent="7" offset="849" length="12"><![CDATA[werkloosheid]]></wf>
+    <wf id="w267" para="2" sent="7" offset="862" length="2"><![CDATA[en]]></wf>
+    <wf id="w268" para="2" sent="7" offset="865" length="2"><![CDATA[de]]></wf>
+    <wf id="w269" para="2" sent="7" offset="868" length="11"><![CDATA[beperkingen]]></wf>
+    <wf id="w270" para="2" sent="7" offset="880" length="3"><![CDATA[die]]></wf>
+    <wf id="w271" para="2" sent="7" offset="884" length="2"><![CDATA[de]]></wf>
+    <wf id="w272" para="2" sent="7" offset="887" length="12"><![CDATA[islamitische]]></wf>
+    <wf id="w273" para="2" sent="7" offset="900" length="9"><![CDATA[republiek]]></wf>
+    <wf id="w274" para="2" sent="7" offset="910" length="3"><![CDATA[hen]]></wf>
+    <wf id="w275" para="2" sent="7" offset="914" length="6"><![CDATA[oplegt]]></wf>
+    <wf id="w276" para="2" sent="7" offset="921" length="1"><![CDATA[.]]></wf>
+    <wf id="w308" para="3" sent="8" offset="923" length="4"><![CDATA[Iran]]></wf>
+    <wf id="w309" para="3" sent="8" offset="928" length="2"><![CDATA[is]]></wf>
+    <wf id="w310" para="3" sent="8" offset="931" length="3"><![CDATA[een]]></wf>
+    <wf id="w311" para="3" sent="8" offset="935" length="11"><![CDATA[belangrijke]]></wf>
+    <wf id="w312" para="3" sent="8" offset="947" length="13"><![CDATA[doorvoerroute]]></wf>
+    <wf id="w313" para="3" sent="8" offset="961" length="4"><![CDATA[voor]]></wf>
+    <wf id="w314" para="3" sent="8" offset="966" length="5"><![CDATA[drugs]]></wf>
+    <wf id="w315" para="3" sent="8" offset="972" length="3"><![CDATA[uit]]></wf>
+    <wf id="w316" para="3" sent="8" offset="976" length="11"><![CDATA[Afghanistan]]></wf>
+    <wf id="w317" para="3" sent="8" offset="988" length="2"><![CDATA[en]]></wf>
+    <wf id="w318" para="3" sent="8" offset="991" length="8"><![CDATA[Pakistan]]></wf>
+    <wf id="w319" para="3" sent="8" offset="1000" length="1"><![CDATA[.]]></wf>
+    <wf id="w327" para="3" sent="9" offset="1002" length="5"><![CDATA[Langs]]></wf>
+    <wf id="w328" para="3" sent="9" offset="1008" length="2"><![CDATA[de]]></wf>
+    <wf id="w329" para="3" sent="9" offset="1011" length="3"><![CDATA[945]]></wf>
+    <wf id="w330" para="3" sent="9" offset="1015" length="9"><![CDATA[kilometer]]></wf>
+    <wf id="w331" para="3" sent="9" offset="1025" length="5"><![CDATA[lange]]></wf>
+    <wf id="w332" para="3" sent="9" offset="1031" length="9"><![CDATA[Afghaanse]]></wf>
+    <wf id="w333" para="3" sent="9" offset="1041" length="5"><![CDATA[grens]]></wf>
+    <wf id="w334" para="3" sent="9" offset="1047" length="5"><![CDATA[staat]]></wf>
+    <wf id="w335" para="3" sent="9" offset="1053" length="5"><![CDATA[sinds]]></wf>
+    <wf id="w336" para="3" sent="9" offset="1059" length="5"><![CDATA[vorig]]></wf>
+    <wf id="w337" para="3" sent="9" offset="1065" length="4"><![CDATA[jaar]]></wf>
+    <wf id="w338" para="3" sent="9" offset="1070" length="3"><![CDATA[een]]></wf>
+    <wf id="w339" para="3" sent="9" offset="1074" length="7"><![CDATA[bewaakt]]></wf>
+    <wf id="w340" para="3" sent="9" offset="1082" length="3"><![CDATA[hek]]></wf>
+    <wf id="w341" para="3" sent="9" offset="1086" length="1"><![CDATA[,]]></wf>
+    <wf id="w342" para="3" sent="9" offset="1088" length="4"><![CDATA[maar]]></wf>
+    <wf id="w343" para="3" sent="9" offset="1093" length="10"><![CDATA[handelaren]]></wf>
+    <wf id="w344" para="3" sent="9" offset="1104" length="7"><![CDATA[brengen]]></wf>
+    <wf id="w345" para="3" sent="9" offset="1112" length="3"><![CDATA[hun]]></wf>
+    <wf id="w346" para="3" sent="9" offset="1116" length="4"><![CDATA[waar]]></wf>
+    <wf id="w347" para="3" sent="9" offset="1121" length="2"><![CDATA[nu]]></wf>
+    <wf id="w348" para="3" sent="9" offset="1124" length="3"><![CDATA[met]]></wf>
+    <wf id="w349" para="3" sent="9" offset="1128" length="5"><![CDATA[boten]]></wf>
+    <wf id="w350" para="3" sent="9" offset="1134" length="4"><![CDATA[over]]></wf>
+    <wf id="w351" para="3" sent="9" offset="1139" length="2"><![CDATA[de]]></wf>
+    <wf id="w352" para="3" sent="9" offset="1142" length="9"><![CDATA[Perzische]]></wf>
+    <wf id="w353" para="3" sent="9" offset="1152" length="4"><![CDATA[Golf]]></wf>
+    <wf id="w354" para="3" sent="9" offset="1157" length="1"><![CDATA[.]]></wf>
+    <wf id="w386" para="3" sent="10" offset="1159" length="6"><![CDATA[Zestig]]></wf>
+    <wf id="w387" para="3" sent="10" offset="1166" length="7"><![CDATA[procent]]></wf>
+    <wf id="w388" para="3" sent="10" offset="1174" length="3"><![CDATA[van]]></wf>
+    <wf id="w389" para="3" sent="10" offset="1178" length="2"><![CDATA[de]]></wf>
+    <wf id="w390" para="3" sent="10" offset="1181" length="6"><![CDATA[handel]]></wf>
+    <wf id="w391" para="3" sent="10" offset="1188" length="5"><![CDATA[vindt]]></wf>
+    <wf id="w392" para="3" sent="10" offset="1194" length="3"><![CDATA[via]]></wf>
+    <wf id="w393" para="3" sent="10" offset="1198" length="4"><![CDATA[Iran]]></wf>
+    <wf id="w394" para="3" sent="10" offset="1203" length="3"><![CDATA[z'n]]></wf>
+    <wf id="w395" para="3" sent="10" offset="1207" length="3"><![CDATA[weg]]></wf>
+    <wf id="w396" para="3" sent="10" offset="1211" length="4"><![CDATA[naar]]></wf>
+    <wf id="w397" para="3" sent="10" offset="1216" length="7"><![CDATA[Turkije]]></wf>
+    <wf id="w398" para="3" sent="10" offset="1224" length="2"><![CDATA[en]]></wf>
+    <wf id="w399" para="3" sent="10" offset="1227" length="6"><![CDATA[daarna]]></wf>
+    <wf id="w400" para="3" sent="10" offset="1234" length="6"><![CDATA[verder]]></wf>
+    <wf id="w401" para="3" sent="10" offset="1241" length="4"><![CDATA[naar]]></wf>
+    <wf id="w402" para="3" sent="10" offset="1246" length="3"><![CDATA[het]]></wf>
+    <wf id="w403" para="3" sent="10" offset="1250" length="6"><![CDATA[Westen]]></wf>
+    <wf id="w404" para="3" sent="10" offset="1257" length="1"><![CDATA[.]]></wf>
+    <wf id="w416" para="4" sent="11" offset="1259" length="2"><![CDATA[De]]></wf>
+    <wf id="w417" para="4" sent="11" offset="1262" length="8"><![CDATA[razzia's]]></wf>
+    <wf id="w418" para="4" sent="11" offset="1271" length="3"><![CDATA[van]]></wf>
+    <wf id="w419" para="4" sent="11" offset="1275" length="9"><![CDATA[afgelopen]]></wf>
+    <wf id="w420" para="4" sent="11" offset="1285" length="4"><![CDATA[week]]></wf>
+    <wf id="w421" para="4" sent="11" offset="1290" length="4"><![CDATA[zijn]]></wf>
+    <wf id="w422" para="4" sent="11" offset="1295" length="9"><![CDATA[onderdeel]]></wf>
+    <wf id="w423" para="4" sent="11" offset="1305" length="3"><![CDATA[van]]></wf>
+    <wf id="w424" para="4" sent="11" offset="1309" length="3"><![CDATA[een]]></wf>
+    <wf id="w425" para="4" sent="11" offset="1313" length="4"><![CDATA[hard]]></wf>
+    <wf id="w426" para="4" sent="11" offset="1318" length="6"><![CDATA[beleid]]></wf>
+    <wf id="w427" para="4" sent="11" offset="1325" length="5"><![CDATA[tegen]]></wf>
+    <wf id="w428" para="4" sent="11" offset="1331" length="2"><![CDATA[de]]></wf>
+    <wf id="w429" para="4" sent="11" offset="1334" length="11"><![CDATA[drugsmokkel]]></wf>
+    <wf id="w430" para="4" sent="11" offset="1346" length="1"><![CDATA[.]]></wf>
+    <wf id="w441" para="4" sent="12" offset="1348" length="7"><![CDATA[Vrijwel]]></wf>
+    <wf id="w442" para="4" sent="12" offset="1356" length="9"><![CDATA[wekelijks]]></wf>
+    <wf id="w443" para="4" sent="12" offset="1366" length="4"><![CDATA[zijn]]></wf>
+    <wf id="w444" para="4" sent="12" offset="1371" length="2"><![CDATA[er]]></wf>
+    <wf id="w445" para="4" sent="12" offset="1374" length="9"><![CDATA[berichten]]></wf>
+    <wf id="w446" para="4" sent="12" offset="1384" length="4"><![CDATA[over]]></wf>
+    <wf id="w447" para="4" sent="12" offset="1389" length="14"><![CDATA[schietpartijen]]></wf>
+    <wf id="w448" para="4" sent="12" offset="1404" length="3"><![CDATA[bij]]></wf>
+    <wf id="w449" para="4" sent="12" offset="1408" length="3"><![CDATA[het]]></wf>
+    <wf id="w450" para="4" sent="12" offset="1412" length="13"><![CDATA[onderscheppen]]></wf>
+    <wf id="w451" para="4" sent="12" offset="1426" length="3"><![CDATA[van]]></wf>
+    <wf id="w452" para="4" sent="12" offset="1430" length="8"><![CDATA[partijen]]></wf>
+    <wf id="w453" para="4" sent="12" offset="1439" length="3"><![CDATA[van]]></wf>
+    <wf id="w454" para="4" sent="12" offset="1443" length="4"><![CDATA[soms]]></wf>
+    <wf id="w455" para="4" sent="12" offset="1448" length="3"><![CDATA[wel]]></wf>
+    <wf id="w456" para="4" sent="12" offset="1452" length="3"><![CDATA[een]]></wf>
+    <wf id="w457" para="4" sent="12" offset="1456" length="3"><![CDATA[ton]]></wf>
+    <wf id="w458" para="4" sent="12" offset="1460" length="2"><![CDATA[of]]></wf>
+    <wf id="w459" para="4" sent="12" offset="1463" length="4"><![CDATA[meer]]></wf>
+    <wf id="w460" para="4" sent="12" offset="1468" length="1"><![CDATA[.]]></wf>
+    <wf id="w475" para="4" sent="13" offset="1470" length="4"><![CDATA[Iran]]></wf>
+    <wf id="w476" para="4" sent="13" offset="1475" length="5"><![CDATA[heeft]]></wf>
+    <wf id="w477" para="4" sent="13" offset="1481" length="2"><![CDATA[de]]></wf>
+    <wf id="w478" para="4" sent="13" offset="1484" length="9"><![CDATA[afgelopen]]></wf>
+    <wf id="w479" para="4" sent="13" offset="1494" length="7"><![CDATA[twintig]]></wf>
+    <wf id="w480" para="4" sent="13" offset="1502" length="4"><![CDATA[jaar]]></wf>
+    <wf id="w481" para="4" sent="13" offset="1507" length="4"><![CDATA[meer]]></wf>
+    <wf id="w482" para="4" sent="13" offset="1512" length="3"><![CDATA[dan]]></wf>
+    <wf id="w483" para="4" sent="13" offset="1516" length="5"><![CDATA[10000]]></wf>
+    <wf id="w484" para="4" sent="13" offset="1522" length="10"><![CDATA[handelaren]]></wf>
+    <wf id="w485" para="4" sent="13" offset="1533" length="12"><![CDATA[geëxecuteerd]]></wf>
+    <wf id="w486" para="4" sent="13" offset="1546" length="1"><![CDATA[.]]></wf>
+    <wf id="w495" para="4" sent="14" offset="1548" length="4"><![CDATA[Zo'n]]></wf>
+    <wf id="w496" para="4" sent="14" offset="1553" length="3"><![CDATA[800]]></wf>
+    <wf id="w497" para="4" sent="14" offset="1557" length="3"><![CDATA[ter]]></wf>
+    <wf id="w498" para="4" sent="14" offset="1561" length="4"><![CDATA[dood]]></wf>
+    <wf id="w499" para="4" sent="14" offset="1566" length="13"><![CDATA[veroordeelden]]></wf>
+    <wf id="w500" para="4" sent="14" offset="1580" length="7"><![CDATA[wachten]]></wf>
+    <wf id="w501" para="4" sent="14" offset="1588" length="3"><![CDATA[nog]]></wf>
+    <wf id="w502" para="4" sent="14" offset="1592" length="2"><![CDATA[op]]></wf>
+    <wf id="w503" para="4" sent="14" offset="1595" length="2"><![CDATA[de]]></wf>
+    <wf id="w504" para="4" sent="14" offset="1598" length="10"><![CDATA[uitvoering]]></wf>
+    <wf id="w505" para="4" sent="14" offset="1609" length="3"><![CDATA[van]]></wf>
+    <wf id="w506" para="4" sent="14" offset="1613" length="3"><![CDATA[hun]]></wf>
+    <wf id="w507" para="4" sent="14" offset="1617" length="6"><![CDATA[vonnis]]></wf>
+    <wf id="w508" para="4" sent="14" offset="1624" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="maar" pos="adv" morphofeat="VG(neven)">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="liefst" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="11892" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="drugsverslaafde" pos="adj" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="-" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="handelaar" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="zijn" pos="verb" morphofeat="WW(pv,tgw,mv)">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="aflopen" pos="adj" morphofeat="WW(vd,prenom,zonder)">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="week" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="bij" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="grootscheeps" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="razzia" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="Iran" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="aanhouden" pos="verb" morphofeat="WW(vd,vrij,zonder)">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t37" lemma="niet" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="altijd" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="zonder" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="tegenstand" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="want" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="bij" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="schietpartij" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="komen" pos="verb" morphofeat="WW(pv,verl,mv)">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="negen" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="handelaar" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="om" pos="part" morphofeat="VZ(fin)">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="zo" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="melden" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="Iraans" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="staatspersbureau" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="Irna" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t78" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="islamitisch" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="republiek" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="hebben" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="al" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="sinds" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="jaar" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="dag" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="een" pos="det" morphofeat="LID(onbep,stan,agr)">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="drugsprobleem" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t96" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="land" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="tellen" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="zeker" pos="adj" morphofeat="ADJ(vrij,basis,zonder)">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="1,2" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="miljoen" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="verslaafd" pos="adj" morphofeat="ADJ(nom,basis,met-e,mv-n)">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="een" pos="det" morphofeat="LID(onbep,stan,agr)">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="klein" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="miljoen" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="onregelmatig" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="gebruiker" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="-" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="en" pos="comp" morphofeat="VG(neven)">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="hier" pos="adv" morphofeat="VNW(aanw,adv-pron,obl,vol,3o,getal)">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="daar" pos="adv" morphofeat="VNW(aanw,adv-pron,obl,vol,3o,getal)">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="vallen" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="ook" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="totaal" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="aantal" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" lemma="zes" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" lemma="miljoen" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term id="t122" lemma="druggebruiker" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" lemma="te" pos="comp" morphofeat="VZ(init)">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" lemma="horen" pos="verb" morphofeat="WW(inf,vrij,zonder)">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+    <term id="t125" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" lemma="bijna" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term id="t127" lemma="tien" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term id="t128" lemma="procent" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term id="t129" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term id="t131" lemma="bevolking" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w131"/>
+      </span>
+    </term>
+    <term id="t132" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term id="t181" lemma="bij" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w181"/>
+      </span>
+    </term>
+    <term id="t182" lemma="die" pos="det" morphofeat="VNW(aanw,det,stan,prenom,zonder,rest)">
+      <span>
+        <target id="w182"/>
+      </span>
+    </term>
+    <term id="t183" lemma="cijfer" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w183"/>
+      </span>
+    </term>
+    <term id="t184" lemma="worden" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w184"/>
+      </span>
+    </term>
+    <term id="t185" lemma="geen" pos="det" morphofeat="VNW(onbep,det,stan,prenom,zonder,agr)">
+      <span>
+        <target id="w185"/>
+      </span>
+    </term>
+    <term id="t186" lemma="onderscheid" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w186"/>
+      </span>
+    </term>
+    <term id="t187" lemma="maken" pos="verb" morphofeat="WW(vd,vrij,zonder)">
+      <span>
+        <target id="w187"/>
+      </span>
+    </term>
+    <term id="t188" lemma="tussen" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w188"/>
+      </span>
+    </term>
+    <term id="t189" lemma="heroïne" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w189"/>
+      </span>
+    </term>
+    <term id="t190" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w190"/>
+      </span>
+    </term>
+    <term id="t191" lemma="opium" pos="noun" morphofeat="N(soort,ev,basis,genus,stan)">
+      <span>
+        <target id="w191"/>
+      </span>
+    </term>
+    <term id="t192" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w192"/>
+      </span>
+    </term>
+    <term id="t193" lemma="morfine" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w193"/>
+      </span>
+    </term>
+    <term id="t194" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w194"/>
+      </span>
+    </term>
+    <term id="t195" lemma="hasj" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w195"/>
+      </span>
+    </term>
+    <term id="t196" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w196"/>
+      </span>
+    </term>
+    <term id="t216" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w216"/>
+      </span>
+    </term>
+    <term id="t217" lemma="opium" pos="noun" morphofeat="N(soort,ev,basis,genus,stan)">
+      <span>
+        <target id="w217"/>
+      </span>
+    </term>
+    <term id="t218" lemma="worden" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w218"/>
+      </span>
+    </term>
+    <term id="t219" lemma="beweren" pos="verb" morphofeat="WW(vd,vrij,zonder)">
+      <span>
+        <target id="w219"/>
+      </span>
+    </term>
+    <term id="t220" lemma="dat" pos="comp" morphofeat="VG(onder)">
+      <span>
+        <target id="w220"/>
+      </span>
+    </term>
+    <term id="t221" lemma="zich" pos="pron" morphofeat="VNW(refl,pron,obl,red,3,getal)">
+      <span>
+        <target id="w221"/>
+      </span>
+    </term>
+    <term id="t222" lemma="zelfs" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w222"/>
+      </span>
+    </term>
+    <term id="t223" lemma="onder" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w223"/>
+      </span>
+    </term>
+    <term id="t224" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w224"/>
+      </span>
+    </term>
+    <term id="t225" lemma="geestelijk" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w225"/>
+      </span>
+    </term>
+    <term id="t226" lemma="elite" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w226"/>
+      </span>
+    </term>
+    <term id="t227" lemma="tot" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w227"/>
+      </span>
+    </term>
+    <term id="t228" lemma="op" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w228"/>
+      </span>
+    </term>
+    <term id="t229" lemma="zeer" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w229"/>
+      </span>
+    </term>
+    <term id="t230" lemma="hoog" pos="adj" morphofeat="ADJ(prenom,basis,zonder)">
+      <span>
+        <target id="w230"/>
+      </span>
+    </term>
+    <term id="t231" lemma="niveau" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w231"/>
+      </span>
+    </term>
+    <term id="t232" lemma="gebruiker" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w232"/>
+      </span>
+    </term>
+    <term id="t233" lemma="bevinden" pos="verb" morphofeat="WW(pv,tgw,mv)">
+      <span>
+        <target id="w233"/>
+      </span>
+    </term>
+    <term id="t234" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w234"/>
+      </span>
+    </term>
+    <term id="t249" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w249"/>
+      </span>
+    </term>
+    <term id="t250" lemma="ander" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w250"/>
+      </span>
+    </term>
+    <term id="t251" lemma="drug" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w251"/>
+      </span>
+    </term>
+    <term id="t252" lemma="worden" pos="verb" morphofeat="WW(pv,tgw,mv)">
+      <span>
+        <target id="w252"/>
+      </span>
+    </term>
+    <term id="t253" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w253"/>
+      </span>
+    </term>
+    <term id="t254" lemma="toenemen" pos="adj" morphofeat="WW(od,prenom,met-e)">
+      <span>
+        <target id="w254"/>
+      </span>
+    </term>
+    <term id="t255" lemma="mate" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w255"/>
+      </span>
+    </term>
+    <term id="t256" lemma="gebruiken" pos="verb" morphofeat="WW(vd,vrij,zonder)">
+      <span>
+        <target id="w256"/>
+      </span>
+    </term>
+    <term id="t257" lemma="door" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w257"/>
+      </span>
+    </term>
+    <term id="t258" lemma="Iraans" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w258"/>
+      </span>
+    </term>
+    <term id="t259" lemma="jong" pos="noun" morphofeat="ADJ(nom,comp,met-e,mv-n)">
+      <span>
+        <target id="w259"/>
+      </span>
+    </term>
+    <term id="t260" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w260"/>
+      </span>
+    </term>
+    <term id="t261" lemma="die" pos="pron" morphofeat="VNW(betr,pron,stan,vol,persoon,getal)">
+      <span>
+        <target id="w261"/>
+      </span>
+    </term>
+    <term id="t262" lemma="ontevreden" pos="adj" morphofeat="ADJ(vrij,basis,zonder)">
+      <span>
+        <target id="w262"/>
+      </span>
+    </term>
+    <term id="t263" lemma="zijn" pos="verb" morphofeat="WW(pv,tgw,mv)">
+      <span>
+        <target id="w263"/>
+      </span>
+    </term>
+    <term id="t264" lemma="vanwege" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w264"/>
+      </span>
+    </term>
+    <term id="t265" lemma="hoog" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w265"/>
+      </span>
+    </term>
+    <term id="t266" lemma="werkloosheid" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w266"/>
+      </span>
+    </term>
+    <term id="t267" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w267"/>
+      </span>
+    </term>
+    <term id="t268" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w268"/>
+      </span>
+    </term>
+    <term id="t269" lemma="beperking" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w269"/>
+      </span>
+    </term>
+    <term id="t270" lemma="die" pos="pron" morphofeat="VNW(betr,pron,stan,vol,persoon,getal)">
+      <span>
+        <target id="w270"/>
+      </span>
+    </term>
+    <term id="t271" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w271"/>
+      </span>
+    </term>
+    <term id="t272" lemma="islamitisch" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w272"/>
+      </span>
+    </term>
+    <term id="t273" lemma="republiek" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w273"/>
+      </span>
+    </term>
+    <term id="t274" lemma="hen" pos="pron" morphofeat="VNW(pers,pron,obl,vol,3p,mv)">
+      <span>
+        <target id="w274"/>
+      </span>
+    </term>
+    <term id="t275" lemma="opleggen" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w275"/>
+      </span>
+    </term>
+    <term id="t276" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w276"/>
+      </span>
+    </term>
+    <term id="t308" lemma="Iran" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w308"/>
+      </span>
+    </term>
+    <term id="t309" lemma="zijn" pos="verb" morphofeat="WW(pv,tgw,ev)">
+      <span>
+        <target id="w309"/>
+      </span>
+    </term>
+    <term id="t310" lemma="een" pos="det" morphofeat="LID(onbep,stan,agr)">
+      <span>
+        <target id="w310"/>
+      </span>
+    </term>
+    <term id="t311" lemma="belangrijk" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w311"/>
+      </span>
+    </term>
+    <term id="t312" lemma="doorvoerroute" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w312"/>
+      </span>
+    </term>
+    <term id="t313" lemma="voor" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w313"/>
+      </span>
+    </term>
+    <term id="t314" lemma="drug" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w314"/>
+      </span>
+    </term>
+    <term id="t315" lemma="uit" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w315"/>
+      </span>
+    </term>
+    <term id="t316" lemma="Afghanistan" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w316"/>
+      </span>
+    </term>
+    <term id="t317" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w317"/>
+      </span>
+    </term>
+    <term id="t318" lemma="Pakistan" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w318"/>
+      </span>
+    </term>
+    <term id="t319" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w319"/>
+      </span>
+    </term>
+    <term id="t327" lemma="langs" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w327"/>
+      </span>
+    </term>
+    <term id="t328" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w328"/>
+      </span>
+    </term>
+    <term id="t329" lemma="945" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w329"/>
+      </span>
+    </term>
+    <term id="t330" lemma="kilometer" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w330"/>
+      </span>
+    </term>
+    <term id="t331" lemma="lang" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w331"/>
+      </span>
+    </term>
+    <term id="t332" lemma="Afghaans" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w332"/>
+      </span>
+    </term>
+    <term id="t333" lemma="grens" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w333"/>
+      </span>
+    </term>
+    <term id="t334" lemma="staan" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w334"/>
+      </span>
+    </term>
+    <term id="t335" lemma="sinds" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w335"/>
+      </span>
+    </term>
+    <term id="t336" lemma="vorig" pos="adj" morphofeat="ADJ(prenom,basis,zonder)">
+      <span>
+        <target id="w336"/>
+      </span>
+    </term>
+    <term id="t337" lemma="jaar" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w337"/>
+      </span>
+    </term>
+    <term id="t338" lemma="een" pos="det" morphofeat="LID(onbep,stan,agr)">
+      <span>
+        <target id="w338"/>
+      </span>
+    </term>
+    <term id="t339" lemma="bewaken" pos="adj" morphofeat="WW(vd,prenom,zonder)">
+      <span>
+        <target id="w339"/>
+      </span>
+    </term>
+    <term id="t340" lemma="hek" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w340"/>
+      </span>
+    </term>
+    <term id="t341" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w341"/>
+      </span>
+    </term>
+    <term id="t342" lemma="maar" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w342"/>
+      </span>
+    </term>
+    <term id="t343" lemma="handelaar" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w343"/>
+      </span>
+    </term>
+    <term id="t344" lemma="brengen" pos="verb" morphofeat="WW(pv,tgw,mv)">
+      <span>
+        <target id="w344"/>
+      </span>
+    </term>
+    <term id="t345" lemma="hun" pos="det" morphofeat="VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)">
+      <span>
+        <target id="w345"/>
+      </span>
+    </term>
+    <term id="t346" lemma="waar" pos="noun" morphofeat="VNW(vb,adv-pron,obl,vol,3o,getal)">
+      <span>
+        <target id="w346"/>
+      </span>
+    </term>
+    <term id="t347" lemma="nu" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w347"/>
+      </span>
+    </term>
+    <term id="t348" lemma="met" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w348"/>
+      </span>
+    </term>
+    <term id="t349" lemma="boot" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w349"/>
+      </span>
+    </term>
+    <term id="t350" lemma="over" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w350"/>
+      </span>
+    </term>
+    <term id="t351" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w351"/>
+      </span>
+    </term>
+    <term id="t352" lemma="Perzisch" pos="name" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w352"/>
+      </span>
+    </term>
+    <term id="t353" lemma="golf" pos="name" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w353"/>
+      </span>
+    </term>
+    <term id="t354" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w354"/>
+      </span>
+    </term>
+    <term id="t386" lemma="zestig" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w386"/>
+      </span>
+    </term>
+    <term id="t387" lemma="procent" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w387"/>
+      </span>
+    </term>
+    <term id="t388" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w388"/>
+      </span>
+    </term>
+    <term id="t389" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w389"/>
+      </span>
+    </term>
+    <term id="t390" lemma="handel" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w390"/>
+      </span>
+    </term>
+    <term id="t391" lemma="vinden" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w391"/>
+      </span>
+    </term>
+    <term id="t392" lemma="via" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w392"/>
+      </span>
+    </term>
+    <term id="t393" lemma="Iran" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w393"/>
+      </span>
+    </term>
+    <term id="t394" lemma="zijn" pos="det" morphofeat="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)">
+      <span>
+        <target id="w394"/>
+      </span>
+    </term>
+    <term id="t395" lemma="weg" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w395"/>
+      </span>
+    </term>
+    <term id="t396" lemma="naar" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w396"/>
+      </span>
+    </term>
+    <term id="t397" lemma="Turkije" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w397"/>
+      </span>
+    </term>
+    <term id="t398" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w398"/>
+      </span>
+    </term>
+    <term id="t399" lemma="daarna" pos="pp" morphofeat="BW()">
+      <span>
+        <target id="w399"/>
+      </span>
+    </term>
+    <term id="t400" lemma="verder" pos="adj" morphofeat="ADJ(vrij,comp,zonder)">
+      <span>
+        <target id="w400"/>
+      </span>
+    </term>
+    <term id="t401" lemma="naar" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w401"/>
+      </span>
+    </term>
+    <term id="t402" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w402"/>
+      </span>
+    </term>
+    <term id="t403" lemma="Westen" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w403"/>
+      </span>
+    </term>
+    <term id="t404" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w404"/>
+      </span>
+    </term>
+    <term id="t416" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w416"/>
+      </span>
+    </term>
+    <term id="t417" lemma="razzia" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w417"/>
+      </span>
+    </term>
+    <term id="t418" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w418"/>
+      </span>
+    </term>
+    <term id="t419" lemma="aflopen" pos="adj" morphofeat="WW(vd,prenom,zonder)">
+      <span>
+        <target id="w419"/>
+      </span>
+    </term>
+    <term id="t420" lemma="week" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w420"/>
+      </span>
+    </term>
+    <term id="t421" lemma="zijn" pos="verb" morphofeat="WW(pv,tgw,mv)">
+      <span>
+        <target id="w421"/>
+      </span>
+    </term>
+    <term id="t422" lemma="onderdeel" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w422"/>
+      </span>
+    </term>
+    <term id="t423" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w423"/>
+      </span>
+    </term>
+    <term id="t424" lemma="een" pos="det" morphofeat="LID(onbep,stan,agr)">
+      <span>
+        <target id="w424"/>
+      </span>
+    </term>
+    <term id="t425" lemma="hard" pos="adj" morphofeat="ADJ(prenom,basis,zonder)">
+      <span>
+        <target id="w425"/>
+      </span>
+    </term>
+    <term id="t426" lemma="beleid" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w426"/>
+      </span>
+    </term>
+    <term id="t427" lemma="tegen" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w427"/>
+      </span>
+    </term>
+    <term id="t428" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w428"/>
+      </span>
+    </term>
+    <term id="t429" lemma="drugsmokkel" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w429"/>
+      </span>
+    </term>
+    <term id="t430" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w430"/>
+      </span>
+    </term>
+    <term id="t441" lemma="vrijwel" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w441"/>
+      </span>
+    </term>
+    <term id="t442" lemma="wekelijks" pos="adj" morphofeat="ADJ(vrij,basis,zonder)">
+      <span>
+        <target id="w442"/>
+      </span>
+    </term>
+    <term id="t443" lemma="zijn" pos="verb" morphofeat="WW(pv,tgw,mv)">
+      <span>
+        <target id="w443"/>
+      </span>
+    </term>
+    <term id="t444" lemma="er" pos="adv" morphofeat="VNW(aanw,adv-pron,stan,red,3,getal)">
+      <span>
+        <target id="w444"/>
+      </span>
+    </term>
+    <term id="t445" lemma="bericht" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w445"/>
+      </span>
+    </term>
+    <term id="t446" lemma="over" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w446"/>
+      </span>
+    </term>
+    <term id="t447" lemma="schietpartij" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w447"/>
+      </span>
+    </term>
+    <term id="t448" lemma="bij" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w448"/>
+      </span>
+    </term>
+    <term id="t449" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w449"/>
+      </span>
+    </term>
+    <term id="t450" lemma="onderscheppen" pos="verb" morphofeat="WW(inf,nom,zonder,zonder-n)">
+      <span>
+        <target id="w450"/>
+      </span>
+    </term>
+    <term id="t451" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w451"/>
+      </span>
+    </term>
+    <term id="t452" lemma="partij" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w452"/>
+      </span>
+    </term>
+    <term id="t453" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w453"/>
+      </span>
+    </term>
+    <term id="t454" lemma="soms" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w454"/>
+      </span>
+    </term>
+    <term id="t455" lemma="wel" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w455"/>
+      </span>
+    </term>
+    <term id="t456" lemma="een" pos="det" morphofeat="LID(onbep,stan,agr)">
+      <span>
+        <target id="w456"/>
+      </span>
+    </term>
+    <term id="t457" lemma="ton" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w457"/>
+      </span>
+    </term>
+    <term id="t458" lemma="of" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w458"/>
+      </span>
+    </term>
+    <term id="t459" lemma="veel" pos="noun" morphofeat="VNW(onbep,grad,stan,vrij,zonder,comp)">
+      <span>
+        <target id="w459"/>
+      </span>
+    </term>
+    <term id="t460" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w460"/>
+      </span>
+    </term>
+    <term id="t475" lemma="Iran" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w475"/>
+      </span>
+    </term>
+    <term id="t476" lemma="hebben" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w476"/>
+      </span>
+    </term>
+    <term id="t477" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w477"/>
+      </span>
+    </term>
+    <term id="t478" lemma="aflopen" pos="adj" morphofeat="WW(vd,prenom,zonder)">
+      <span>
+        <target id="w478"/>
+      </span>
+    </term>
+    <term id="t479" lemma="twintig" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w479"/>
+      </span>
+    </term>
+    <term id="t480" lemma="jaar" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w480"/>
+      </span>
+    </term>
+    <term id="t481" lemma="veel" pos="det" morphofeat="VNW(onbep,grad,stan,vrij,zonder,comp)">
+      <span>
+        <target id="w481"/>
+      </span>
+    </term>
+    <term id="t482" lemma="dan" pos="comparative" morphofeat="VG(onder)">
+      <span>
+        <target id="w482"/>
+      </span>
+    </term>
+    <term id="t483" lemma="10000" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w483"/>
+      </span>
+    </term>
+    <term id="t484" lemma="handelaar" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w484"/>
+      </span>
+    </term>
+    <term id="t485" lemma="executeren" pos="verb" morphofeat="WW(vd,vrij,zonder)">
+      <span>
+        <target id="w485"/>
+      </span>
+    </term>
+    <term id="t486" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w486"/>
+      </span>
+    </term>
+    <term id="t495" lemma="zo'n" pos="det" morphofeat="VNW(aanw,det,stan,prenom,zonder,agr)">
+      <span>
+        <target id="w495"/>
+      </span>
+    </term>
+    <term id="t496" lemma="800" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w496"/>
+      </span>
+    </term>
+    <term id="t497" lemma="te" pos="fixed" morphofeat="VZ(versm)">
+      <span>
+        <target id="w497"/>
+      </span>
+    </term>
+    <term id="t498" lemma="dood" pos="fixed" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w498"/>
+      </span>
+    </term>
+    <term id="t499" lemma="veroordelen" pos="adj" morphofeat="WW(vd,nom,met-e,mv-n)">
+      <span>
+        <target id="w499"/>
+      </span>
+    </term>
+    <term id="t500" lemma="wachten" pos="verb" morphofeat="WW(pv,tgw,mv)">
+      <span>
+        <target id="w500"/>
+      </span>
+    </term>
+    <term id="t501" lemma="nog" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w501"/>
+      </span>
+    </term>
+    <term id="t502" lemma="op" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w502"/>
+      </span>
+    </term>
+    <term id="t503" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w503"/>
+      </span>
+    </term>
+    <term id="t504" lemma="uitvoering" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w504"/>
+      </span>
+    </term>
+    <term id="t505" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w505"/>
+      </span>
+    </term>
+    <term id="t506" lemma="hun" pos="det" morphofeat="VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)">
+      <span>
+        <target id="w506"/>
+      </span>
+    </term>
+    <term id="t507" lemma="vonnis" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w507"/>
+      </span>
+    </term>
+    <term id="t508" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w508"/>
+      </span>
+    </term>
+  </terms>
+  <srl>
+    <predicate id="p1">
+      <span>
+        <target id="t16"/>
+      </span>
+      <role id="s1" semRole="ArgM-LOC">
+        <span>
+          <target id="t11"/>
+          <target id="t12"/>
+          <target id="t13"/>
+          <target id="t14"/>
+          <target id="t15"/>
+        </span>
+      </role>
+      <role id="s2" semRole="ArgM-TMP">
+        <span>
+          <target id="t9"/>
+          <target id="t10"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p2">
+      <span>
+        <target id="t45"/>
+      </span>
+      <role id="s3" semRole="ArgM-LOC">
+        <span>
+          <target id="t43"/>
+          <target id="t44"/>
+        </span>
+      </role>
+      <role id="s4" semRole="Arg1">
+        <span>
+          <target id="t46"/>
+          <target id="t47"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p3">
+      <span>
+        <target id="t51"/>
+      </span>
+      <role id="s5" semRole="Arg0">
+        <span>
+          <target id="t52"/>
+          <target id="t53"/>
+          <target id="t54"/>
+          <target id="t55"/>
+        </span>
+      </role>
+      <role id="s6" semRole="Arg1">
+        <span>
+          <target id="t50"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p4">
+      <span>
+        <target id="t81"/>
+      </span>
+      <role id="s7" semRole="Arg0">
+        <span>
+          <target id="t78"/>
+          <target id="t79"/>
+          <target id="t80"/>
+        </span>
+      </role>
+      <role id="s8" semRole="Arg1">
+        <span>
+          <target id="t87"/>
+          <target id="t88"/>
+        </span>
+      </role>
+      <role id="s9" semRole="ArgM-TMP">
+        <span>
+          <target id="t82"/>
+          <target id="t83"/>
+          <target id="t84"/>
+          <target id="t85"/>
+          <target id="t86"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p5">
+      <span>
+        <target id="t98"/>
+      </span>
+      <role id="s10" semRole="Arg2">
+        <span>
+          <target id="t96"/>
+          <target id="t97"/>
+        </span>
+      </role>
+      <role id="s11" semRole="Arg1">
+        <span>
+          <target id="t99"/>
+          <target id="t100"/>
+          <target id="t101"/>
+          <target id="t102"/>
+          <target id="t103"/>
+          <target id="t104"/>
+          <target id="t105"/>
+          <target id="t106"/>
+          <target id="t107"/>
+          <target id="t108"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p6">
+      <span>
+        <target id="t124"/>
+      </span>
+      <role id="s12" semRole="ArgM-LOC">
+        <span>
+          <target id="t111"/>
+          <target id="t112"/>
+          <target id="t113"/>
+        </span>
+      </role>
+      <role id="s13" semRole="ArgM-DIS">
+        <span>
+          <target id="t115"/>
+        </span>
+      </role>
+      <role id="s14" semRole="Arg1">
+        <span>
+          <target id="t116"/>
+          <target id="t117"/>
+          <target id="t118"/>
+          <target id="t119"/>
+          <target id="t120"/>
+          <target id="t121"/>
+          <target id="t122"/>
+          <target id="t126"/>
+          <target id="t127"/>
+          <target id="t128"/>
+          <target id="t129"/>
+          <target id="t130"/>
+          <target id="t131"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p7">
+      <span>
+        <target id="t187"/>
+      </span>
+      <role id="s15" semRole="ArgM-LOC">
+        <span>
+          <target id="t181"/>
+          <target id="t182"/>
+          <target id="t183"/>
+        </span>
+      </role>
+      <role id="s16" semRole="Arg1">
+        <span>
+          <target id="t188"/>
+          <target id="t189"/>
+          <target id="t191"/>
+          <target id="t193"/>
+          <target id="t194"/>
+          <target id="t195"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p8">
+      <span>
+        <target id="t233"/>
+      </span>
+      <role id="s17" semRole="Arg2">
+        <span>
+          <target id="t222"/>
+          <target id="t223"/>
+          <target id="t224"/>
+          <target id="t225"/>
+          <target id="t226"/>
+        </span>
+      </role>
+      <role id="s18" semRole="ArgM-LOC">
+        <span>
+          <target id="t227"/>
+          <target id="t228"/>
+          <target id="t229"/>
+          <target id="t230"/>
+          <target id="t231"/>
+        </span>
+      </role>
+      <role id="s19" semRole="ArgM-REC">
+        <span>
+          <target id="t221"/>
+        </span>
+      </role>
+      <role id="s20" semRole="Arg1">
+        <span>
+          <target id="t232"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p9">
+      <span>
+        <target id="t219"/>
+      </span>
+      <role id="s21" semRole="Arg1">
+        <span>
+          <target id="t220"/>
+          <target id="t221"/>
+          <target id="t222"/>
+          <target id="t223"/>
+          <target id="t224"/>
+          <target id="t225"/>
+          <target id="t226"/>
+          <target id="t227"/>
+          <target id="t228"/>
+          <target id="t229"/>
+          <target id="t230"/>
+          <target id="t231"/>
+          <target id="t232"/>
+          <target id="t233"/>
+        </span>
+      </role>
+      <role id="s22" semRole="ArgM-ADV">
+        <span>
+          <target id="t216"/>
+          <target id="t217"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p10">
+      <span>
+        <target id="t275"/>
+      </span>
+      <role id="s23" semRole="Arg0">
+        <span>
+          <target id="t271"/>
+          <target id="t272"/>
+          <target id="t273"/>
+        </span>
+      </role>
+      <role id="s24" semRole="Arg2">
+        <span>
+          <target id="t274"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p11">
+      <span>
+        <target id="t256"/>
+      </span>
+      <role id="s25" semRole="ArgM-EXT">
+        <span>
+          <target id="t253"/>
+          <target id="t254"/>
+          <target id="t255"/>
+        </span>
+      </role>
+      <role id="s26" semRole="Arg0">
+        <span>
+          <target id="t257"/>
+          <target id="t258"/>
+          <target id="t259"/>
+          <target id="t261"/>
+          <target id="t262"/>
+          <target id="t263"/>
+          <target id="t264"/>
+          <target id="t265"/>
+          <target id="t266"/>
+          <target id="t267"/>
+          <target id="t268"/>
+          <target id="t269"/>
+          <target id="t270"/>
+          <target id="t271"/>
+          <target id="t272"/>
+          <target id="t273"/>
+          <target id="t274"/>
+          <target id="t275"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p12">
+      <span>
+        <target id="t334"/>
+      </span>
+      <role id="s27" semRole="Arg2">
+        <span>
+          <target id="t327"/>
+          <target id="t328"/>
+          <target id="t329"/>
+          <target id="t330"/>
+          <target id="t331"/>
+          <target id="t332"/>
+          <target id="t333"/>
+        </span>
+      </role>
+      <role id="s28" semRole="Arg1">
+        <span>
+          <target id="t338"/>
+          <target id="t339"/>
+          <target id="t340"/>
+        </span>
+      </role>
+      <role id="s29" semRole="ArgM-TMP">
+        <span>
+          <target id="t335"/>
+          <target id="t336"/>
+          <target id="t337"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p13">
+      <span>
+        <target id="t344"/>
+      </span>
+      <role id="s30" semRole="Arg0">
+        <span>
+          <target id="t343"/>
+        </span>
+      </role>
+      <role id="s31" semRole="ArgM-MNR">
+        <span>
+          <target id="t348"/>
+          <target id="t349"/>
+          <target id="t350"/>
+          <target id="t351"/>
+          <target id="t352"/>
+          <target id="t353"/>
+        </span>
+      </role>
+      <role id="s32" semRole="Arg1">
+        <span>
+          <target id="t345"/>
+          <target id="t346"/>
+        </span>
+      </role>
+      <role id="s33" semRole="ArgM-TMP">
+        <span>
+          <target id="t347"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p14">
+      <span>
+        <target id="t391"/>
+      </span>
+      <role id="s34" semRole="Arg0">
+        <span>
+          <target id="t386"/>
+          <target id="t387"/>
+          <target id="t388"/>
+          <target id="t389"/>
+          <target id="t390"/>
+        </span>
+      </role>
+      <role id="s35" semRole="Arg1">
+        <span>
+          <target id="t394"/>
+          <target id="t395"/>
+        </span>
+      </role>
+      <role id="s36" semRole="ArgM-DIR">
+        <span>
+          <target id="t392"/>
+          <target id="t393"/>
+        </span>
+      </role>
+      <role id="s37" semRole="ArgM-DIR">
+        <span>
+          <target id="t396"/>
+          <target id="t397"/>
+          <target id="t398"/>
+          <target id="t399"/>
+          <target id="t400"/>
+          <target id="t401"/>
+          <target id="t402"/>
+          <target id="t403"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p15">
+      <span>
+        <target id="t443"/>
+      </span>
+      <role id="s38" semRole="Arg1">
+        <span>
+          <target id="t445"/>
+          <target id="t446"/>
+          <target id="t447"/>
+          <target id="t448"/>
+          <target id="t449"/>
+          <target id="t450"/>
+          <target id="t451"/>
+          <target id="t452"/>
+          <target id="t453"/>
+          <target id="t454"/>
+          <target id="t455"/>
+          <target id="t456"/>
+          <target id="t457"/>
+          <target id="t458"/>
+          <target id="t459"/>
+        </span>
+      </role>
+      <role id="s39" semRole="ArgM-TMP">
+        <span>
+          <target id="t441"/>
+          <target id="t442"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p16">
+      <span>
+        <target id="t485"/>
+      </span>
+      <role id="s40" semRole="Arg1">
+        <span>
+          <target id="t481"/>
+          <target id="t482"/>
+          <target id="t483"/>
+          <target id="t484"/>
+        </span>
+      </role>
+      <role id="s41" semRole="ArgM-TMP">
+        <span>
+          <target id="t477"/>
+          <target id="t478"/>
+          <target id="t479"/>
+          <target id="t480"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p17">
+      <span>
+        <target id="t500"/>
+      </span>
+      <role id="s42" semRole="Arg0">
+        <span>
+          <target id="t495"/>
+          <target id="t496"/>
+          <target id="t497"/>
+          <target id="t498"/>
+          <target id="t499"/>
+        </span>
+      </role>
+      <role id="s43" semRole="Arg1">
+        <span>
+          <target id="t502"/>
+          <target id="t503"/>
+          <target id="t504"/>
+          <target id="t505"/>
+          <target id="t506"/>
+          <target id="t507"/>
+        </span>
+      </role>
+      <role id="s44" semRole="ArgM-ADV">
+        <span>
+          <target id="t501"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+</NAF>

@@ -1,0 +1,469 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl">
+  <raw><![CDATA[ American footballclub Berlin Thunder heeft de World Bowl veroverd . In de finale in de Arena in Amsterdam , versloeg de Duitse ploeg het favoriete Barcelona Dragons met 24 - 17 . In de competitie had Berlin twee keer verloren van de Spanjaarden . Op de foto kust Joe Wesley de glazen World Bowl .
+
+ FOTO AP]]></raw>
+  <nafHeader>
+    <fileDesc title="WR-P-P-H-0000000091"/>
+    <linguisticProcessors layer="text">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:53:11CEST" beginTimestamp="2016-10-10T21:53:11CEST" endTimestamp="2016-10-10T21:53:11CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:53:11CEST" beginTimestamp="2016-10-10T21:53:11CEST" endTimestamp="2016-10-10T21:53:11CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:53:11CEST" beginTimestamp="2016-10-10T21:53:11CEST" endTimestamp="2016-10-10T21:53:11CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <text>
+    <wf id="w1" para="1" sent="1" offset="0" length="8"><![CDATA[American]]></wf>
+    <wf id="w2" para="1" sent="1" offset="9" length="12"><![CDATA[footballclub]]></wf>
+    <wf id="w3" para="1" sent="1" offset="22" length="6"><![CDATA[Berlin]]></wf>
+    <wf id="w4" para="1" sent="1" offset="29" length="7"><![CDATA[Thunder]]></wf>
+    <wf id="w5" para="1" sent="1" offset="37" length="5"><![CDATA[heeft]]></wf>
+    <wf id="w6" para="1" sent="1" offset="43" length="2"><![CDATA[de]]></wf>
+    <wf id="w7" para="1" sent="1" offset="46" length="5"><![CDATA[World]]></wf>
+    <wf id="w8" para="1" sent="1" offset="52" length="4"><![CDATA[Bowl]]></wf>
+    <wf id="w9" para="1" sent="1" offset="57" length="8"><![CDATA[veroverd]]></wf>
+    <wf id="w10" para="1" sent="1" offset="66" length="1"><![CDATA[.]]></wf>
+    <wf id="w20" para="1" sent="2" offset="68" length="2"><![CDATA[In]]></wf>
+    <wf id="w21" para="1" sent="2" offset="71" length="2"><![CDATA[de]]></wf>
+    <wf id="w22" para="1" sent="2" offset="74" length="6"><![CDATA[finale]]></wf>
+    <wf id="w23" para="1" sent="2" offset="81" length="2"><![CDATA[in]]></wf>
+    <wf id="w24" para="1" sent="2" offset="84" length="2"><![CDATA[de]]></wf>
+    <wf id="w25" para="1" sent="2" offset="87" length="5"><![CDATA[Arena]]></wf>
+    <wf id="w26" para="1" sent="2" offset="93" length="2"><![CDATA[in]]></wf>
+    <wf id="w27" para="1" sent="2" offset="96" length="9"><![CDATA[Amsterdam]]></wf>
+    <wf id="w28" para="1" sent="2" offset="106" length="1"><![CDATA[,]]></wf>
+    <wf id="w29" para="1" sent="2" offset="108" length="8"><![CDATA[versloeg]]></wf>
+    <wf id="w30" para="1" sent="2" offset="117" length="2"><![CDATA[de]]></wf>
+    <wf id="w31" para="1" sent="2" offset="120" length="6"><![CDATA[Duitse]]></wf>
+    <wf id="w32" para="1" sent="2" offset="127" length="5"><![CDATA[ploeg]]></wf>
+    <wf id="w33" para="1" sent="2" offset="133" length="3"><![CDATA[het]]></wf>
+    <wf id="w34" para="1" sent="2" offset="137" length="9"><![CDATA[favoriete]]></wf>
+    <wf id="w35" para="1" sent="2" offset="147" length="9"><![CDATA[Barcelona]]></wf>
+    <wf id="w36" para="1" sent="2" offset="157" length="7"><![CDATA[Dragons]]></wf>
+    <wf id="w37" para="1" sent="2" offset="165" length="3"><![CDATA[met]]></wf>
+    <wf id="w38" para="1" sent="2" offset="169" length="2"><![CDATA[24]]></wf>
+    <wf id="w39" para="1" sent="2" offset="172" length="1"><![CDATA[-]]></wf>
+    <wf id="w40" para="1" sent="2" offset="174" length="2"><![CDATA[17]]></wf>
+    <wf id="w41" para="1" sent="2" offset="177" length="1"><![CDATA[.]]></wf>
+    <wf id="w62" para="1" sent="3" offset="179" length="2"><![CDATA[In]]></wf>
+    <wf id="w63" para="1" sent="3" offset="182" length="2"><![CDATA[de]]></wf>
+    <wf id="w64" para="1" sent="3" offset="185" length="10"><![CDATA[competitie]]></wf>
+    <wf id="w65" para="1" sent="3" offset="196" length="3"><![CDATA[had]]></wf>
+    <wf id="w66" para="1" sent="3" offset="200" length="6"><![CDATA[Berlin]]></wf>
+    <wf id="w67" para="1" sent="3" offset="207" length="4"><![CDATA[twee]]></wf>
+    <wf id="w68" para="1" sent="3" offset="212" length="4"><![CDATA[keer]]></wf>
+    <wf id="w69" para="1" sent="3" offset="217" length="8"><![CDATA[verloren]]></wf>
+    <wf id="w70" para="1" sent="3" offset="226" length="3"><![CDATA[van]]></wf>
+    <wf id="w71" para="1" sent="3" offset="230" length="2"><![CDATA[de]]></wf>
+    <wf id="w72" para="1" sent="3" offset="233" length="11"><![CDATA[Spanjaarden]]></wf>
+    <wf id="w73" para="1" sent="3" offset="245" length="1"><![CDATA[.]]></wf>
+    <wf id="w86" para="1" sent="4" offset="247" length="2"><![CDATA[Op]]></wf>
+    <wf id="w87" para="1" sent="4" offset="250" length="2"><![CDATA[de]]></wf>
+    <wf id="w88" para="1" sent="4" offset="253" length="4"><![CDATA[foto]]></wf>
+    <wf id="w89" para="1" sent="4" offset="258" length="4"><![CDATA[kust]]></wf>
+    <wf id="w90" para="1" sent="4" offset="263" length="3"><![CDATA[Joe]]></wf>
+    <wf id="w91" para="1" sent="4" offset="267" length="6"><![CDATA[Wesley]]></wf>
+    <wf id="w92" para="1" sent="4" offset="274" length="2"><![CDATA[de]]></wf>
+    <wf id="w93" para="1" sent="4" offset="277" length="6"><![CDATA[glazen]]></wf>
+    <wf id="w94" para="1" sent="4" offset="284" length="5"><![CDATA[World]]></wf>
+    <wf id="w95" para="1" sent="4" offset="290" length="4"><![CDATA[Bowl]]></wf>
+    <wf id="w96" para="1" sent="4" offset="295" length="1"><![CDATA[.]]></wf>
+    <wf id="w104" para="2" sent="5" offset="297" length="4"><![CDATA[FOTO]]></wf>
+    <wf id="w105" para="2" sent="5" offset="302" length="2"><![CDATA[AP]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="American" pos="name" morphofeat="SPEC(vreemd)">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="footballclub" pos="name" morphofeat="SPEC(vreemd)">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Berlin" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="Thunder" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="hebben" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="World" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Bowl" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="veroveren" pos="verb" morphofeat="WW(vd,vrij,zonder)">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t20" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="finale" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="Arena" pos="name" morphofeat="N(eigen,ev,basis,zijd,stan)">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="Amsterdam" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="verslaan" pos="verb" morphofeat="WW(pv,verl,ev)">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Duits" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="ploeg" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="favoriet" pos="adj" morphofeat="ADJ(prenom,basis,met-e,stan)">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Barcelona" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="Dragons" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="met" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="24" pos="num" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="-" pos="num" morphofeat="LET()">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="17" pos="num" morphofeat="TW(hoofd,vrij)">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t62" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="competitie" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="hebben" pos="verb" morphofeat="WW(pv,verl,ev)">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="Berlin" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="twee" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="keer" pos="noun" morphofeat="N(soort,ev,basis,genus,stan)">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="verliezen" pos="verb" morphofeat="WW(vd,vrij,zonder)">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="van" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="Spanjaard" pos="noun" morphofeat="N(eigen,mv,basis)">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t86" lemma="op" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="foto" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="kussen" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="Joe" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="Wesley" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="glazen" pos="adj" morphofeat="ADJ(prenom,basis,zonder)">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="World" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="Bowl" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t104" lemma="foto" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="AP" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+  </terms>
+  <srl>
+    <predicate id="p1">
+      <span>
+        <target id="t9"/>
+      </span>
+      <role id="s1" semRole="Arg1">
+        <span>
+          <target id="t6"/>
+          <target id="t7"/>
+          <target id="t8"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p2">
+      <span>
+        <target id="t29"/>
+      </span>
+      <role id="s2" semRole="Arg0">
+        <span>
+          <target id="t30"/>
+          <target id="t31"/>
+          <target id="t32"/>
+        </span>
+      </role>
+      <role id="s3" semRole="ArgM-LOC">
+        <span>
+          <target id="t20"/>
+          <target id="t21"/>
+          <target id="t22"/>
+          <target id="t23"/>
+          <target id="t24"/>
+          <target id="t25"/>
+          <target id="t26"/>
+          <target id="t27"/>
+        </span>
+      </role>
+      <role id="s4" semRole="Arg1">
+        <span>
+          <target id="t33"/>
+          <target id="t34"/>
+          <target id="t35"/>
+          <target id="t36"/>
+        </span>
+      </role>
+      <role id="s5" semRole="ArgM-MNR">
+        <span>
+          <target id="t37"/>
+          <target id="t38"/>
+          <target id="t39"/>
+          <target id="t40"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p3">
+      <span>
+        <target id="t69"/>
+      </span>
+      <role id="s6" semRole="ArgM-TMP">
+        <span>
+          <target id="t67"/>
+          <target id="t68"/>
+        </span>
+      </role>
+      <role id="s7" semRole="Arg2">
+        <span>
+          <target id="t70"/>
+          <target id="t71"/>
+          <target id="t72"/>
+        </span>
+      </role>
+      <role id="s8" semRole="ArgM-LOC">
+        <span>
+          <target id="t62"/>
+          <target id="t63"/>
+          <target id="t64"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p4">
+      <span>
+        <target id="t89"/>
+      </span>
+      <role id="s9" semRole="Arg0">
+        <span>
+          <target id="t90"/>
+          <target id="t91"/>
+        </span>
+      </role>
+      <role id="s10" semRole="ArgM-LOC">
+        <span>
+          <target id="t86"/>
+          <target id="t87"/>
+          <target id="t88"/>
+        </span>
+      </role>
+      <role id="s11" semRole="Arg1">
+        <span>
+          <target id="t92"/>
+          <target id="t93"/>
+          <target id="t94"/>
+          <target id="t95"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+</NAF>

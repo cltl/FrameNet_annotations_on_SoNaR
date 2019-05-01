@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl">
+  <raw><![CDATA[ TORONTO - Het Nederlands cricketteam heeft de openingswedstrijd in de ICC Trophy , het WK voor B-landen , winnend afgesloten . De Verenigde Arabische Emiraten werden met 90 runs verschil verslagen . De tegenstander had halverwege nog de beste papieren en gooide Nederland uit voor slechts 144 runs .]]></raw>
+  <nafHeader>
+    <fileDesc title="WR-P-P-H-0000000016"/>
+    <linguisticProcessors layer="text">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:53:08CEST" beginTimestamp="2016-10-10T21:53:08CEST" endTimestamp="2016-10-10T21:53:08CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:53:08CEST" beginTimestamp="2016-10-10T21:53:08CEST" endTimestamp="2016-10-10T21:53:08CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="srl">
+      <lp name="vua-sonar2naf" version="0.1" timestamp="2016-10-10T21:53:08CEST" beginTimestamp="2016-10-10T21:53:08CEST" endTimestamp="2016-10-10T21:53:08CEST" hostname="Antskes-MacBook-Pro.local"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <text>
+    <wf id="w1" para="1" sent="1" offset="0" length="7"><![CDATA[TORONTO]]></wf>
+    <wf id="w2" para="1" sent="1" offset="8" length="1"><![CDATA[-]]></wf>
+    <wf id="w4" para="1" sent="2" offset="10" length="3"><![CDATA[Het]]></wf>
+    <wf id="w5" para="1" sent="2" offset="14" length="10"><![CDATA[Nederlands]]></wf>
+    <wf id="w6" para="1" sent="2" offset="25" length="11"><![CDATA[cricketteam]]></wf>
+    <wf id="w7" para="1" sent="2" offset="37" length="5"><![CDATA[heeft]]></wf>
+    <wf id="w8" para="1" sent="2" offset="43" length="2"><![CDATA[de]]></wf>
+    <wf id="w9" para="1" sent="2" offset="46" length="17"><![CDATA[openingswedstrijd]]></wf>
+    <wf id="w10" para="1" sent="2" offset="64" length="2"><![CDATA[in]]></wf>
+    <wf id="w11" para="1" sent="2" offset="67" length="2"><![CDATA[de]]></wf>
+    <wf id="w12" para="1" sent="2" offset="70" length="3"><![CDATA[ICC]]></wf>
+    <wf id="w13" para="1" sent="2" offset="74" length="6"><![CDATA[Trophy]]></wf>
+    <wf id="w14" para="1" sent="2" offset="81" length="1"><![CDATA[,]]></wf>
+    <wf id="w15" para="1" sent="2" offset="83" length="3"><![CDATA[het]]></wf>
+    <wf id="w16" para="1" sent="2" offset="87" length="2"><![CDATA[WK]]></wf>
+    <wf id="w17" para="1" sent="2" offset="90" length="4"><![CDATA[voor]]></wf>
+    <wf id="w18" para="1" sent="2" offset="95" length="8"><![CDATA[B-landen]]></wf>
+    <wf id="w19" para="1" sent="2" offset="104" length="1"><![CDATA[,]]></wf>
+    <wf id="w20" para="1" sent="2" offset="106" length="7"><![CDATA[winnend]]></wf>
+    <wf id="w21" para="1" sent="2" offset="114" length="10"><![CDATA[afgesloten]]></wf>
+    <wf id="w22" para="1" sent="2" offset="125" length="1"><![CDATA[.]]></wf>
+    <wf id="w48" para="1" sent="3" offset="127" length="2"><![CDATA[De]]></wf>
+    <wf id="w49" para="1" sent="3" offset="130" length="9"><![CDATA[Verenigde]]></wf>
+    <wf id="w50" para="1" sent="3" offset="140" length="9"><![CDATA[Arabische]]></wf>
+    <wf id="w51" para="1" sent="3" offset="150" length="8"><![CDATA[Emiraten]]></wf>
+    <wf id="w52" para="1" sent="3" offset="159" length="6"><![CDATA[werden]]></wf>
+    <wf id="w53" para="1" sent="3" offset="166" length="3"><![CDATA[met]]></wf>
+    <wf id="w54" para="1" sent="3" offset="170" length="2"><![CDATA[90]]></wf>
+    <wf id="w55" para="1" sent="3" offset="173" length="4"><![CDATA[runs]]></wf>
+    <wf id="w56" para="1" sent="3" offset="178" length="8"><![CDATA[verschil]]></wf>
+    <wf id="w57" para="1" sent="3" offset="187" length="9"><![CDATA[verslagen]]></wf>
+    <wf id="w58" para="1" sent="3" offset="197" length="1"><![CDATA[.]]></wf>
+    <wf id="w67" para="1" sent="4" offset="199" length="2"><![CDATA[De]]></wf>
+    <wf id="w68" para="1" sent="4" offset="202" length="12"><![CDATA[tegenstander]]></wf>
+    <wf id="w69" para="1" sent="4" offset="215" length="3"><![CDATA[had]]></wf>
+    <wf id="w70" para="1" sent="4" offset="219" length="10"><![CDATA[halverwege]]></wf>
+    <wf id="w71" para="1" sent="4" offset="230" length="3"><![CDATA[nog]]></wf>
+    <wf id="w72" para="1" sent="4" offset="234" length="2"><![CDATA[de]]></wf>
+    <wf id="w73" para="1" sent="4" offset="237" length="5"><![CDATA[beste]]></wf>
+    <wf id="w74" para="1" sent="4" offset="243" length="8"><![CDATA[papieren]]></wf>
+    <wf id="w75" para="1" sent="4" offset="252" length="2"><![CDATA[en]]></wf>
+    <wf id="w76" para="1" sent="4" offset="255" length="6"><![CDATA[gooide]]></wf>
+    <wf id="w77" para="1" sent="4" offset="262" length="9"><![CDATA[Nederland]]></wf>
+    <wf id="w78" para="1" sent="4" offset="272" length="3"><![CDATA[uit]]></wf>
+    <wf id="w79" para="1" sent="4" offset="276" length="4"><![CDATA[voor]]></wf>
+    <wf id="w80" para="1" sent="4" offset="281" length="7"><![CDATA[slechts]]></wf>
+    <wf id="w81" para="1" sent="4" offset="289" length="3"><![CDATA[144]]></wf>
+    <wf id="w82" para="1" sent="4" offset="293" length="4"><![CDATA[runs]]></wf>
+    <wf id="w83" para="1" sent="4" offset="298" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="Toronto" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="-" pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t4" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="Nederlands" pos="adj" morphofeat="ADJ(prenom,basis,zonder)">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="cricketteam" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="hebben" pos="verb" morphofeat="WW(pv,tgw,met-t)">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="openingswedstrijd" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="in" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="ICC" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="Trophy" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="het" pos="det" morphofeat="LID(bep,stan,evon)">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="wk" pos="noun" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="voor" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="B-land" pos="name" morphofeat="N(eigen,mv,basis)">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="," pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="winnen" pos="adj" morphofeat="WW(od,vrij,zonder)">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="afsluiten" pos="verb" morphofeat="WW(vd,vrij,zonder)">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t48" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="Verenigde" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="Arabische" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="Emiraten" pos="name" morphofeat="SPEC(deeleigen)">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="worden" pos="verb" morphofeat="WW(pv,verl,mv)">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="met" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="90" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="run" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="verschil" pos="noun" morphofeat="N(soort,ev,basis,onz,stan)">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="verslag" pos="verb" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t67" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="tegenstander" pos="noun" morphofeat="N(soort,ev,basis,zijd,stan)">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="hebben" pos="verb" morphofeat="WW(pv,verl,ev)">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="halverwege" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="nog" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="de" pos="det" morphofeat="LID(bep,stan,rest)">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="goed" pos="adj" morphofeat="ADJ(prenom,sup,met-e,stan)">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="papier" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="en" pos="vg" morphofeat="VG(neven)">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="gooien" pos="verb" morphofeat="WW(pv,verl,ev)">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="Nederland" pos="name" morphofeat="N(eigen,ev,basis,onz,stan)">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="uit" pos="part" morphofeat="VZ(fin)">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="voor" pos="prep" morphofeat="VZ(init)">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="slechts" pos="adv" morphofeat="BW()">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="144" pos="num" morphofeat="TW(hoofd,prenom,stan)">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="run" pos="noun" morphofeat="N(soort,mv,basis)">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="." pos="punct" morphofeat="LET()">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+  </terms>
+  <srl>
+    <predicate id="p1">
+      <span>
+        <target id="t21"/>
+      </span>
+      <role id="s1" semRole="ArgM-MNR">
+        <span>
+          <target id="t20"/>
+        </span>
+      </role>
+      <role id="s2" semRole="Arg1">
+        <span>
+          <target id="t8"/>
+          <target id="t9"/>
+          <target id="t10"/>
+          <target id="t11"/>
+          <target id="t12"/>
+          <target id="t13"/>
+          <target id="t15"/>
+          <target id="t16"/>
+          <target id="t17"/>
+          <target id="t18"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p2">
+      <span>
+        <target id="t57"/>
+      </span>
+      <role id="s3" semRole="ArgM-MNR">
+        <span>
+          <target id="t53"/>
+          <target id="t54"/>
+          <target id="t55"/>
+          <target id="t56"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="p3">
+      <span>
+        <target id="t76"/>
+      </span>
+      <role id="s4" semRole="ArgM-PNC">
+        <span>
+          <target id="t79"/>
+          <target id="t80"/>
+          <target id="t81"/>
+          <target id="t82"/>
+        </span>
+      </role>
+      <role id="s5" semRole="Arg1">
+        <span>
+          <target id="t77"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+</NAF>

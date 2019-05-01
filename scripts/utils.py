@@ -2,6 +2,28 @@ from sonar_classes import Frame, FrameElement
 from lxml import etree
 
 
+def load_index2lemma_from_naf(naf_doc):
+    """
+    load index of token to corresponding lemma (from terms/term layer)
+
+    :param lxml.etree._ElementTree naf_doc: naf file loaded with lxml.etree
+
+    :rtype: dict
+    :return: token index -> {'lexeme', 'lemma'}
+    """
+    wid2lemma = {term_el.get('id').replace('t', 'w'): term_el.get('lemma')
+                 for term_el in naf_doc.xpath('terms/term')}
+
+    index2info = dict()
+    for index, w_el in enumerate(naf_doc.xpath('text/wf')):
+        info = {
+            'lexeme': w_el.text,
+            'lemma': wid2lemma[w_el.get('id')]
+        }
+        index2info[index] = info
+
+    return index2info
+
 def load_token(a_token_el):
     """
     load token el into dict
@@ -22,18 +44,21 @@ token_el = etree.fromstring('<token number="1" sentence="2" t_id="7">Methodes</t
 assert load_token(token_el) == {'number': '1', 'sentence': '2', 't_id': '7', 'text': 'Methodes'}
 
 
-def load_all_tokens(the_doc):
+def load_all_tokens(the_doc, index2lemma):
     """
     loop over all 'token' elements and load them into dict
 
     :param lxml.etree._ElementTree the_doc: result of etree.parse('')
+    :param dict index2lemma: see output load_index2lemma_from_naf
 
     :rtype: dict
     :return: mapping t_id -> output function 'load_token'
     """
     t_id2token_info = dict()
-    for token_el in the_doc.xpath('token'):
+    for index, token_el in enumerate(the_doc.xpath('token')):
+        lemma = index2lemma[index]['lemma']
         token_info = load_token(token_el)
+        token_info['lemma'] = lemma
         t_id2token_info[token_info['t_id']] = token_info
 
     return t_id2token_info
