@@ -18,7 +18,7 @@ def load_index2lemma_from_naf(naf_doc):
     for index, w_el in enumerate(naf_doc.xpath('text/wf')):
         info = {
             'lexeme': w_el.text,
-            'lemma': wid2lemma[w_el.get('id')]
+            'lemma': wid2lemma[w_el.get('id')],
         }
         index2info[index] = info
 

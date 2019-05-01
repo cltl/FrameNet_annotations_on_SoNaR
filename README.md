@@ -34,7 +34,7 @@ This creates for the annotation of one annotator a dictionary mapping:
 * **Marten Postma** (m.c.postma@vu.nl)
 
 ## TODO
-* obtain lemma and morphofeat information from original SoNaR corpus
+* obtain pos and morphofeat information from original SoNaR corpus
 
 ## License
 This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
