@@ -34,7 +34,6 @@ This creates for the annotation of one annotator a dictionary mapping:
 * **Marten Postma** (m.c.postma@vu.nl)
 
 ## TODO
-* obtain pos and morphofeat information from original SoNaR corpus
-
+* the mapping in **utils.cat_pos2fn_pos** is done on a practical basis, it can be expanded.
 ## License
 This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details

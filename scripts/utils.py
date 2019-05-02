@@ -2,23 +2,46 @@ from sonar_classes import Frame, FrameElement
 from lxml import etree
 
 
-def load_index2lemma_from_naf(naf_doc):
+cat_pos2fn_pos = {
+    'adj' : 'A',
+    'adv' : 'ADV',
+    'det' : 'ART',
+    'noun' : 'NUM',
+    'prep' : 'PREP',
+    'pron' : 'PRON',
+    'verb' : 'V',
+    'vg' : 'C'
+}
+
+def load_index2term_info(naf_doc):
     """
     load index of token to corresponding lemma (from terms/term layer)
 
     :param lxml.etree._ElementTree naf_doc: naf file loaded with lxml.etree
 
     :rtype: dict
-    :return: token index -> {'lexeme', 'lemma'}
+    :return: token index -> {'lexeme', 'lemma', 'original_pos', 'fn_pos'}
     """
-    wid2lemma = {term_el.get('id').replace('t', 'w'): term_el.get('lemma')
-                 for term_el in naf_doc.xpath('terms/term')}
+    wid2lemma_pos = dict()
+    for term_el in naf_doc.xpath('terms/term'):
+        wid = term_el.get('id').replace('t', 'w')
+        lemma = term_el.get('lemma')
+        pos = term_el.get('pos')
+        fn_pos = 'o'
+        if pos in cat_pos2fn_pos:
+            fn_pos = cat_pos2fn_pos[pos]
+
+        wid2lemma_pos[wid] = (lemma, pos, fn_pos)
 
     index2info = dict()
     for index, w_el in enumerate(naf_doc.xpath('text/wf')):
+        wid = w_el.get('id')
+        lemma, pos, fn_pos = wid2lemma_pos[wid]
         info = {
             'lexeme': w_el.text,
-            'lemma': wid2lemma[w_el.get('id')],
+            'lemma': lemma,
+            'original_pos' : pos,
+            'fn_pos' : fn_pos
         }
         index2info[index] = info
 
@@ -44,21 +67,23 @@ token_el = etree.fromstring('<token number="1" sentence="2" t_id="7">Methodes</t
 assert load_token(token_el) == {'number': '1', 'sentence': '2', 't_id': '7', 'text': 'Methodes'}
 
 
-def load_all_tokens(the_doc, index2lemma):
+def load_all_tokens(the_doc, index2term_info):
     """
     loop over all 'token' elements and load them into dict
 
     :param lxml.etree._ElementTree the_doc: result of etree.parse('')
-    :param dict index2lemma: see output load_index2lemma_from_naf
+    :param dict index2term_info: see output load_index2term_info
 
     :rtype: dict
     :return: mapping t_id -> output function 'load_token'
     """
     t_id2token_info = dict()
     for index, token_el in enumerate(the_doc.xpath('token')):
-        lemma = index2lemma[index]['lemma']
+        term_info = index2term_info[index]
         token_info = load_token(token_el)
-        token_info['lemma'] = lemma
+        token_info['lemma'] = term_info['lemma']
+        token_info['original_pos'] = term_info['original_pos']
+        token_info['fn_pos'] = term_info['fn_pos']
         t_id2token_info[token_info['t_id']] = token_info
 
     return t_id2token_info

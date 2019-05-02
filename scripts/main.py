@@ -48,9 +48,9 @@ for path in glob(f'../corpus/{annotator}/*xml'):
     doc_name = base
 
     # load information about lemmatization from naf
-    index2lemma = utils.load_index2lemma_from_naf(naf_doc)
+    index2term_info = utils.load_index2term_info(naf_doc)
 
-    t_id2token_info = utils.load_all_tokens(cat_doc, index2lemma)
+    t_id2token_info = utils.load_all_tokens(cat_doc, index2term_info)
     m_id2frame_obj = utils.load_event_mentions(cat_doc,
                                                doc_name,
                                                t_id2token_info)
