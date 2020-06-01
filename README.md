@@ -1,5 +1,7 @@
 # Dutch FrameNet annotations on SoNaR corpus
 
+We extended the PropBank annotation of the SoNaR corpus with FrameNet1.7 frames and frame-elements. The annotation was funded through the Vossen-Spinoza project [Understanding-Language-By-Machines][http://www.understandinglanguagebymachines.org].
+
 The goal of this repository is load the FrameNet annotations on the Dutch corpus SoNaR into Python classes.
 
 ### Prerequisites
